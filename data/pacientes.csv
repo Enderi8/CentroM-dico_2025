@@ -1,0 +1,3142 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P00176,Miguel Mendoza,13,NA,Surco,Cardiología,27/01/2021,871.25
+P02212,Ana Torres,28,NA,NA,Emergencia,15/09/2025,550.05
+P00242,José Flores,41,F,NA,Rayos X,31/12/2024,
+P01022,María Castillo,30,F,Miraflores,Vacunación,13/04/2024,113.47
+P01961,NA,73,F,San Isidro,Rayos X,19/07/2024,827.46
+P01126,María Ramos,19,NA,Miraflores,Odontología,01/05/2023,509.27
+P00666,NA,19,NA,NA,Odontología,28/12/2020,NA
+P00011,Lucía Castillo,52,F,NA,Cardiología,14/07/2025,563.63
+P00055,María Ramos,75,NA,NA,,NA,108.86
+P02954,María Pérez,-5,NA,Miraflores,Otro,12/05/2026,-50
+P01346,Miguel Gómez,79,NA,San Isidro,Vacunación,14/03/2023,983.05
+P00163,Rosa Mendoza,NA,F,San Isidro,Vacunación,23/01/2022,70.32
+P02548,José Torres,48,F,Lince,Emergencia,13/05/2023,523.42
+P00056,Lucía Gómez,65,M,Surco,Consulta General,08/01/2025,356.56
+P01548,Ana Ramos,32,M,La Molina,Cardiología,02/01/2021,419.34
+P00819,Javier Mendoza,32,NA,NA,Rayos X,12/08/2021,547.92
+P01409,Miguel Ramos,75,F,San Isidro,Rayos X,19/02/2018,419.42
+P00320,Pedro Mendoza,82,NA,NA,Cardiología,01/11/2020,271.72
+P02695,Javier Castillo,5,M,Callao,Emergencia,NA,304.71
+P00996,Carmen Fernández,50,NA,Callao,Cardiología,05/07/2025,240.05
+P00010,Ana Mendoza,71,NA,Surco,Consulta General,29/04/2020,492.03
+P02640,Carmen Fernández,78,M,San Isidro,Consulta General,,173.92
+P00488,Miguel Vargas,70,M,San Isidro,Consulta General,28/11/2024,485.82
+P02021,Javier Ramos,,M,La Molina,Pediatría,NA,731.93
+P02858,José Mendoza,134,X,Miraflores,Vacunación,29/12/2033,728.63
+P01239,José Mendoza,9,NA,Lince,Rayos X,02/07/2023,634.81
+P02739,Javier Ruiz,63,M,Miraflores,Consulta General,03/01/2021,150.13
+P02076,Pedro Fernández,54,F,Comas,Consulta General,30/04/2021,120.14
+P02647,Ana Ruiz,51,,NA,Rayos X,19/12/2022,250.22
+P02432,Carlos Fernández,65,F,La Molina,,,504.86
+P00494,Miguel Vargas,41,NA,La Molina,Odontología,27/03/2018,NA
+P00854,Miguel Mendoza,55,M,Lince,NA,23/04/2019,982.68
+P02211,Ana Vargas,67,F,NA,Emergencia,15/12/2018,721.09
+P00318,Lucía Mendoza,65,M,San Isidro,Odontología,09/09/2019,489.86
+P02826,Patricia Fernández,52,NA,Callao,Emergencia,20/03/2021,110.26
+P01697,Lucía Mendoza,22,NA,Miraflores,Cardiología,,722.4
+P02890,Carlos Pérez,179,NA,La Molina,Cardiología,06/07/2034,-50
+P01952,María Pérez,51,NA,Comas,Cardiología,NA,266.27
+P02241,María Fernández,4,NA,Callao,Vacunación,,352.17
+P02581,Pedro Vargas,29,F,Comas,Vacunación,05/04/2022,586.25
+P02117,Ana Castillo,62,F,La Molina,Emergencia,28/02/2020,942.8
+P00191,María Mendoza,60,NA,Lince,Consulta General,23/05/2019,178.58
+P02658,José Castillo,61,NA,Comas,Cardiología,04/05/2025,768.4
+P02892,Javier Castillo,162,M,Callao,Emergencia,18/03/2027,567.75
+P00020,Lucía Flores,,M,Miraflores,Odontología,27/12/2024,793.58
+P02295,Carlos Vargas,69,NA,San Isidro,Vacunación,30/09/2018,601.52
+P00752,Javier Torres,26,NA,Comas,Vacunación,09/03/2020,522.19
+P02992,Ana Ruiz,-1,F,Miraflores,Odontología,01/12/2031,-50
+P00317,José Ruiz,46,M,,Emergencia,19/01/2025,554.16
+P01571,Patricia Fernández,5,NA,La Molina,Pediatría,13/09/2019,883.75
+P00877,Miguel Gómez,NA,F,Comas,Rayos X,15/06/2025,848.88
+P01211,María Flores,84,M,Miraflores,Cardiología,,550.21
+P00784,Rosa Vargas,13,F,Surco,Rayos X,09/04/2025,916.07
+P01257,María Mendoza,48,F,NA,Odontología,26/12/2020,95.6
+P00762,Carmen Pérez,51,NA,Surco,Pediatría,01/02/2021,798.73
+P01965,Carmen Vargas,58,F,Surco,,16/03/2018,
+P01105,José Castillo,85,M,La Molina,Cardiología,15/03/2023,872.03
+P00655,Pedro Castillo,59,M,La Molina,Vacunación,24/05/2024,449.14
+P00457,José Castillo,5,NA,La Molina,Vacunación,12/06/2018,271.56
+P01244,José Ruiz,12,NA,La Molina,Pediatría,28/04/2023,469.48
+P01107,María Ruiz,34,F,NA,,30/01/2023,999.13
+P00406,José Mendoza,73,F,Surco,Rayos X,11/10/2025,272.87
+P01341,Ana Pérez,13,NA,Lince,Rayos X,29/01/2018,566.45
+P00539,Lucía Gómez,59,NA,Lince,Emergencia,22/07/2023,995.52
+P02969,José Mendoza,169,X,San Isidro,Emergencia,24/03/2029,-50
+P01541,José Vargas,61,F,Comas,Pediatría,,928.2
+P01838,José Gómez,84,F,Lince,Pediatría,04/08/2020,333.54
+P01681,Javier Pérez,,F,San Isidro,Cardiología,10/04/2019,685.63
+P02082,Ana Ramos,53,F,Callao,Rayos X,21/07/2023,699.39
+P02792,Luis Castillo,34,F,Miraflores,Odontología,01/01/2025,577.6
+P00217,,86,NA,Surco,Emergencia,05/05/2018,
+P02159,José Vargas,25,M,Lince,Rayos X,22/05/2024,587.15
+P00145,Miguel Pérez,89,M,Comas,NA,28/11/2020,932.56
+P01693,Ana Ramos,12,F,La Molina,NA,28/03/2021,157.17
+P02820,María Fernández,,,La Molina,NA,10/04/2022,868.03
+P02532,Luis Vargas,70,F,San Isidro,Rayos X,26/05/2025,800.4
+P01442,José Castillo,78,F,San Isidro,NA,02/04/2024,644.74
+P02893,Luis Vargas,197,F,Miraflores,Consulta General,06/05/2031,0
+P02533,Carmen Vargas,19,NA,Lince,Rayos X,22/02/2019,629.2
+P01233,Javier Vargas,41,F,Miraflores,Consulta General,21/04/2021,402.35
+P01120,Patricia Gómez,61,M,Miraflores,Odontología,16/03/2022,218.43
+P01953,José Flores,44,M,La Molina,Vacunación,31/05/2024,NA
+P02310,Rosa Vargas,88,M,Lince,Emergencia,17/09/2021,170.5
+P00738,Lucía Vargas,32,F,Miraflores,Rayos X,26/06/2021,526.9
+P02793,Miguel Fernández,20,NA,Callao,Consulta General,13/05/2018,600.88
+P00283,,5,M,Miraflores,NA,30/10/2023,321.75
+P00810,Patricia Flores,75,F,La Molina,Consulta General,19/10/2024,685.43
+P02248,Patricia Mendoza,60,M,Lince,Rayos X,10/10/2019,291.24
+P01018,Javier Castillo,62,NA,,Odontología,27/10/2021,
+P00523,Rosa Ruiz,71,F,La Molina,Consulta General,28/08/2025,457.41
+P00792,Carlos Fernández,58,F,La Molina,Odontología,NA,966.12
+P00068,Carmen Fernández,77,NA,San Isidro,Vacunación,09/09/2022,631.54
+P02553,Luis Mendoza,89,NA,Lince,Consulta General,22/06/2025,497.02
+P00257,Pedro Ramos,26,F,Comas,Vacunación,22/05/2019,91.71
+P02237,Lucía Fernández,65,M,Miraflores,,11/12/2021,475.72
+P00204,José Mendoza,47,NA,NA,Pediatría,24/09/2018,455.76
+P01196,NA,48,M,La Molina,Cardiología,13/08/2018,730.41
+P00047,José Flores,13,M,Surco,Pediatría,15/07/2019,555.68
+P01809,Javier Pérez,23,M,Comas,NA,13/09/2025,706.74
+P02526,Rosa Ramos,56,M,Miraflores,Odontología,09/06/2018,608.8
+P02376,Rosa Vargas,49,NA,Miraflores,Rayos X,29/06/2024,
+P00351,Lucía Vargas,15,,Miraflores,Rayos X,05/09/2024,658.55
+P02187,Javier Fernández,75,M,Callao,Odontología,14/02/2021,74.4
+P01784,Luis Gómez,7,NA,San Isidro,Rayos X,14/03/2019,201.63
+P00691,María Fernández,8,NA,Comas,Emergencia,12/08/2021,413.08
+P02850,NA,56,NA,Miraflores,Rayos X,03/03/2020,409.38
+P02467,Miguel Ramos,68,NA,San Isidro,Pediatría,01/11/2025,975.94
+P00609,Ana Castillo,54,NA,NA,Rayos X,15/08/2018,253.53
+P01731,Javier Torres,NA,NA,Surco,NA,22/07/2024,324.01
+P02768,Javier Flores,55,M,NA,Odontología,30/01/2020,309.37
+P00723,Rosa Ramos,25,F,,Rayos X,07/02/2024,272.71
+P02417,Javier Ramos,71,F,NA,Rayos X,10/02/2019,760.4
+P02016,Ana Castillo,NA,M,Miraflores,Rayos X,07/01/2019,147.48
+P01303,,1,F,Lince,Cardiología,27/03/2024,710.05
+P01942,Pedro Gómez,63,NA,San Isidro,Cardiología,13/09/2018,24.72
+P00940,NA,71,M,La Molina,Cardiología,15/08/2018,705.39
+P01457,María Ramos,2,F,Lince,Emergencia,NA,516.54
+P00122,Miguel Pérez,,NA,NA,Rayos X,11/07/2018,430.67
+P02715,José Pérez,41,NA,Callao,Vacunación,17/01/2020,315.93
+P00478,NA,32,M,Lince,Consulta General,01/05/2019,905.51
+P00197,Lucía Ruiz,25,M,La Molina,NA,19/12/2022,690.31
+P00137,Carmen Castillo,,M,San Isidro,NA,12/07/2019,261.45
+P01447,Ana Torres,8,NA,Miraflores,Pediatría,07/05/2021,382.91
+P02244,José Vargas,10,M,San Isidro,Vacunación,14/12/2025,537.5
+P02188,Patricia Pérez,34,NA,NA,Consulta General,21/01/2018,842.96
+P02858,Ana Castillo,179,NA,Lince,Vacunación,26/09/2030,0
+P00447,Rosa Torres,18,F,NA,Vacunación,24/08/2021,749.82
+P02611,José Ramos,63,NA,NA,NA,17/01/2019,983.3
+P02720,Javier Castillo,46,,Surco,Emergencia,19/01/2018,986.18
+P02650,Javier Pérez,54,M,Callao,Odontología,11/11/2018,834.49
+P01988,Luis Fernández,,M,Callao,Odontología,12/09/2021,774.06
+P00642,José Torres,25,M,San Isidro,Pediatría,15/12/2023,378.1
+P02783,José Gómez,41,M,San Isidro,NA,14/06/2021,876.57
+P00622,Javier Castillo,75,M,La Molina,NA,29/10/2021,228.72
+P00926,Rosa Torres,9,M,La Molina,Pediatría,20/07/2024,984.26
+P02901,Carmen Mendoza,161,F,Lince,Otro,25/04/2028,-50
+P02297,Javier Ruiz,25,NA,San Isidro,Cardiología,14/09/2019,744.91
+P00198,Patricia Fernández,21,F,Callao,Emergencia,17/07/2019,862.87
+P02979,Ana Mendoza,-19,X,Callao,Emergencia,20/11/2028,0
+P01621,Miguel Torres,NA,F,Surco,Vacunación,31/05/2018,605.15
+P01601,Rosa Torres,38,F,NA,Emergencia,31/01/2022,875.83
+P02637,Miguel Ruiz,14,F,Callao,Pediatría,25/07/2018,410.48
+P01453,Javier Pérez,83,M,Comas,Cardiología,20/09/2022,60.39
+P02592,Javier Pérez,27,F,NA,Rayos X,24/01/2020,67.27
+P02969,Rosa Ruiz,181,X,Lince,Emergencia,23/03/2030,158.98
+P00012,NA,40,M,,Consulta General,31/07/2023,
+P00747,Rosa Fernández,38,M,Miraflores,Emergencia,29/03/2023,965.77
+P01188,María Ramos,44,NA,Callao,NA,07/06/2018,766.32
+P02484,Javier Flores,20,F,La Molina,NA,04/01/2022,733.88
+P01388,José Ruiz,46,F,,Cardiología,06/12/2025,627.69
+P02309,Javier Castillo,9,M,Callao,Consulta General,06/06/2022,521.05
+P00816,Miguel Pérez,20,M,NA,Vacunación,27/12/2025,539.52
+P02047,Miguel Pérez,8,F,Miraflores,Rayos X,01/10/2025,845.44
+P01468,Patricia Pérez,67,NA,La Molina,Rayos X,27/07/2024,618.89
+P02644,Lucía Vargas,24,NA,Surco,NA,08/01/2019,469.18
+P02020,NA,9,F,Comas,Vacunación,16/08/2025,784.49
+P02813,Patricia Vargas,81,F,La Molina,Rayos X,10/03/2021,685.97
+P02518,María Fernández,73,NA,Comas,Consulta General,20/01/2023,319.6
+P02243,Lucía Mendoza,62,F,Miraflores,Cardiología,30/04/2023,891.19
+P01267,Javier Mendoza,50,NA,Surco,Odontología,15/02/2021,367.58
+P00172,Luis Vargas,62,NA,NA,Odontología,29/04/2024,519.11
+P00729,José Torres,77,F,La Molina,Emergencia,06/07/2020,432.79
+P01436,José Flores,67,M,San Isidro,Odontología,31/01/2018,552.05
+P01035,Ana Castillo,75,F,La Molina,Pediatría,NA,884.4
+P00733,Carlos Fernández,38,F,Callao,Rayos X,26/08/2019,270.05
+P02751,,17,M,La Molina,Odontología,06/02/2025,117.49
+P00244,NA,55,NA,Lince,Emergencia,16/11/2023,705.99
+P01853,Luis Castillo,NA,NA,Lince,Cardiología,29/11/2018,537.45
+P01270,Carmen Pérez,21,NA,Comas,NA,17/01/2022,911.3
+P00222,María Mendoza,19,NA,Surco,Cardiología,09/08/2025,NA
+P00040,NA,40,F,Lince,Vacunación,14/04/2019,323.49
+P02450,Javier Gómez,47,F,Comas,Cardiología,12/01/2025,44.92
+P01945,Patricia Flores,84,M,Surco,Rayos X,18/05/2023,888.22
+P02575,Pedro Fernández,43,M,Miraflores,Consulta General,18/12/2021,402.18
+P00800,Patricia Ramos,11,M,NA,NA,14/06/2024,210.58
+P02622,Luis Flores,47,F,Lince,Cardiología,16/02/2024,803.31
+P02606,NA,1,F,Callao,Vacunación,01/07/2019,630.6
+P02503,NA,NA,M,NA,,15/04/2018,155.02
+P00234,Carlos Castillo,23,NA,Miraflores,Vacunación,02/03/2024,195.51
+P01281,Rosa Gómez,16,M,Surco,Vacunación,14/02/2025,384.48
+P00683,Pedro Fernández,50,NA,Lince,Rayos X,03/04/2019,26.29
+P02454,Javier Ruiz,76,F,Lince,Rayos X,23/04/2025,
+P02043,Carmen Ruiz,78,NA,Comas,Consulta General,19/03/2020,214.09
+P01870,Javier Fernández,22,,Miraflores,NA,13/11/2023,509.77
+P00572,Patricia Flores,83,M,Callao,Rayos X,06/09/2018,NA
+P00381,Pedro Torres,27,NA,San Isidro,Rayos X,31/03/2021,995.88
+P00214,Carmen Ruiz,28,F,Lince,NA,18/11/2018,392.36
+P01897,,8,NA,San Isidro,Pediatría,17/03/2021,291.42
+P01132,Miguel Mendoza,14,M,La Molina,,07/03/2021,395.18
+P00647,Luis Vargas,5,M,NA,Consulta General,10/05/2018,933.19
+P02585,José Fernández,49,F,La Molina,Vacunación,25/09/2018,33.34
+P02356,María Gómez,23,NA,,Rayos X,08/01/2018,870.15
+P00303,Rosa Pérez,1,M,San Isidro,,11/12/2022,639.14
+P01121,Patricia Gómez,41,F,La Molina,Emergencia,30/06/2023,345.77
+P01421,Miguel Torres,85,F,La Molina,Pediatría,31/07/2020,248.23
+P01467,NA,89,M,Comas,Rayos X,22/10/2025,671.64
+P01308,Patricia Ramos,,F,NA,Rayos X,07/10/2019,892.67
+P02151,Patricia Flores,71,NA,Callao,NA,18/03/2025,798.86
+P00389,Carmen Fernández,27,F,Surco,Vacunación,22/11/2019,442.4
+P02977,Miguel Torres,-17,X,Lince,Rayos X,05/04/2026,-50
+P02179,Javier Pérez,13,M,San Isidro,NA,NA,588.35
+P00962,José Ruiz,9,F,Surco,NA,16/02/2024,NA
+P02960,Carmen Gómez,-5,NA,Comas,Cardiología,16/01/2031,60.95
+P01091,Carlos Ramos,74,F,Surco,Rayos X,07/10/2022,148.73
+P02229,María Castillo,69,NA,La Molina,Emergencia,16/02/2021,334.05
+P01248,Patricia Castillo,59,NA,San Isidro,Rayos X,04/10/2024,807.82
+P00112,Miguel Castillo,67,NA,Comas,Emergencia,31/10/2018,779.42
+P02239,,79,M,Miraflores,Emergencia,14/06/2018,756.66
+P01875,Pedro Flores,,F,La Molina,Cardiología,08/12/2020,715.61
+P02312,Ana Flores,24,F,Callao,Pediatría,07/10/2018,182.14
+P00695,José Vargas,44,M,Miraflores,NA,02/10/2023,525.64
+P00706,Luis Torres,65,M,Callao,Pediatría,13/05/2022,884.88
+P01094,Pedro Castillo,69,NA,La Molina,Vacunación,30/05/2023,561.41
+P02784,,6,M,Surco,Cardiología,12/02/2025,508.86
+P01771,Luis Fernández,14,NA,NA,NA,15/01/2023,305.02
+P00207,Pedro Fernández,21,F,Comas,Consulta General,28/10/2019,953.69
+P02185,Ana Flores,30,M,Comas,Rayos X,30/03/2022,411.1
+P00226,María Flores,10,NA,La Molina,Consulta General,11/02/2021,216.48
+P01161,María Fernández,73,M,NA,Consulta General,30/06/2022,268.75
+P01554,Carlos Castillo,37,M,La Molina,NA,03/09/2025,680.48
+P00709,María Castillo,55,M,Lince,Vacunación,01/11/2023,884.09
+P00323,Carlos Ramos,10,M,Surco,NA,30/12/2022,554.15
+P00675,Pedro Ramos,18,F,Comas,Cardiología,,41.77
+P00834,Carlos Gómez,28,,La Molina,Vacunación,12/10/2021,803.43
+P02807,Carlos Ruiz,74,M,San Isidro,Odontología,05/07/2022,425.42
+P01581,Miguel Fernández,62,M,Miraflores,Consulta General,15/05/2023,364.73
+P02482,José Gómez,47,M,Callao,Rayos X,03/03/2025,787.9
+P02149,Ana Flores,58,F,La Molina,Pediatría,14/03/2019,NA
+P01594,Luis Castillo,22,M,San Isidro,NA,31/07/2021,814.05
+P02002,José Torres,66,M,Comas,Pediatría,15/05/2020,977.07
+P01134,Carmen Gómez,40,NA,San Isidro,NA,12/08/2020,228.52
+P02800,Lucía Vargas,43,NA,Callao,Emergencia,10/05/2019,64.7
+P01911,,NA,NA,Callao,Vacunación,10/07/2018,84.22
+P02249,Patricia Torres,36,F,La Molina,Emergencia,14/09/2025,261.03
+P00051,Carlos Flores,45,NA,Callao,Cardiología,05/12/2022,654.49
+P02202,Pedro Gómez,16,NA,Lince,Rayos X,09/06/2024,248.17
+P00345,Rosa Pérez,71,NA,Callao,Cardiología,22/01/2023,738.87
+P00321,Carmen Torres,,F,Comas,Consulta General,07/06/2020,46.44
+P00419,María Ruiz,88,F,Miraflores,Emergencia,13/01/2018,806.19
+P02631,Javier Fernández,56,NA,Lince,Vacunación,24/05/2021,150.97
+P00240,Ana Gómez,87,M,NA,Emergencia,17/04/2023,942.73
+P02936,María Fernández,-20,F,San Isidro,Consulta General,05/06/2028,-50
+P00842,Miguel Castillo,89,NA,Callao,NA,09/10/2025,102.21
+P01659,Ana Pérez,46,M,Callao,Cardiología,28/08/2022,263.3
+P01083,Lucía Pérez,43,F,Surco,Cardiología,24/02/2021,766.93
+P00281,Miguel Castillo,31,NA,NA,Emergencia,05/07/2023,718.22
+P02023,Luis Torres,11,M,Lince,Emergencia,,344.14
+P02733,Patricia Ruiz,3,NA,,Consulta General,25/09/2021,399.1
+P00377,Carlos Ramos,52,NA,Surco,,09/04/2018,580.53
+P00824,Rosa Ramos,20,M,La Molina,Emergencia,23/05/2019,53.81
+P00732,Rosa Ramos,49,NA,Comas,Cardiología,20/11/2018,160.74
+P02904,Rosa Torres,-15,M,Desconocido,Cardiología,16/12/2034,0
+P01730,Patricia Torres,80,F,Surco,Emergencia,13/12/2021,225.82
+P01747,Miguel Flores,74,F,Surco,Rayos X,25/05/2021,
+P02483,Patricia Pérez,52,NA,Callao,NA,28/07/2023,307.91
+P00383,Carlos Mendoza,37,F,Callao,Consulta General,03/05/2020,85.64
+P00030,Pedro Flores,44,NA,NA,Cardiología,,792.85
+P01493,Javier Flores,80,M,Miraflores,Cardiología,28/04/2025,571.02
+P02480,Rosa Pérez,13,NA,Comas,NA,22/04/2022,927.42
+P02976,Lucía Ruiz,-8,F,Lince,Rayos X,09/02/2027,634.02
+P01891,,39,NA,La Molina,Rayos X,06/05/2019,
+P02069,Ana Torres,25,F,Callao,Cardiología,06/03/2018,221.38
+P02154,Luis Gómez,62,F,NA,NA,04/10/2023,793.11
+P02933,Carmen Castillo,-1,F,Comas,Cardiología,16/01/2030,0
+P02245,Carlos Vargas,43,F,Miraflores,Pediatría,12/03/2019,535.44
+P02407,Carlos Mendoza,70,F,NA,Vacunación,12/11/2018,92.28
+P01285,Luis Flores,53,F,Comas,Vacunación,17/05/2019,809.69
+P00063,Carlos Fernández,40,NA,Surco,Consulta General,26/12/2019,380.39
+P01647,,21,M,Miraflores,Rayos X,15/01/2024,722.19
+P01253,Carlos Flores,41,NA,San Isidro,NA,05/11/2023,800.95
+P00298,Pedro Mendoza,52,F,NA,Rayos X,11/04/2025,77.57
+P01521,Rosa Vargas,31,M,La Molina,NA,NA,619.17
+P00998,Javier Ruiz,51,NA,Surco,Rayos X,06/01/2018,803.14
+P00030,Pedro Flores,44,NA,NA,Cardiología,,792.85
+P00520,Patricia Mendoza,50,NA,,Cardiología,03/04/2019,620.31
+P02893,Carlos Ruiz,-14,M,San Isidro,Pediatría,11/01/2028,329.77
+P00946,Lucía Pérez,85,NA,Callao,Vacunación,05/03/2025,587.22
+P01736,Ana Mendoza,56,M,Callao,Consulta General,15/10/2024,226.86
+P00255,Carmen Flores,4,F,Callao,Emergencia,12/10/2019,962.6
+P02618,José Torres,26,F,,Odontología,30/09/2018,313.21
+P00026,Carmen Vargas,4,M,NA,Pediatría,18/04/2025,881.54
+P02064,Lucía Mendoza,12,NA,NA,Cardiología,12/03/2019,526.96
+P02370,Rosa Flores,43,NA,NA,Emergencia,30/06/2018,NA
+P01097,Rosa Gómez,45,F,La Molina,Pediatría,24/08/2025,409.22
+P02429,Rosa Castillo,49,M,Lince,Pediatría,28/07/2025,371.34
+P01866,José Ramos,60,F,San Isidro,Vacunación,19/04/2020,663.35
+P00737,Ana Flores,,NA,Comas,Consulta General,14/12/2018,401.43
+P01977,Pedro Ruiz,36,NA,La Molina,Odontología,11/12/2020,245.12
+P00189,Carmen Ramos,14,F,La Molina,Rayos X,18/07/2023,207.01
+P00646,NA,86,NA,NA,,17/11/2018,416.1
+P02305,Javier Ramos,56,NA,NA,Odontología,11/09/2018,775.01
+P02652,Patricia Flores,76,M,,NA,07/03/2020,949.33
+P00896,Javier Gómez,80,F,Surco,Odontología,17/03/2019,192.68
+P02214,Carlos Pérez,19,NA,NA,Emergencia,27/06/2019,37.29
+P02098,Rosa Ramos,19,M,Lince,Rayos X,09/10/2022,
+P01536,Carlos Torres,NA,NA,NA,NA,30/11/2022,840.28
+P00169,Ana Fernández,26,F,Surco,Rayos X,09/10/2025,525.62
+P01751,José Ruiz,24,M,La Molina,NA,23/05/2023,NA
+P00511,Carmen Flores,8,M,NA,NA,07/05/2025,586.49
+P00751,Lucía Vargas,46,NA,NA,Pediatría,11/05/2019,61.66
+P01043,Miguel Gómez,45,M,Comas,Pediatría,25/10/2018,414.42
+P01191,Carmen Mendoza,73,M,La Molina,Rayos X,19/06/2025,936.43
+P02168,,34,NA,Surco,Rayos X,24/01/2025,899.37
+P00412,Patricia Torres,81,NA,Surco,Consulta General,24/08/2024,64.66
+P00428,María Flores,38,NA,Callao,Odontología,15/08/2020,845.81
+P02120,Luis Pérez,74,M,NA,Consulta General,NA,627.1
+P00852,Lucía Mendoza,14,M,Comas,Pediatría,11/11/2018,207.41
+P01927,,70,NA,San Isidro,Emergencia,18/09/2021,616.02
+P02093,Luis Gómez,34,F,NA,Odontología,27/12/2023,828.67
+P01101,Rosa Castillo,71,NA,Lince,Pediatría,09/10/2023,988.34
+P01423,,62,M,Callao,NA,13/04/2025,866.74
+P01319,María Ramos,89,M,Miraflores,Cardiología,03/04/2025,743.41
+P01311,Lucía Mendoza,58,NA,Comas,Consulta General,17/03/2018,731.6
+P01789,José Castillo,45,NA,Surco,NA,12/02/2025,NA
+P02610,Patricia Vargas,76,F,NA,Vacunación,06/10/2020,106.6
+P00535,Pedro Ramos,27,F,Lince,Emergencia,12/09/2021,
+P01710,Rosa Torres,54,F,Callao,Rayos X,08/10/2021,215.34
+P00943,,83,NA,NA,NA,30/08/2021,293.44
+P01032,Luis Fernández,41,M,La Molina,Vacunación,26/06/2020,395.51
+P01825,Rosa Fernández,53,F,,NA,06/11/2019,261.48
+P00411,Miguel Fernández,81,F,Surco,Rayos X,24/10/2019,182.17
+P01318,Miguel Castillo,65,NA,La Molina,Emergencia,28/10/2025,24.47
+P01106,Carlos Gómez,90,NA,Surco,Cardiología,25/07/2023,290.2
+P02015,Lucía Pérez,8,F,Callao,Cardiología,17/12/2024,853.19
+P00075,Carmen Castillo,65,F,NA,Emergencia,21/06/2020,811.71
+P01539,Ana Flores,32,NA,San Isidro,Consulta General,08/02/2018,344.15
+P02824,Pedro Fernández,57,NA,Miraflores,Emergencia,18/09/2021,837.04
+P00957,María Vargas,54,F,Miraflores,Rayos X,28/06/2021,819.0
+P00763,Javier Torres,87,M,NA,Cardiología,09/04/2024,NA
+P02522,,62,NA,Comas,Pediatría,14/03/2025,44.93
+P00422,Patricia Vargas,9,NA,Callao,Consulta General,14/06/2024,190.71
+P00221,Ana Vargas,19,F,Comas,Consulta General,21/05/2018,691.43
+P02638,Luis Pérez,5,M,La Molina,Vacunación,31/07/2019,815.55
+P01508,Lucía Ramos,65,M,Lince,Vacunación,14/10/2018,608.36
+P02024,Carmen Ramos,40,F,Surco,Rayos X,19/01/2024,343.59
+P00862,Pedro Castillo,86,NA,La Molina,Emergencia,02/05/2024,438.55
+P02404,Luis Fernández,35,M,Surco,Pediatría,02/11/2021,726.98
+P02769,Rosa Pérez,8,NA,La Molina,Pediatría,05/02/2019,460.92
+P02061,NA,38,M,Comas,Odontología,28/01/2023,951.43
+P00007,Miguel Castillo,29,,Lince,NA,24/11/2022,584.1
+P01641,José Mendoza,73,F,Miraflores,Cardiología,02/05/2021,548.35
+P01734,Rosa Castillo,17,M,Callao,Pediatría,21/08/2024,265.08
+P00138,Patricia Mendoza,76,M,Comas,Consulta General,19/03/2025,540.86
+P00050,NA,62,NA,Miraflores,Consulta General,05/12/2025,673.78
+P02268,Ana Castillo,2,F,Miraflores,Cardiología,18/10/2018,910.24
+P01777,Carmen Castillo,21,F,Surco,Odontología,26/01/2023,614.96
+P00097,Carmen Ruiz,75,NA,Comas,NA,12/05/2019,903.59
+P00812,,79,NA,Lince,,17/12/2024,647.33
+P00586,Javier Vargas,11,F,Callao,Pediatría,20/07/2022,666.84
+P01637,Ana Vargas,63,NA,Miraflores,Consulta General,17/08/2019,862.21
+P00155,Javier Fernández,,F,,Odontología,20/09/2022,98.38
+P01249,María Flores,68,F,Callao,Odontología,08/12/2020,330.55
+P02286,Lucía Fernández,12,NA,NA,Cardiología,03/09/2019,461.04
+P01640,Patricia Gómez,23,F,Callao,Rayos X,01/12/2021,517.19
+P01163,Ana Mendoza,NA,NA,San Isidro,Vacunación,13/08/2018,280.88
+P02178,Pedro Mendoza,75,NA,Lince,Odontología,31/12/2021,791.45
+P01765,Javier Pérez,58,NA,Miraflores,Vacunación,16/08/2019,996.52
+P01833,,21,F,Lince,NA,,196.82
+P02199,María Ruiz,44,M,Lince,Pediatría,21/06/2021,71.99
+P00385,Lucía Ramos,33,NA,,Rayos X,01/09/2025,966.75
+P02771,Luis Ruiz,62,F,Comas,Consulta General,17/04/2023,231.59
+P01583,Lucía Fernández,42,NA,Miraflores,Pediatría,10/12/2024,375.88
+P01459,Ana Torres,68,NA,Comas,Vacunación,08/05/2018,
+P02261,Carlos Mendoza,79,M,Callao,Consulta General,16/03/2023,582.06
+P02634,Lucía Torres,19,M,Callao,Odontología,21/03/2023,721.04
+P00285,NA,62,F,Callao,Odontología,25/02/2021,880.85
+P00039,NA,44,M,San Isidro,Cardiología,13/12/2020,621.69
+P01272,Lucía Mendoza,79,F,NA,Pediatría,,377.36
+P01578,Carmen Ruiz,53,M,Comas,Rayos X,26/02/2020,993.0
+P00875,Javier Fernández,44,NA,La Molina,Odontología,10/10/2021,292.38
+P00252,Miguel Mendoza,23,NA,Lince,Odontología,19/04/2024,744.21
+P00754,Lucía Ramos,82,F,San Isidro,Cardiología,28/07/2025,148.44
+P02078,María Castillo,36,F,La Molina,Odontología,17/02/2019,524.21
+P02106,Ana Pérez,22,M,San Isidro,Pediatría,03/06/2021,215.81
+P01802,Miguel Fernández,45,NA,San Isidro,Cardiología,22/07/2022,822.93
+P01033,Carlos Fernández,81,NA,La Molina,NA,31/05/2018,310.56
+P00588,Lucía Ruiz,60,,Miraflores,Consulta General,03/12/2019,729.82
+P02624,José Torres,37,M,Miraflores,Rayos X,22/03/2018,379.5
+P02913,Ana Ruiz,185,M,Lince,Pediatría,18/02/2030,-50
+P01808,María Vargas,4,NA,La Molina,Consulta General,08/07/2024,101.9
+P02263,Pedro Fernández,11,M,NA,Cardiología,15/12/2022,802.84
+P02236,Pedro Mendoza,60,NA,Comas,,07/08/2023,779.27
+P00771,Javier Castillo,19,M,San Isidro,Pediatría,25/04/2018,695.51
+P00672,Ana Ramos,59,F,Comas,Cardiología,11/02/2023,708.81
+P02311,Javier Torres,8,M,,Rayos X,13/02/2019,97.4
+P02111,Lucía Fernández,27,F,Callao,Vacunación,16/06/2025,516.84
+P00469,Javier Flores,38,F,Lince,Consulta General,01/09/2024,724.47
+P01140,Lucía Pérez,NA,NA,Callao,Vacunación,10/07/2022,807.23
+P02790,Lucía Ruiz,22,,Callao,Rayos X,16/10/2018,580.88
+P00630,Carmen Gómez,34,F,NA,Odontología,13/11/2018,590.66
+P01166,María Fernández,44,F,Lince,Vacunación,15/07/2023,108.54
+P00991,Lucía Vargas,84,F,La Molina,Cardiología,31/03/2021,503.5
+P02300,Pedro Ruiz,25,F,Miraflores,Odontología,23/03/2018,183.44
+P02416,Carlos Mendoza,74,NA,Lince,Rayos X,19/07/2021,884.23
+P00343,Miguel Torres,42,NA,Comas,Odontología,16/07/2024,48.66
+P02135,Rosa Ruiz,57,NA,Callao,Cardiología,13/02/2023,135.92
+P00596,Patricia Flores,75,F,Surco,Rayos X,11/05/2020,678.49
+P01110,Carmen Vargas,46,M,Miraflores,Odontología,07/12/2024,692.75
+P00879,José Castillo,1,NA,Callao,Cardiología,11/01/2022,455.48
+P00452,Lucía Vargas,36,NA,San Isidro,Rayos X,11/09/2025,372.99
+P00874,José Torres,58,F,Surco,Consulta General,27/02/2023,478.94
+P01186,Javier Torres,86,NA,Surco,Vacunación,07/02/2022,319.67
+P01014,Pedro Gómez,34,M,NA,Emergencia,,189.13
+P01430,Ana Flores,69,F,La Molina,Vacunación,07/04/2020,NA
+P00629,Luis Torres,71,NA,Miraflores,Rayos X,12/12/2019,668.37
+P01216,Miguel Torres,26,F,Callao,Odontología,08/10/2024,474.02
+P01619,Miguel Torres,31,M,NA,Vacunación,15/03/2023,144.33
+P01797,Rosa Fernández,15,NA,San Isidro,Vacunación,20/08/2025,724.82
+P00090,Ana Ruiz,47,NA,NA,Emergencia,07/09/2020,89.55
+P02107,María Ruiz,85,M,La Molina,Consulta General,10/07/2025,966.97
+P00795,Lucía Ruiz,15,NA,San Isidro,Emergencia,02/09/2024,236.59
+P01208,,15,M,San Isidro,NA,23/03/2019,416.98
+P02971,Luis Ruiz,-18,X,Callao,Cardiología,27/07/2033,-50
+P01599,José Castillo,16,F,Surco,Odontología,10/09/2024,952.91
+P01484,María Castillo,10,M,NA,Consulta General,06/04/2023,274.72
+P02564,María Vargas,,F,Surco,Cardiología,24/06/2021,299.03
+P00369,Carmen Vargas,38,F,Comas,Emergencia,13/07/2023,182.75
+P02849,José Ramos,43,M,Surco,NA,26/02/2024,667.32
+P00700,Patricia Pérez,50,F,Lince,Cardiología,21/06/2020,524.15
+P00685,Carlos Ruiz,23,,Callao,Odontología,23/01/2024,198.54
+P01078,Lucía Mendoza,61,F,Lince,Odontología,02/01/2025,655.51
+P01205,Lucía Castillo,67,F,Lince,Vacunación,,706.58
+P01444,José Castillo,29,F,Surco,Cardiología,NA,268.42
+P02654,Javier Torres,12,NA,La Molina,Consulta General,02/08/2020,309.1
+P01758,Patricia Fernández,27,,Comas,Consulta General,18/09/2024,984.75
+P02717,Lucía Mendoza,32,M,La Molina,Rayos X,13/10/2021,828.03
+P01153,María Gómez,17,NA,La Molina,Consulta General,14/10/2024,135.76
+P00855,Pedro Gómez,49,NA,NA,Odontología,30/09/2022,683.27
+P02345,Miguel Ramos,25,NA,Surco,NA,21/01/2021,
+P02740,Lucía Gómez,8,F,San Isidro,NA,25/03/2020,437.62
+P00451,Javier Vargas,52,F,La Molina,NA,15/07/2022,65.01
+P02189,Carlos Ramos,80,F,Comas,NA,09/02/2020,552.89
+P00835,Patricia Gómez,16,F,San Isidro,Vacunación,23/12/2023,685.43
+P00162,Ana Gómez,23,NA,Callao,NA,NA,
+P01435,Miguel Mendoza,56,F,Surco,Vacunación,13/08/2018,686.85
+P02468,Carlos Vargas,59,F,NA,Rayos X,01/02/2024,271.94
+P01381,Carmen Ruiz,19,F,Miraflores,NA,16/10/2020,124.48
+P01195,Rosa Ramos,46,M,Miraflores,NA,10/06/2025,484.77
+P01445,Carlos Ruiz,66,NA,Comas,Vacunación,22/09/2018,672.86
+P00456,Lucía Vargas,60,NA,Lince,Consulta General,20/08/2025,575.83
+P02251,Patricia Gómez,18,M,Callao,Vacunación,17/03/2021,726.07
+P01626,María Torres,69,,Lince,Consulta General,10/02/2022,89.99
+P01997,José Castillo,54,NA,La Molina,NA,23/06/2024,NA
+P01562,Lucía Flores,89,NA,Surco,Cardiología,30/11/2022,951.73
+P00357,María Vargas,7,M,Lince,,NA,879.4
+P02804,María Torres,15,NA,Lince,Rayos X,28/05/2025,31.44
+P02018,Carmen Gómez,50,F,Comas,Vacunación,06/10/2019,942.08
+P00065,Javier Gómez,80,F,San Isidro,Rayos X,23/04/2019,158.34
+P01723,Javier Vargas,13,NA,Miraflores,Emergencia,,596.95
+P00799,Rosa Ramos,68,M,NA,Odontología,06/08/2021,853.27
+P00883,Pedro Ruiz,57,F,NA,Cardiología,,31.4
+P01204,Carlos Mendoza,77,NA,NA,Emergencia,06/04/2018,35.06
+P00295,Carlos Castillo,7,M,Lince,Pediatría,16/03/2019,519.96
+P00448,Miguel Ruiz,44,F,Comas,NA,22/02/2023,958.88
+P02563,Ana Pérez,,F,Callao,Consulta General,28/06/2021,447.82
+P02653,Patricia Castillo,73,M,NA,NA,02/11/2024,719.1
+P02452,Luis Flores,52,F,La Molina,Emergencia,30/11/2019,724.83
+P01165,Javier Mendoza,22,F,Miraflores,Consulta General,04/12/2021,233.06
+P00186,María Flores,61,F,San Isidro,Odontología,10/11/2025,91.01
+P00091,Carlos Fernández,47,M,Comas,Consulta General,01/05/2020,46.12
+P02940,María Torres,-13,X,Lince,Rayos X,14/06/2031,299.51
+P00563,Lucía Torres,4,F,Comas,Rayos X,26/10/2019,335.76
+P02213,Carmen Fernández,59,M,NA,NA,07/06/2025,825.98
+P00272,Ana Ruiz,57,F,La Molina,Cardiología,03/06/2021,
+P02677,Luis Flores,47,M,Surco,NA,10/02/2022,855.08
+P02595,Luis Castillo,54,NA,San Isidro,Cardiología,06/12/2021,877.09
+P02562,Ana Fernández,,F,Surco,Pediatría,,843.18
+P02876,Patricia Flores,162,NA,Comas,Pediatría,27/03/2028,-50
+P02412,José Torres,48,F,Surco,Rayos X,14/02/2022,556.47
+P00087,Javier Gómez,39,M,Surco,Odontología,19/10/2025,758.17
+P00479,José Vargas,47,F,Miraflores,Consulta General,18/04/2022,669.12
+P02025,Luis Ruiz,56,M,,Emergencia,30/10/2021,920.09
+P02471,Pedro Torres,32,M,Surco,NA,30/01/2018,987.06
+P00467,Miguel Ramos,86,F,NA,NA,09/04/2018,278.1
+P01105,José Castillo,85,M,La Molina,Cardiología,15/03/2023,872.03
+P02864,José Fernández,164,NA,San Isidro,Emergencia,30/03/2034,0
+P00165,Carmen Gómez,30,NA,Comas,Emergencia,NA,538.02
+P00778,Ana Vargas,59,NA,NA,Rayos X,18/09/2025,453.39
+P01799,Patricia Pérez,38,F,Surco,Emergencia,,187.44
+P02434,Rosa Fernández,15,NA,Miraflores,Rayos X,28/08/2019,155.96
+P01036,Lucía Castillo,46,NA,San Isidro,Odontología,28/06/2024,638.88
+P01465,,24,NA,Surco,NA,04/10/2018,319.95
+P00200,Pedro Castillo,86,NA,Callao,Vacunación,,998.0
+P00840,Lucía Mendoza,51,NA,NA,Cardiología,13/01/2020,567.58
+P01676,Rosa Pérez,18,M,Comas,Pediatría,NA,769.15
+P01234,María Ramos,8,M,NA,Cardiología,02/12/2023,307.57
+P01652,Patricia Pérez,67,F,Surco,Emergencia,13/02/2024,750.59
+P01768,Carmen Mendoza,46,NA,Miraflores,Cardiología,27/09/2024,765.2
+P02398,Javier Gómez,62,M,NA,Pediatría,20/02/2020,882.64
+P00913,Carlos Fernández,,M,Surco,,23/03/2020,400.87
+P00238,José Mendoza,72,F,NA,NA,NA,352.98
+P01389,Patricia Ramos,53,M,Miraflores,,17/10/2024,154.98
+P02384,,87,M,NA,Vacunación,08/10/2019,788.57
+P02227,Carlos Pérez,10,F,La Molina,Consulta General,28/04/2024,394.63
+P01964,,15,F,NA,NA,28/04/2025,133.97
+P02349,María Fernández,65,NA,Comas,Consulta General,25/11/2019,
+P02426,NA,5,NA,Lince,Odontología,NA,598.2
+P00313,Miguel Flores,87,M,Miraflores,Odontología,23/04/2023,735.38
+P01335,Rosa Castillo,NA,NA,San Isidro,,NA,496.12
+P00757,Carmen Torres,56,M,Callao,Cardiología,11/05/2023,998.22
+P01633,NA,26,F,Surco,Consulta General,11/05/2025,962.16
+P00166,Ana Torres,15,M,Lince,Cardiología,29/01/2024,992.21
+P01092,Patricia Gómez,63,NA,Surco,Emergencia,17/02/2021,113.98
+P00104,Javier Mendoza,42,F,,Pediatría,25/06/2024,
+P01740,José Ramos,84,NA,Surco,Pediatría,11/01/2021,248.69
+P00542,Luis Mendoza,15,F,NA,Odontología,15/01/2020,598.69
+P01334,María Pérez,19,NA,Surco,NA,24/09/2022,764.44
+P02754,Rosa Pérez,6,M,La Molina,Odontología,19/08/2022,205.8
+P01845,María Fernández,38,F,La Molina,Pediatría,25/01/2019,704.94
+P01944,María Ramos,28,F,San Isidro,Odontología,22/12/2024,808.5
+P02764,María Pérez,29,F,La Molina,Consulta General,,491.84
+P02451,Miguel Mendoza,53,NA,Lince,NA,12/09/2022,995.16
+P01227,Miguel Ruiz,17,M,San Isidro,Vacunación,27/05/2025,897.36
+P00844,Javier Castillo,6,NA,NA,Rayos X,23/10/2021,776.12
+P01695,Carlos Fernández,9,,San Isidro,Emergencia,01/11/2022,631.62
+P02031,Carlos Ruiz,12,F,NA,Pediatría,14/09/2022,310.79
+P01571,Patricia Fernández,5,NA,La Molina,Pediatría,13/09/2019,883.75
+P00021,Carmen Pérez,68,F,NA,Emergencia,19/02/2025,612.76
+P01946,Pedro Mendoza,36,NA,Comas,Vacunación,23/01/2019,737.12
+P00965,Miguel Ramos,47,NA,Lince,Rayos X,07/03/2023,314.15
+P02381,Carlos Gómez,34,M,San Isidro,Consulta General,03/03/2024,284.61
+P01898,Miguel Mendoza,82,M,NA,Consulta General,26/06/2020,896.92
+P00299,Patricia Fernández,84,M,La Molina,Odontología,02/06/2024,587.7
+P02681,José Torres,26,F,NA,NA,10/11/2020,885.44
+P01665,,,M,La Molina,Emergencia,31/05/2021,NA
+P02741,María Fernández,51,F,,Consulta General,04/03/2023,854.23
+P00005,NA,NA,NA,NA,Cardiología,04/09/2022,432.46
+P02085,Ana Flores,43,M,Callao,Consulta General,20/08/2024,921.52
+P02254,Carlos Castillo,75,M,Lince,Cardiología,13/04/2022,509.39
+P02816,Carlos Mendoza,NA,F,Callao,Odontología,12/02/2024,208.39
+P02386,Carlos Pérez,17,M,NA,Odontología,28/07/2020,682.4
+P02119,María Torres,3,F,,NA,22/11/2024,231.81
+P00508,Javier Castillo,22,F,La Molina,Cardiología,17/04/2024,859.27
+P01384,Ana Pérez,79,F,Surco,Emergencia,11/04/2024,388.03
+P02392,Ana Mendoza,53,NA,Surco,Rayos X,10/02/2019,214.16
+P01219,Ana Mendoza,69,M,Lince,NA,01/10/2022,NA
+P02815,Luis Gómez,57,NA,Miraflores,Emergencia,23/09/2025,626.98
+P00330,Luis Torres,26,F,La Molina,NA,20/10/2019,856.55
+P02017,Carmen Mendoza,11,M,Surco,Rayos X,13/04/2018,NA
+P01490,José Vargas,,M,Miraflores,Cardiología,19/11/2020,844.06
+P00329,José Gómez,26,NA,Lince,Consulta General,10/04/2023,741.28
+P01373,Ana Vargas,70,F,Surco,Emergencia,10/12/2022,960.56
+P01549,Luis Ramos,80,M,Miraflores,NA,23/04/2019,535.47
+P01093,José Castillo,NA,M,Callao,Vacunación,12/08/2024,307.63
+P00454,Rosa Castillo,85,M,,Rayos X,29/07/2020,664.42
+P02051,Luis Fernández,55,F,La Molina,Pediatría,17/07/2025,661.99
+P01114,Miguel Mendoza,86,NA,Comas,Odontología,03/08/2024,620.68
+P02435,María Castillo,61,NA,Callao,Cardiología,,858.76
+P01461,María Flores,60,F,Callao,Odontología,14/04/2020,597.35
+P01350,Ana Vargas,43,F,Callao,Vacunación,24/11/2018,901.7
+P02377,Patricia Flores,88,,La Molina,Vacunación,06/03/2025,276.74
+P02880,Patricia Fernández,164,NA,Lince,Rayos X,17/02/2032,-50
+P00019,Pedro Fernández,50,NA,Miraflores,Rayos X,21/06/2020,58.83
+P00549,Ana Flores,76,M,Surco,Consulta General,15/06/2021,266.65
+P01935,Patricia Torres,70,F,Lince,Rayos X,14/11/2020,234.84
+P00851,Miguel Gómez,12,F,Miraflores,Vacunación,16/06/2023,602.01
+P01007,Lucía Flores,58,M,Lince,Cardiología,10/04/2019,73.41
+P01352,Miguel Torres,76,F,La Molina,Cardiología,13/12/2021,131.86
+P01139,NA,90,M,La Molina,Rayos X,08/09/2023,796.46
+P00487,,66,F,Callao,Odontología,18/01/2018,78.15
+P01231,José Castillo,48,F,Lince,Rayos X,24/11/2024,699.99
+P02663,Pedro Torres,48,F,La Molina,NA,30/03/2025,465.79
+P00358,Luis Fernández,38,M,Surco,Emergencia,13/04/2024,54.24
+P01075,María Vargas,28,F,Comas,Cardiología,11/01/2025,262.77
+P01732,Rosa Ramos,56,F,Callao,Consulta General,19/03/2025,914.96
+P00484,Patricia Castillo,30,F,Lince,Pediatría,07/05/2023,36.75
+P01271,Ana Ramos,88,NA,NA,Rayos X,21/08/2022,463.22
+P02722,Pedro Pérez,80,NA,Surco,Cardiología,19/06/2023,154.17
+P01371,Miguel Mendoza,41,M,San Isidro,NA,11/03/2025,918.86
+P01353,Lucía Pérez,,F,La Molina,Emergencia,01/02/2024,405.77
+P00496,Pedro Fernández,85,F,Miraflores,Emergencia,25/12/2020,724.54
+P01609,Miguel Vargas,51,M,NA,,03/09/2020,569.46
+P02044,Patricia Pérez,86,F,Miraflores,Rayos X,06/11/2018,205.97
+P02164,Lucía Gómez,37,F,La Molina,Odontología,22/03/2025,838.46
+P02746,Javier Castillo,74,F,La Molina,Odontología,01/09/2025,113.42
+P01491,Carlos Castillo,12,F,NA,Consulta General,05/07/2022,103.77
+P02257,Ana Ruiz,7,,Surco,Emergencia,18/10/2023,551.53
+P00064,Miguel Vargas,44,NA,Callao,Pediatría,03/08/2023,145.75
+P02158,Ana Vargas,19,F,Lince,Cardiología,07/03/2019,527.96
+P02470,Miguel Gómez,45,,Callao,Pediatría,29/10/2020,605.28
+P01029,Carlos Flores,NA,NA,Lince,Pediatría,11/10/2025,530.27
+P02795,Javier Ramos,34,NA,NA,Pediatría,07/10/2025,357.08
+P01690,Carmen Flores,27,F,Miraflores,Odontología,29/11/2025,69.98
+P00256,Luis Fernández,,F,San Isidro,Odontología,01/06/2025,548.42
+P02937,José Fernández,184,M,Callao,Odontología,30/01/2026,902.7
+P02633,María Torres,48,F,Lince,Pediatría,12/02/2023,854.74
+P00890,José Castillo,88,NA,Surco,Rayos X,14/01/2025,946.28
+P01689,Javier Ramos,44,M,Lince,Vacunación,28/10/2019,550.35
+P02028,José Castillo,90,M,La Molina,Vacunación,13/09/2019,850.57
+P00811,Patricia Vargas,37,F,San Isidro,,17/10/2025,27.1
+P02692,Miguel Ruiz,70,M,Callao,Consulta General,23/06/2025,994.65
+P01111,Pedro Flores,80,M,Miraflores,Consulta General,NA,116.73
+P02971,María Torres,124,F,Surco,Odontología,05/07/2030,664.3
+P00141,María Vargas,25,M,San Isidro,Vacunación,07/10/2022,378.29
+P02869,Rosa Vargas,149,X,San Isidro,Rayos X,24/07/2031,-50
+P02958,José Gómez,178,F,Comas,Cardiología,20/03/2026,899.11
+P00370,Patricia Vargas,43,F,Comas,Consulta General,22/03/2025,970.9
+P02034,Patricia Castillo,34,NA,Miraflores,Consulta General,05/05/2020,202.6
+P02858,Carmen Vargas,-15,X,NA,Otro,28/01/2033,0
+P00371,Patricia Gómez,71,M,Comas,Cardiología,21/11/2023,
+P01226,Carmen Flores,18,NA,Comas,NA,02/10/2018,635.67
+P01966,Javier Flores,78,F,Lince,NA,30/01/2020,94.36
+P01656,Pedro Ramos,79,M,NA,Emergencia,19/02/2021,143.33
+P02242,Pedro Fernández,41,F,Comas,NA,27/10/2020,25.02
+P02756,Lucía Castillo,37,F,NA,Rayos X,20/10/2024,974.28
+P01950,Pedro Castillo,14,M,Surco,Emergencia,06/09/2022,750.14
+P01177,Carmen Gómez,57,M,Surco,Cardiología,31/12/2020,775.33
+P00977,Pedro Fernández,11,NA,Miraflores,Pediatría,18/11/2021,494.2
+P01607,Carlos Pérez,65,NA,Comas,Consulta General,31/01/2025,521.23
+P00181,,61,F,Callao,NA,29/01/2022,699.53
+P00463,Lucía Pérez,7,NA,Lince,Rayos X,02/08/2022,560.48
+P00113,Rosa Ramos,13,NA,Miraflores,Pediatría,10/04/2023,606.59
+P00129,Javier Castillo,39,NA,Miraflores,NA,30/09/2020,276.82
+P02737,Javier Castillo,37,NA,NA,Rayos X,NA,290.67
+P01201,Javier Gómez,86,NA,San Isidro,Emergencia,NA,853.78
+P01158,Pedro Gómez,12,M,La Molina,Pediatría,23/11/2024,192.74
+P00405,Carlos Fernández,62,F,NA,NA,21/02/2022,264.99
+P01910,José Flores,67,M,Surco,Emergencia,05/04/2025,801.1
+P02535,Carmen Mendoza,4,M,NA,NA,06/01/2021,208.34
+P00409,Miguel Flores,19,M,Lince,NA,09/02/2021,307.77
+P02589,Luis Ramos,38,F,Lince,,19/06/2020,952.57
+P01858,Pedro Gómez,89,F,Miraflores,NA,15/10/2019,103.85
+P00384,Rosa Vargas,90,NA,,Emergencia,02/02/2024,135.68
+P00651,Javier Gómez,,F,Lince,Cardiología,16/05/2019,452.89
+P02380,María Ramos,35,M,Comas,Odontología,02/04/2018,443.61
+P00391,Patricia Mendoza,28,M,,Emergencia,14/03/2019,929.85
+P02600,Miguel Flores,20,M,Callao,Consulta General,27/07/2023,91.74
+P02686,Patricia Ramos,NA,,Miraflores,NA,02/06/2018,994.97
+P02208,Patricia Pérez,75,NA,San Isidro,Pediatría,03/06/2024,200.66
+P00184,Patricia Ramos,75,NA,Comas,Emergencia,14/04/2025,215.83
+P01579,Carlos Vargas,26,M,NA,Consulta General,18/06/2021,568.84
+P00579,Patricia Flores,64,NA,San Isidro,Consulta General,31/12/2020,345.51
+P01260,Miguel Pérez,24,F,Callao,Emergencia,21/01/2023,85.21
+P02659,Lucía Gómez,44,,Miraflores,,21/12/2019,NA
+P01563,María Vargas,48,F,Comas,Vacunación,28/11/2024,255.36
+P00884,Rosa Pérez,6,M,Lince,Rayos X,05/01/2024,924.43
+P00576,Javier Fernández,30,F,,Emergencia,05/03/2020,895.58
+P00782,Carlos Torres,86,M,Miraflores,NA,12/07/2019,796.95
+P00450,Carlos Pérez,48,F,Comas,Vacunación,03/11/2019,914.05
+P00031,Javier Flores,33,NA,Comas,NA,02/01/2022,26.11
+P02177,Carmen Pérez,6,NA,Lince,Odontología,24/05/2019,782.04
+P01704,Lucía Gómez,52,NA,Lince,NA,10/06/2021,
+P01167,José Mendoza,2,NA,,Odontología,27/01/2024,533.72
+P02105,,47,NA,San Isidro,NA,23/08/2020,587.53
+P00159,María Ruiz,15,NA,La Molina,Vacunación,13/06/2018,51.44
+P00365,Carmen Ramos,30,F,Surco,Pediatría,30/06/2018,202.78
+P00794,Ana Fernández,2,F,NA,Cardiología,25/07/2023,297.75
+P01175,Carlos Ramos,32,M,Callao,Vacunación,29/07/2019,698.18
+P00791,Patricia Mendoza,17,NA,NA,Vacunación,01/02/2022,897.18
+P02931,Pedro Fernández,140,X,Miraflores,Odontología,03/05/2027,-50
+P00080,Patricia Pérez,48,F,Miraflores,Vacunación,13/07/2022,137.79
+P00657,Rosa Gómez,,F,NA,Odontología,07/09/2020,183.09
+P02472,Pedro Castillo,NA,NA,Comas,NA,22/11/2022,846.55
+P02036,Lucía Torres,89,M,Surco,Emergencia,05/01/2024,98.88
+P00601,Patricia Pérez,NA,F,Surco,Consulta General,23/09/2024,969.07
+P00809,Miguel Torres,63,NA,Miraflores,Emergencia,15/03/2023,354.41
+P00107,NA,1,,Callao,Vacunación,07/02/2024,548.95
+P02118,José Vargas,38,M,La Molina,Consulta General,29/07/2023,355.92
+P02836,,28,NA,Miraflores,Consulta General,21/01/2022,526.12
+P00662,Ana Torres,24,F,NA,Odontología,04/05/2025,732.43
+P01756,Lucía Mendoza,86,M,La Molina,Emergencia,12/12/2021,145.9
+P01403,Ana Castillo,24,M,Callao,Consulta General,10/12/2024,357.0
+P02501,Pedro Pérez,17,M,La Molina,Vacunación,23/05/2021,761.17
+P01378,Miguel Mendoza,1,,Miraflores,Odontología,12/10/2018,756.95
+P00337,Javier Flores,68,F,San Isidro,Emergencia,17/07/2020,92.31
+P02247,Luis Ruiz,26,F,,Pediatría,06/07/2025,760.88
+P01355,Javier Gómez,53,NA,Comas,Emergencia,08/02/2022,538.7
+P02350,Carlos Ramos,36,F,Callao,Rayos X,09/02/2022,
+P02657,,42,F,Surco,Consulta General,24/06/2025,173.31
+P02753,Miguel Pérez,68,NA,San Isidro,Rayos X,27/02/2025,175.38
+P02326,Carlos Gómez,48,M,Surco,Cardiología,23/01/2021,898.4
+P02942,José Gómez,-4,F,Surco,Pediatría,02/06/2033,-50
+P01393,Luis Ruiz,84,M,Callao,Consulta General,NA,679.38
+P01170,Lucía Torres,15,NA,Surco,NA,21/07/2020,381.24
+P02796,Carlos Ruiz,16,NA,Callao,Vacunación,05/10/2021,862.34
+P02704,José Castillo,30,M,La Molina,NA,28/11/2020,
+P00259,Rosa Fernández,7,NA,Callao,Vacunación,28/11/2025,NA
+P02866,Ana Flores,-16,X,Miraflores,Otro,23/05/2027,976.71
+P01405,Ana Mendoza,90,M,Callao,Emergencia,31/12/2018,899.36
+P00787,Pedro Fernández,3,F,Comas,Emergencia,07/11/2024,639.08
+P00939,María Ramos,25,F,Callao,Vacunación,05/10/2021,704.29
+P02436,Pedro Gómez,24,NA,Callao,,NA,138.79
+P02442,Lucía Gómez,45,F,Miraflores,Consulta General,15/11/2021,464.18
+P02403,Lucía Torres,86,F,San Isidro,Rayos X,07/06/2025,167.59
+P02536,Rosa Castillo,76,M,Comas,Rayos X,27/12/2024,775.55
+P00023,Miguel Fernández,4,NA,Miraflores,Cardiología,12/10/2025,94.97
+P01327,Pedro Fernández,71,F,Comas,Rayos X,NA,412.77
+P02025,Luis Ruiz,56,M,,Emergencia,30/10/2021,920.09
+P01925,Ana Torres,34,F,NA,Vacunación,09/03/2022,537.33
+P01145,Carmen Torres,62,F,Callao,Rayos X,16/02/2024,558.59
+P00558,Patricia Flores,40,M,Lince,Vacunación,26/06/2024,549.42
+P01198,Lucía Vargas,44,M,NA,Emergencia,16/08/2025,754.05
+P01979,Ana Vargas,11,,,Consulta General,17/06/2021,681.42
+P02013,Rosa Castillo,77,NA,San Isidro,Vacunación,10/10/2024,531.45
+P00440,Carmen Pérez,54,M,La Molina,Vacunación,11/06/2018,143.6
+P01432,Lucía Gómez,83,F,Comas,Pediatría,20/06/2025,153.28
+P01781,Rosa Torres,27,F,Surco,Cardiología,05/06/2025,109.22
+P00331,Ana Castillo,75,F,NA,,,624.34
+P00716,José Pérez,60,NA,NA,Odontología,14/01/2024,900.81
+P02166,Luis Gómez,49,M,Surco,Cardiología,NA,
+P02058,Lucía Ruiz,4,NA,Miraflores,Rayos X,08/12/2024,143.03
+P02203,Rosa Mendoza,22,NA,La Molina,Consulta General,18/02/2021,81.23
+P01469,Pedro Ramos,40,NA,Comas,Emergencia,08/12/2025,301.89
+P00081,Carmen Torres,80,NA,NA,Emergencia,16/07/2020,NA
+P01801,Javier Flores,85,F,Comas,NA,23/06/2022,781.1
+P00790,María Vargas,,M,San Isidro,Odontología,15/08/2021,270.89
+P01026,Rosa Vargas,38,F,NA,Odontología,30/10/2018,676.39
+P01042,Rosa Castillo,77,M,NA,Pediatría,25/09/2022,586.74
+P02334,,46,F,Surco,Rayos X,12/02/2025,26.83
+P01486,Luis Ruiz,63,,NA,Vacunación,12/06/2024,804.87
+P00125,,NA,M,Miraflores,Consulta General,14/02/2022,652.78
+P00759,Javier Vargas,67,F,Lince,,08/09/2019,904.25
+P02388,María Pérez,NA,M,NA,Pediatría,04/05/2022,522.96
+P01328,Ana Ramos,11,M,NA,Consulta General,20/10/2018,933.86
+P01826,Luis Torres,61,M,Lince,Odontología,19/07/2024,339.0
+P00241,,51,F,NA,Cardiología,20/06/2021,577.79
+P01714,María Ruiz,73,M,Miraflores,Rayos X,09/04/2020,490.14
+P02459,María Mendoza,NA,NA,Miraflores,Vacunación,,408.02
+P02559,Ana Torres,59,NA,Callao,Cardiología,27/04/2024,305.47
+P02264,Miguel Torres,41,F,Callao,NA,20/10/2021,66.07
+P02840,María Pérez,26,F,Surco,Pediatría,09/02/2022,464.79
+P01811,Pedro Ramos,61,M,Comas,Consulta General,23/12/2022,629.33
+P00060,José Ramos,55,M,Comas,Odontología,28/10/2021,746.84
+P01365,María Pérez,19,F,Lince,NA,26/01/2021,975.66
+P02750,Luis Flores,45,F,Lince,NA,,869.76
+P02174,Javier Torres,20,NA,San Isidro,Consulta General,26/11/2021,479.54
+P02062,Javier Fernández,88,F,NA,Emergencia,19/12/2020,482.62
+P02842,Luis Castillo,67,M,Lince,Cardiología,29/10/2018,80.51
+P00623,Patricia Mendoza,62,F,Comas,Emergencia,NA,737.79
+P00923,Pedro Flores,47,M,Callao,NA,29/06/2020,301.16
+P00850,Luis Flores,87,M,Lince,Vacunación,07/02/2022,897.43
+P02271,Miguel Gómez,5,M,Surco,Vacunación,28/09/2023,492.81
+P01060,Pedro Ruiz,87,F,San Isidro,Vacunación,05/02/2021,932.0
+P00004,Ana Pérez,87,F,Miraflores,Odontología,09/03/2019,862.52
+P01999,Carmen Gómez,NA,M,San Isidro,Cardiología,21/07/2020,560.9
+P02833,María Fernández,58,NA,Miraflores,Emergencia,06/04/2024,34.48
+P02318,Miguel Gómez,69,NA,Comas,Consulta General,,287.52
+P02150,José Fernández,,M,San Isidro,Emergencia,30/08/2024,865.98
+P01062,,39,F,NA,Consulta General,29/05/2020,NA
+P02716,Pedro Gómez,39,NA,NA,Consulta General,NA,279.55
+P01293,Patricia Castillo,75,F,Lince,Pediatría,21/11/2022,711.04
+P01183,Miguel Castillo,,NA,Miraflores,NA,NA,102.24
+P00925,Luis Torres,17,M,Lince,Cardiología,28/10/2021,965.16
+P00126,Miguel Castillo,19,NA,La Molina,NA,18/02/2025,857.87
+P00424,Ana Castillo,11,NA,Callao,Emergencia,18/06/2023,858.88
+P01846,Miguel Ruiz,53,NA,Miraflores,Consulta General,11/11/2019,NA
+P01181,Luis Flores,57,NA,San Isidro,Odontología,21/07/2024,276.65
+P00387,Patricia Castillo,53,F,Lince,NA,02/07/2020,
+P02042,Patricia Vargas,NA,NA,,NA,05/06/2022,973.08
+P01160,,,F,Callao,Consulta General,,321.98
+P02538,Miguel Torres,57,M,NA,Vacunación,26/04/2022,399.07
+P02010,Pedro Vargas,75,NA,Miraflores,Emergencia,03/12/2025,701.44
+P01535,Luis Mendoza,62,NA,Miraflores,Odontología,17/06/2019,460.78
+P01638,Lucía Mendoza,6,F,San Isidro,Pediatría,26/09/2019,
+P01255,Rosa Pérez,39,M,San Isidro,Consulta General,29/09/2020,419.17
+P02815,Luis Gómez,57,NA,Miraflores,Emergencia,23/09/2025,626.98
+P00717,Miguel Pérez,52,F,Miraflores,NA,27/07/2020,368.01
+P02923,Lucía Ruiz,130,M,Comas,NA,03/10/2033,-50
+P02313,Patricia Fernández,14,F,Comas,Emergencia,01/07/2018,159.08
+P01071,Pedro Castillo,22,NA,San Isidro,NA,23/02/2024,100.87
+P00522,NA,34,F,Lince,Cardiología,20/01/2023,119.02
+P01835,José Torres,41,M,Lince,,16/09/2018,415.76
+P02723,Luis Ruiz,50,M,Surco,NA,13/12/2021,263.9
+P00270,Luis Torres,87,,San Isidro,Odontología,04/06/2025,367.59
+P01390,Pedro Vargas,23,M,Comas,NA,11/12/2020,520.87
+P00650,Luis Castillo,86,NA,Lince,Consulta General,11/07/2025,484.86
+P00124,Javier Flores,17,NA,NA,NA,NA,40.41
+P01408,Javier Vargas,47,M,Lince,Emergencia,19/04/2022,298.74
+P00354,José Mendoza,61,F,NA,Consulta General,08/11/2021,65.18
+P00390,Carlos Ruiz,66,NA,NA,Rayos X,18/09/2021,556.11
+P02545,Miguel Castillo,16,F,Surco,Emergencia,07/07/2022,878.01
+P01872,Lucía Gómez,75,M,Miraflores,Pediatría,26/02/2022,579.5
+P02070,Miguel Fernández,82,NA,Lince,Odontología,20/06/2022,756.01
+P02432,Carlos Fernández,65,F,La Molina,,,504.86
+P02420,Lucía Torres,53,M,Surco,Odontología,25/02/2025,401.63
+P00624,José Vargas,33,F,Callao,Vacunación,02/09/2018,93.06
+P02161,Patricia Fernández,68,NA,NA,Odontología,12/11/2019,449.04
+P02479,Ana Mendoza,43,M,Callao,Cardiología,01/08/2019,
+P01339,Luis Ramos,72,NA,Callao,Odontología,16/12/2025,508.28
+P00797,Pedro Fernández,NA,NA,Comas,Pediatría,12/07/2025,913.97
+P02335,Carlos Torres,23,M,Lince,NA,18/09/2018,NA
+P01628,Miguel Ramos,30,NA,Surco,Odontología,15/04/2019,974.35
+P01292,Ana Torres,3,M,Comas,Emergencia,15/05/2023,28.4
+P01243,NA,74,NA,Callao,Rayos X,22/03/2018,
+P02825,Ana Gómez,27,F,La Molina,Pediatría,19/05/2021,977.08
+P02530,José Mendoza,28,NA,Lince,Pediatría,12/08/2025,784.14
+P01045,Lucía Pérez,82,NA,Callao,Vacunación,21/12/2018,81.65
+P01520,María Ruiz,22,NA,La Molina,Odontología,15/12/2024,914.28
+P01982,,25,NA,Comas,Consulta General,27/09/2018,948.49
+P02007,Rosa Mendoza,7,F,Surco,Consulta General,06/02/2019,550.24
+P02985,Ana Flores,-13,F,NA,,01/04/2034,0
+P02906,Ana Torres,124,NA,NA,Otro,28/02/2032,805.17
+P01263,Rosa Mendoza,32,F,La Molina,Vacunación,01/06/2024,933.33
+P00512,Javier Mendoza,58,,La Molina,Cardiología,27/12/2018,420.05
+P02128,José Pérez,,M,Comas,Consulta General,12/06/2024,144.26
+P01259,Ana Flores,56,M,NA,Vacunación,22/04/2023,581.91
+P00352,,73,M,Comas,Cardiología,06/07/2019,841.93
+P00681,Ana Flores,1,,La Molina,Pediatría,11/06/2025,613.88
+P01692,Pedro Flores,37,M,Callao,Consulta General,17/12/2020,161.9
+P00291,José Gómez,84,F,Comas,Pediatría,22/08/2025,517.49
+P00779,Carmen Ruiz,1,F,Lince,Vacunación,14/04/2020,258.17
+P01017,María Vargas,49,M,Miraflores,Rayos X,05/11/2020,288.5
+P02230,Ana Castillo,13,NA,La Molina,Odontología,26/01/2019,731.26
+P02950,Miguel Mendoza,197,M,La Molina,Emergencia,16/03/2032,181.26
+P00175,Carmen Ramos,21,NA,San Isidro,Pediatría,24/04/2023,645.3
+P02523,Ana Mendoza,23,M,Callao,Pediatría,06/05/2024,NA
+P00434,Ana Fernández,24,F,Callao,Odontología,11/01/2024,315.14
+P00814,Patricia Fernández,85,F,Surco,,28/09/2023,377.76
+P01200,Patricia Mendoza,1,M,NA,NA,10/04/2020,651.51
+P01902,José Vargas,87,M,San Isidro,NA,18/01/2018,270.61
+P02461,Patricia Castillo,82,M,Lince,NA,24/04/2018,21.7
+P02030,Carmen Gómez,85,NA,San Isidro,Rayos X,07/12/2022,656.35
+P02277,Miguel Torres,63,M,Lince,Emergencia,06/07/2018,528.1
+P00686,José Castillo,12,NA,Surco,Emergencia,20/06/2019,576.37
+P01776,José Ruiz,90,F,Comas,Consulta General,14/11/2020,735.37
+P01591,Carlos Ruiz,65,F,Lince,Cardiología,NA,685.88
+P02666,Rosa Fernández,71,NA,Lince,Emergencia,22/04/2022,758.8
+P00720,Patricia Flores,11,F,Lince,Rayos X,30/05/2019,691.24
+P00243,Carlos Mendoza,71,F,La Molina,Emergencia,14/09/2022,802.21
+P01722,,68,M,San Isidro,Consulta General,07/02/2018,831.65
+P02847,Patricia Gómez,6,NA,Callao,Rayos X,12/11/2019,883.76
+P01837,Rosa Fernández,16,NA,Lince,NA,15/07/2024,NA
+P01294,Pedro Vargas,87,M,NA,Cardiología,NA,939.89
+P01989,Rosa Castillo,90,NA,Surco,NA,19/08/2021,91.62
+P00324,Ana Pérez,83,F,NA,Pediatría,24/11/2018,344.18
+P00210,Lucía Mendoza,NA,NA,NA,Odontología,25/04/2018,541.08
+P01085,José Flores,18,NA,Lince,Odontología,13/04/2025,755.62
+P01528,José Flores,82,M,Comas,Odontología,05/12/2020,465.27
+P00100,Lucía Vargas,64,F,Callao,Cardiología,15/04/2021,21.94
+P01016,José Fernández,40,,San Isidro,Rayos X,11/06/2025,611.64
+P02843,NA,41,F,Lince,Pediatría,01/08/2019,897.06
+P00413,Lucía Fernández,41,NA,Callao,,10/10/2024,585.7
+P01023,Miguel Fernández,14,F,NA,Emergencia,08/05/2019,664.78
+P02573,José Fernández,14,M,San Isidro,Cardiología,NA,NA
+P02022,Miguel Ramos,66,F,San Isidro,Odontología,04/10/2018,869.2
+P01009,Javier Fernández,19,F,Miraflores,Vacunación,12/08/2022,529.72
+P02087,Patricia Fernández,44,M,Miraflores,Odontología,16/08/2023,874.39
+P02284,Ana Vargas,82,NA,Callao,Rayos X,25/08/2020,992.55
+P01013,Pedro Castillo,41,NA,NA,Rayos X,20/05/2025,67.82
+P02809,María Mendoza,25,M,San Isidro,Vacunación,21/12/2024,587.33
+P01395,Patricia Vargas,NA,NA,Callao,Consulta General,28/07/2021,761.64
+P01780,Javier Ramos,53,NA,Lince,Cardiología,12/02/2023,862.0
+P01839,Patricia Mendoza,53,F,La Molina,Rayos X,22/12/2020,77.07
+P01766,Javier Ramos,2,NA,Callao,Vacunación,10/03/2024,511.6
+P01483,Luis Gómez,27,NA,Surco,Rayos X,27/01/2019,859.2
+P02639,Miguel Ramos,16,,La Molina,Emergencia,17/05/2020,NA
+P02055,Ana Torres,61,F,Lince,NA,28/10/2022,533.88
+P01985,Miguel Gómez,40,F,NA,Cardiología,05/08/2020,NA
+P01859,Rosa Gómez,83,NA,La Molina,Cardiología,30/10/2024,852.14
+P00481,Lucía Ramos,53,NA,Callao,Cardiología,05/06/2022,536.72
+P01559,Luis Mendoza,70,NA,Surco,,17/06/2019,337.54
+P02147,Pedro Pérez,58,,NA,Emergencia,30/09/2024,57.11
+P02506,Javier Castillo,89,M,Surco,Cardiología,26/06/2021,804.63
+P00487,,66,F,Callao,Odontología,18/01/2018,78.15
+P02641,Pedro Ruiz,74,NA,Miraflores,,07/05/2019,816.6
+P02046,José Mendoza,,NA,Miraflores,NA,07/10/2025,179.19
+P01893,Ana Mendoza,24,F,La Molina,Vacunación,03/04/2019,390.72
+P00028,Patricia Flores,,NA,Comas,,06/08/2018,349.76
+P01930,Carlos Vargas,74,F,Miraflores,Pediatría,02/12/2022,75.0
+P01108,José Vargas,79,NA,Miraflores,NA,07/01/2019,771.79
+P02787,,78,NA,La Molina,Rayos X,07/07/2025,903.29
+P02169,Pedro Ruiz,77,F,Miraflores,Consulta General,23/07/2023,41.93
+P01420,María Fernández,47,NA,NA,Vacunación,20/01/2022,43.91
+P00865,Carlos Gómez,16,F,La Molina,Odontología,07/09/2019,155.21
+P00765,Luis Flores,52,F,NA,NA,05/04/2024,875.22
+P00123,Rosa Ramos,29,F,NA,Vacunación,21/06/2020,299.15
+P01544,Pedro Mendoza,44,F,La Molina,Emergencia,16/07/2022,977.31
+P02948,Patricia Flores,-14,M,Callao,Odontología,25/03/2034,166.19
+P00602,Pedro Torres,2,M,San Isidro,NA,12/08/2018,611.74
+P00696,Pedro Flores,66,NA,Miraflores,Vacunación,06/08/2018,NA
+P00397,María Flores,66,F,Comas,Odontología,06/03/2023,439.13
+P01699,Patricia Ruiz,23,NA,Lince,Cardiología,16/03/2024,927.02
+P01099,José Vargas,79,F,La Molina,Rayos X,16/05/2018,
+P00224,NA,28,F,Callao,Pediatría,13/08/2021,935.47
+P00571,Patricia Mendoza,52,M,La Molina,Pediatría,21/01/2022,818.02
+P01685,Carmen Mendoza,29,M,La Molina,Vacunación,27/11/2019,477.04
+P02834,María Gómez,29,NA,La Molina,NA,09/05/2022,765.25
+P00521,Pedro Fernández,35,F,San Isidro,Emergencia,14/06/2019,134.81
+P00833,Lucía Castillo,24,F,Surco,Rayos X,24/10/2021,980.53
+P02724,José Mendoza,85,NA,Callao,Emergencia,NA,916.31
+P02219,Lucía Mendoza,34,F,Lince,Pediatría,27/12/2023,925.5
+P01589,Luis Ruiz,7,NA,NA,Pediatría,26/10/2019,150.34
+P00327,Lucía Ramos,51,M,Surco,Consulta General,16/09/2024,808.12
+P02714,Carlos Pérez,9,F,Miraflores,NA,23/03/2018,109.41
+P01903,Patricia Ruiz,31,F,Lince,,15/08/2020,435.77
+P00266,Miguel Mendoza,51,M,Comas,Cardiología,10/02/2025,722.7
+P02396,Carlos Gómez,7,F,,NA,20/02/2018,743.43
+P01779,Patricia Torres,67,F,Lince,NA,08/01/2024,291.31
+P01047,Rosa Ruiz,36,F,La Molina,,24/03/2023,621.81
+P00634,Patricia Vargas,24,F,San Isidro,Vacunación,16/11/2024,767.84
+P01207,Lucía Mendoza,82,NA,Miraflores,Emergencia,07/11/2024,NA
+P00561,José Ramos,25,F,NA,Cardiología,15/02/2023,288.95
+P02498,Lucía Fernández,42,M,,Rayos X,24/03/2023,845.17
+P01344,Luis Flores,41,M,Miraflores,Vacunación,08/12/2018,957.14
+P01291,Rosa Pérez,37,NA,La Molina,,27/08/2021,337.78
+P00889,José Gómez,67,F,Miraflores,Vacunación,25/09/2020,NA
+P01559,Luis Mendoza,70,NA,Surco,,17/06/2019,337.54
+P00673,Luis Ruiz,87,M,Comas,NA,23/08/2020,460.36
+P01576,Carlos Fernández,86,NA,Miraflores,Emergencia,22/10/2020,776.5
+P00439,Pedro Flores,28,F,Lince,Rayos X,21/03/2018,593.63
+P00620,Carmen Gómez,66,NA,Comas,NA,09/07/2024,41.11
+P01851,José Ramos,34,M,Comas,Consulta General,20/07/2023,834.64
+P00442,Luis Pérez,39,F,Miraflores,NA,27/09/2025,
+P02509,Pedro Mendoza,90,M,Comas,NA,07/06/2023,584.94
+P01557,Carmen Mendoza,83,M,Lince,,07/12/2023,586.45
+P00678,Ana Castillo,13,M,San Isidro,Pediatría,07/09/2022,462.34
+P02269,Javier Fernández,NA,NA,San Isidro,Vacunación,17/04/2022,
+P02551,NA,73,F,La Molina,Pediatría,01/08/2019,
+P00501,Carmen Vargas,55,M,NA,NA,NA,345.0
+P01464,Pedro Ramos,26,NA,San Isidro,Emergencia,23/07/2025,197.85
+P01429,José Ruiz,3,NA,NA,Rayos X,27/11/2024,495.42
+P02968,Patricia Gómez,-1,M,La Molina,NA,06/10/2031,-50
+P00348,Lucía Ruiz,71,NA,Comas,Pediatría,06/05/2020,206.22
+P02091,Carmen Castillo,74,NA,Comas,Consulta General,05/03/2019,907.75
+P00898,Ana Ramos,80,F,Miraflores,Odontología,25/01/2019,507.58
+P00596,Patricia Flores,75,F,Surco,Rayos X,11/05/2020,678.49
+P02238,Pedro Ramos,58,NA,La Molina,Consulta General,15/12/2024,549.01
+P00519,Pedro Flores,53,M,Miraflores,NA,18/03/2023,31.56
+P02112,Ana Fernández,16,NA,NA,Cardiología,16/01/2021,113.9
+P01148,Pedro Flores,5,NA,Miraflores,NA,15/01/2023,578.5
+P00730,Carmen Flores,77,F,NA,Emergencia,12/10/2022,557.6
+P01757,María Fernández,38,M,Lince,Cardiología,NA,939.0
+P01876,Javier Flores,74,F,Comas,NA,18/05/2023,337.41
+P02458,Carmen Castillo,51,NA,Surco,Rayos X,08/12/2018,914.41
+P01816,José Ruiz,85,M,Miraflores,Cardiología,20/12/2019,603.6
+P02518,María Fernández,73,NA,Comas,Consulta General,20/01/2023,319.6
+P02782,José Gómez,23,M,NA,Emergencia,31/03/2019,68.85
+P01374,Patricia Torres,17,M,Surco,Cardiología,16/09/2025,76.03
+P02907,Carmen Gómez,-5,M,Callao,Rayos X,10/06/2027,0
+P01173,Carmen Ramos,62,M,Surco,Emergencia,07/04/2018,678.73
+P00585,Luis Ramos,51,NA,La Molina,Consulta General,17/07/2025,633.04
+P00093,Carmen Pérez,55,NA,NA,Pediatría,24/12/2024,608.41
+P00120,NA,78,NA,Surco,NA,26/04/2025,728.3
+P01804,Carmen Ruiz,35,NA,Surco,Cardiología,21/03/2018,692.0
+P01206,Pedro Pérez,45,NA,San Isidro,Consulta General,14/01/2022,141.36
+P00773,Miguel Castillo,58,,Miraflores,NA,23/07/2023,696.74
+P02485,Patricia Fernández,38,NA,NA,Vacunación,12/07/2019,117.19
+P02144,Carlos Vargas,26,NA,La Molina,Vacunación,01/12/2021,591.0
+P01651,Javier Castillo,62,F,Callao,Emergencia,03/12/2021,513.02
+P00364,Pedro Castillo,32,F,San Isidro,Pediatría,23/05/2024,796.84
+P00796,José Flores,NA,M,Miraflores,Odontología,04/08/2020,
+P01552,José Vargas,77,M,San Isidro,Vacunación,04/03/2022,831.1
+P00491,Patricia Ruiz,3,NA,Surco,Pediatría,02/09/2018,105.53
+P02240,Lucía Torres,74,F,La Molina,Emergencia,05/09/2019,46.34
+P02278,Pedro Torres,33,NA,Lince,Consulta General,08/12/2023,564.96
+P00550,Rosa Flores,39,F,NA,Odontología,NA,258.65
+P02056,Carlos Pérez,21,NA,Comas,Vacunación,05/03/2023,562.33
+P01856,Javier Ruiz,89,F,Miraflores,Vacunación,27/05/2019,418.31
+P01912,Carlos Mendoza,32,F,NA,Cardiología,16/11/2025,NA
+P02789,Ana Castillo,48,F,Miraflores,Pediatría,31/01/2025,582.46
+P01970,Carmen Torres,5,F,,Emergencia,23/04/2025,NA
+P01590,Carlos Gómez,41,M,Miraflores,Pediatría,23/06/2023,254.37
+P02605,Luis Ramos,36,M,,Odontología,30/10/2021,NA
+P00414,María Gómez,55,F,Callao,NA,19/04/2020,76.12
+P01086,Luis Torres,40,M,Miraflores,Rayos X,11/06/2023,781.22
+P00006,José Pérez,89,F,Surco,Vacunación,20/02/2023,556.86
+P02110,Rosa Fernández,11,F,Surco,Odontología,23/04/2020,142.51
+P00809,Miguel Torres,63,NA,Miraflores,Emergencia,15/03/2023,354.41
+P00349,Patricia Fernández,54,M,NA,NA,14/08/2023,NA
+P02302,Ana Ruiz,16,F,Miraflores,Vacunación,27/02/2022,567.53
+P02505,Luis Castillo,34,M,Surco,Consulta General,22/09/2022,153.0
+P00587,José Flores,63,M,Miraflores,Pediatría,12/03/2023,
+P02801,NA,29,F,La Molina,NA,12/08/2019,522.17
+P02940,Miguel Fernández,-14,F,Lince,Otro,15/04/2027,373.97
+P01404,Rosa Ruiz,80,M,La Molina,NA,NA,939.99
+P02341,Rosa Gómez,44,M,Lince,Odontología,12/02/2022,663.34
+P01507,Patricia Pérez,6,M,Comas,Rayos X,09/10/2023,477.43
+P00216,NA,7,M,Surco,Cardiología,25/02/2021,597.28
+P01012,Carmen Gómez,42,F,San Isidro,Pediatría,NA,80.52
+P00613,José Vargas,50,NA,Surco,Emergencia,07/12/2022,221.88
+P02136,Luis Ramos,23,M,Callao,Odontología,09/08/2020,380.23
+P00858,Rosa Torres,41,NA,Miraflores,Rayos X,29/01/2022,247.12
+P01237,Luis Fernández,21,F,La Molina,NA,18/09/2023,255.62
+P00934,NA,8,NA,Surco,Vacunación,19/02/2022,525.79
+P01800,Luis Fernández,15,F,NA,Rayos X,14/03/2022,803.98
+P00388,,68,NA,Miraflores,Cardiología,10/09/2020,522.63
+P02216,Ana Mendoza,28,F,Surco,Odontología,29/11/2022,786.65
+P01312,Rosa Ruiz,86,M,Miraflores,Consulta General,09/04/2020,927.09
+P01789,José Castillo,45,NA,Surco,NA,12/02/2025,NA
+P01077,Lucía Flores,19,NA,NA,Rayos X,05/08/2023,505.76
+P02101,Javier Flores,43,F,Comas,Consulta General,29/08/2018,55.65
+P02258,Luis Gómez,57,F,La Molina,Pediatría,18/07/2021,194.7
+P02427,Rosa Fernández,71,M,Surco,Cardiología,28/04/2020,692.8
+P01090,Javier Ruiz,21,M,Callao,Rayos X,20/04/2025,659.74
+P01564,Carlos Fernández,34,M,Comas,Vacunación,07/06/2021,505.35
+P00116,NA,43,F,La Molina,Consulta General,,800.67
+P01240,Rosa Mendoza,57,M,Comas,NA,26/04/2024,155.72
+P00836,Miguel Torres,10,M,Lince,Vacunación,27/10/2018,897.29
+P01978,Carlos Mendoza,86,F,NA,Rayos X,24/02/2022,193.67
+P02856,Lucía Vargas,-14,NA,Surco,Vacunación,12/12/2034,27.86
+P02053,Javier Flores,,NA,Lince,Vacunación,12/05/2018,439.55
+P00758,Carlos Castillo,43,F,Surco,Cardiología,21/07/2020,952.35
+P02090,Lucía Mendoza,82,F,NA,NA,03/06/2020,NA
+P02968,Javier Mendoza,-5,M,Lince,Consulta General,14/11/2034,-50
+P02183,Rosa Ruiz,89,NA,San Isidro,Cardiología,09/06/2022,824.7
+P01476,Carmen Castillo,22,NA,,Rayos X,18/06/2025,402.11
+P02725,María Torres,25,M,NA,Pediatría,20/12/2019,583.2
+P01370,José Castillo,84,F,San Isidro,NA,23/12/2024,988.27
+P01595,Miguel Torres,53,NA,San Isidro,Pediatría,,396.78
+P01939,María Flores,65,NA,San Isidro,Pediatría,13/10/2021,522.28
+P02368,Pedro Ruiz,54,F,La Molina,Rayos X,28/11/2020,871.27
+P02235,Patricia Ramos,72,NA,Surco,Vacunación,04/03/2020,685.51
+P01428,José Pérez,5,F,Miraflores,,31/05/2024,877.85
+P02521,Carmen Gómez,18,F,Lince,Rayos X,14/04/2023,961.03
+P01494,María Vargas,68,NA,Comas,Odontología,18/03/2018,484.46
+P02495,Lucía Ruiz,11,M,NA,Vacunación,30/01/2024,927.09
+P02960,Patricia Ruiz,176,X,Lince,Vacunación,27/03/2028,29.48
+P01324,José Fernández,71,NA,NA,Pediatría,24/11/2018,530.97
+P00605,Carlos Ruiz,24,NA,Lince,Emergencia,19/12/2020,633.6
+P01343,Carmen Flores,21,NA,Comas,NA,29/05/2024,732.88
+P02357,,59,F,Lince,Pediatría,11/11/2022,545.4
+P02060,Pedro Castillo,57,NA,Callao,Consulta General,23/09/2019,581.04
+P01754,María Gómez,80,M,San Isidro,Vacunación,03/06/2022,750.8
+P01515,Patricia Mendoza,66,NA,Lince,Pediatría,NA,164.53
+P01794,José Ramos,,NA,NA,Cardiología,20/10/2020,124.73
+P01438,Miguel Gómez,87,F,NA,NA,02/08/2024,760.55
+P02192,María Torres,NA,M,San Isidro,Cardiología,31/10/2022,755.25
+P01254,Lucía Pérez,77,F,NA,Vacunación,21/07/2022,261.15
+P02906,Ana Vargas,-19,X,Lince,NA,27/02/2028,0
+P01102,Lucía Ramos,90,M,NA,Rayos X,24/03/2023,NA
+P02032,Rosa Pérez,57,M,La Molina,Rayos X,15/02/2022,585.86
+P02160,María Fernández,18,M,Callao,Pediatría,13/06/2023,616.04
+P02191,Lucía Flores,90,F,Miraflores,Consulta General,01/07/2018,527.61
+P02829,NA,23,F,Lince,Cardiología,11/06/2021,416.14
+P02366,Pedro Flores,52,F,Miraflores,Cardiología,31/05/2019,386.77
+P02546,Miguel Ruiz,57,F,Lince,NA,18/09/2020,727.8
+P02968,Carlos Gómez,151,M,La Molina,Rayos X,10/05/2026,128.64
+P01440,Ana Pérez,42,M,San Isidro,Vacunación,05/06/2020,124.06
+P02329,,1,F,Surco,Pediatría,19/12/2018,426.09
+P02233,Rosa Gómez,60,,Miraflores,Consulta General,15/08/2022,621.54
+P01342,José Ruiz,19,F,Callao,Cardiología,16/08/2022,447.57
+P01892,María Torres,33,F,Miraflores,Rayos X,24/03/2025,60.82
+P02138,Ana Flores,80,NA,Comas,Rayos X,16/05/2025,959.87
+P01304,Miguel Flores,45,M,NA,Emergencia,NA,71.92
+P02525,Carlos Pérez,62,NA,Callao,Rayos X,25/01/2025,978.06
+P02772,Javier Ramos,83,F,San Isidro,Consulta General,25/03/2020,447.31
+P00459,Pedro Castillo,90,M,Miraflores,Rayos X,04/02/2023,739.88
+P02828,Carlos Mendoza,77,NA,NA,Consulta General,29/10/2022,826.62
+P02387,Carmen Vargas,74,NA,Surco,NA,01/09/2019,346.85
+P01203,Javier Torres,74,F,Comas,NA,11/04/2025,348.78
+P02457,Ana Pérez,78,F,Surco,Consulta General,10/07/2020,536.39
+P00041,Luis Ramos,NA,F,Comas,Odontología,12/09/2019,617.9
+P02912,Pedro Ruiz,-7,X,Lince,Rayos X,06/01/2028,-50
+P00633,Pedro Flores,45,M,Surco,Odontología,18/11/2019,487.34
+P01700,María Ramos,18,M,La Molina,Rayos X,12/09/2021,20.29
+P02760,Carmen Fernández,5,F,Miraflores,Rayos X,,901.33
+P02925,María Fernández,-6,X,San Isidro,Vacunación,26/07/2029,0
+P01805,,76,F,Surco,Odontología,12/09/2025,172.76
+P02651,Rosa Ramos,39,NA,Callao,Emergencia,10/02/2021,75.87
+P01941,Javier Ruiz,12,F,La Molina,Cardiología,14/12/2018,764.06
+P02961,Pedro Gómez,180,M,Desconocido,Consulta General,23/09/2031,0
+P00340,Miguel Flores,NA,F,Callao,Cardiología,20/12/2023,NA
+P02544,Luis Pérez,49,M,Lince,Rayos X,02/03/2020,930.9
+P00215,José Ruiz,17,M,Miraflores,Emergencia,07/06/2019,823.73
+P00029,Luis Mendoza,43,M,Callao,NA,,368.06
+P00239,Carmen Ruiz,28,NA,Miraflores,NA,18/07/2018,903.81
+P00366,,27,,La Molina,Emergencia,09/11/2024,77.67
+P02270,Rosa Gómez,64,F,NA,Rayos X,22/09/2023,71.88
+P00921,María Torres,13,F,Surco,Emergencia,12/09/2023,455.34
+P01933,Lucía Fernández,50,NA,San Isidro,Vacunación,03/06/2019,339.99
+P02648,José Ramos,12,F,Comas,Vacunación,23/04/2023,460.73
+P01657,Javier Gómez,24,F,NA,NA,20/04/2019,603.02
+P02738,Javier Ramos,63,NA,,Cardiología,16/07/2018,88.57
+P02163,José Mendoza,90,F,Surco,NA,31/05/2020,239.11
+P00309,Patricia Torres,47,M,Comas,Cardiología,21/07/2023,555.91
+P01670,Javier Ramos,6,NA,Surco,Consulta General,02/12/2019,332.17
+P00953,,40,F,NA,Emergencia,18/10/2023,423.97
+P01558,,66,NA,Comas,NA,07/12/2020,40.81
+P01598,Lucía Vargas,21,NA,La Molina,Odontología,25/06/2020,617.31
+P00211,Patricia Pérez,25,M,Lince,Odontología,27/10/2025,459.87
+P00846,José Flores,4,F,NA,Odontología,31/03/2022,226.58
+P00142,José Ruiz,41,F,Comas,Pediatría,21/10/2020,629.44
+P00554,Miguel Fernández,85,M,Lince,Emergencia,08/08/2025,299.41
+P00936,Carmen Gómez,87,M,Lince,,25/05/2025,711.94
+P01620,Luis Ruiz,84,NA,NA,Consulta General,15/10/2023,
+P00901,Luis Vargas,48,F,La Molina,Odontología,15/04/2025,888.87
+P02909,Carmen Mendoza,184,X,Lince,Pediatría,20/09/2028,0
+P00173,José Castillo,22,F,,NA,16/08/2020,697.43
+P02317,Patricia Gómez,6,M,Lince,Vacunación,02/03/2023,NA
+P01234,María Ramos,8,M,NA,Cardiología,02/12/2023,307.57
+P00649,Carlos Gómez,21,M,NA,Consulta General,29/03/2025,607.67
+P00553,Patricia Flores,29,M,Comas,Emergencia,13/05/2020,969.63
+P02571,Carmen Gómez,25,M,Miraflores,NA,08/05/2023,764.19
+P00231,Patricia Ruiz,12,NA,Comas,NA,01/02/2024,846.23
+P00489,Javier Pérez,52,NA,Callao,Rayos X,06/11/2023,NA
+P01615,Carmen Flores,12,F,La Molina,NA,31/08/2018,564.55
+P00774,Carmen Castillo,15,F,La Molina,Odontología,12/11/2018,896.97
+P01460,José Fernández,24,M,Callao,Vacunación,14/12/2019,836.31
+P00911,Ana Ruiz,65,F,Lince,Consulta General,28/10/2025,606.94
+P00932,José Vargas,86,M,Miraflores,Cardiología,,623.56
+P02146,Carlos Gómez,28,F,La Molina,Odontología,08/12/2018,327.77
+P01129,Ana Flores,59,M,La Molina,Cardiología,10/09/2025,769.65
+P00669,Lucía Pérez,58,F,San Isidro,Emergencia,13/04/2021,911.67
+P01076,Rosa Torres,60,NA,Callao,Pediatría,11/02/2022,46.85
+P00349,Patricia Fernández,54,M,NA,NA,14/08/2023,NA
+P02370,Rosa Flores,43,NA,NA,Emergencia,30/06/2018,NA
+P00430,Miguel Ruiz,63,NA,NA,Emergencia,23/07/2020,481.7
+P02777,Pedro Fernández,37,M,San Isidro,Rayos X,15/04/2024,814.09
+P00037,Carmen Ruiz,89,M,Surco,NA,NA,467.64
+P02779,Javier Ruiz,12,M,Surco,Vacunación,14/06/2023,247.25
+P00568,,11,F,Comas,Pediatría,18/04/2021,47.58
+P00908,Javier Ruiz,44,F,Comas,Vacunación,24/03/2020,140.94
+P00998,Javier Ruiz,51,NA,Surco,Rayos X,06/01/2018,803.14
+P00562,Miguel Ramos,18,F,La Molina,Rayos X,30/08/2018,328.8
+P01937,Javier Castillo,,F,Callao,Cardiología,06/10/2021,669.78
+P00735,Carmen Pérez,10,F,NA,Odontología,14/02/2021,941.76
+P02851,María Gómez,141,F,La Molina,Emergencia,06/06/2033,0
+P01593,Carlos Torres,58,M,San Isidro,Pediatría,21/07/2018,533.67
+P00449,Javier Gómez,48,NA,San Isidro,Rayos X,27/10/2025,232.84
+P01666,José Castillo,20,M,San Isidro,Consulta General,,591.66
+P01820,Javier Flores,20,F,Callao,Vacunación,09/11/2025,600.6
+P00557,Luis Gómez,44,NA,NA,Rayos X,02/04/2024,122.18
+P00518,María Pérez,18,F,Comas,Emergencia,23/06/2022,488.68
+P01400,Pedro Pérez,12,M,Lince,Vacunación,23/07/2023,390.41
+P01655,Carmen Gómez,24,F,Miraflores,Rayos X,03/11/2025,405.2
+P02766,Patricia Flores,82,M,Lince,Vacunación,19/06/2022,938.68
+P01084,Carmen Fernández,41,F,Miraflores,Vacunación,30/01/2023,547.93
+P01629,Ana Fernández,14,NA,La Molina,Pediatría,11/02/2025,381.5
+P00887,Patricia Ramos,39,F,Miraflores,Vacunación,16/12/2021,153.45
+P01150,Miguel Flores,60,F,Callao,NA,28/09/2025,155.43
+P02662,Luis Pérez,79,M,Callao,Vacunación,17/07/2019,183.82
+P00378,Ana Pérez,72,NA,Lince,Vacunación,28/06/2025,NA
+P01969,Rosa Castillo,47,M,NA,Vacunación,01/10/2018,875.98
+P00229,Carmen Fernández,24,F,San Isidro,Rayos X,13/05/2019,623.97
+P01992,José Torres,31,NA,Lince,Emergencia,16/08/2019,809.08
+P00185,María Torres,9,F,Comas,Rayos X,16/06/2023,136.54
+P01954,Miguel Gómez,27,F,San Isidro,Pediatría,05/03/2024,552.74
+P00995,Carmen Ruiz,55,NA,La Molina,Consulta General,05/06/2023,142.74
+P02943,Miguel Pérez,132,M,Desconocido,Rayos X,17/03/2030,-50
+P01174,Lucía Torres,12,M,Surco,Pediatría,15/06/2025,691.16
+P02863,María Fernández,152,F,Callao,Cardiología,03/09/2030,-50
+P00989,Pedro Castillo,16,M,Surco,Vacunación,NA,953.56
+P01580,Miguel Pérez,17,NA,Miraflores,Odontología,03/10/2023,NA
+P00525,Pedro Fernández,5,M,Miraflores,Vacunación,20/02/2025,535.07
+P00325,Javier Vargas,25,F,Callao,Vacunación,24/12/2021,197.39
+P00018,Pedro Fernández,50,NA,Lince,Pediatría,20/11/2024,269.78
+P01698,Luis Ruiz,2,F,NA,Vacunación,11/05/2023,214.52
+P01463,NA,88,F,Miraflores,Vacunación,09/06/2020,347.09
+P01749,Carlos Mendoza,15,NA,La Molina,Rayos X,10/03/2021,627.05
+P01603,Luis Torres,49,M,La Molina,Emergencia,05/09/2025,376.49
+P02419,Carlos Ruiz,10,NA,,Emergencia,13/02/2018,719.42
+P00660,Carmen Vargas,34,F,La Molina,NA,20/05/2020,995.27
+P01049,Rosa Gómez,46,NA,La Molina,Emergencia,06/11/2023,694.95
+P02543,Javier Ramos,62,F,San Isidro,Emergencia,15/08/2018,643.27
+P01518,Carlos Ruiz,42,NA,La Molina,Rayos X,NA,989.28
+P00750,,11,NA,La Molina,Pediatría,26/06/2018,325.47
+P00106,Carlos Gómez,13,F,Miraflores,Emergencia,04/09/2021,643.77
+P01079,Ana Torres,7,F,La Molina,Odontología,28/02/2020,
+P00611,José Torres,1,M,Comas,,12/08/2023,746.02
+P01675,Lucía Flores,17,M,La Molina,Emergencia,17/09/2021,300.02
+P00182,Carmen Torres,67,NA,Comas,Pediatría,09/01/2022,639.43
+P02390,Javier Ruiz,87,F,NA,Pediatría,08/03/2022,386.84
+P01305,Luis Ramos,41,F,,Pediatría,28/05/2024,225.44
+P01178,Luis Ruiz,NA,M,Surco,Pediatría,24/06/2020,674.73
+P01386,Ana Ruiz,7,NA,Lince,Rayos X,03/07/2018,548.57
+P02932,Luis Mendoza,150,X,Comas,Odontología,08/05/2034,-50
+P00140,Patricia Ruiz,69,M,NA,Cardiología,03/06/2019,112.06
+P01204,Carlos Mendoza,77,NA,NA,Emergencia,06/04/2018,35.06
+P02598,NA,35,NA,NA,Odontología,27/04/2020,317.14
+P02708,José Torres,6,NA,Lince,Pediatría,31/03/2023,636.63
+P01162,Javier Fernández,19,F,Miraflores,Pediatría,07/05/2024,402.82
+P00509,María Torres,39,M,Callao,Odontología,12/08/2025,648.42
+P00544,Carmen Torres,33,M,Lince,Odontología,20/03/2018,127.6
+P01218,Ana Ruiz,38,M,Surco,Rayos X,16/02/2025,530.49
+P00105,Carlos Torres,87,NA,La Molina,Consulta General,23/05/2023,678.82
+P00541,Carmen Pérez,85,NA,La Molina,Cardiología,,145.02
+P01128,Ana Flores,41,NA,San Isidro,Odontología,04/07/2020,734.79
+P00574,José Vargas,24,NA,Comas,Emergencia,,741.22
+P02218,Pedro Fernández,80,M,San Isidro,Vacunación,,905.35
+P00931,Miguel Ruiz,84,F,Surco,Cardiología,31/08/2022,839.06
+P02734,Lucía Torres,36,NA,Surco,Vacunación,16/10/2021,581.22
+P00410,Patricia Fernández,60,NA,NA,NA,16/04/2025,252.5
+P02465,Miguel Torres,6,M,Lince,Emergencia,29/12/2018,962.03
+P01443,Lucía Vargas,42,F,Miraflores,Odontología,27/01/2024,415.0
+P00591,Luis Flores,NA,M,NA,Rayos X,30/06/2024,
+P01000,Patricia Ramos,18,NA,La Molina,Odontología,14/05/2025,81.7
+P02586,Ana Castillo,34,M,Comas,Rayos X,28/08/2019,770.14
+P01307,Patricia Flores,57,F,Lince,Vacunación,03/08/2025,NA
+P00035,,13,F,Surco,Cardiología,19/01/2024,360.25
+P00360,Ana Fernández,37,F,Comas,Pediatría,19/03/2022,633.29
+P00443,Miguel Mendoza,15,M,Lince,Vacunación,18/06/2021,166.1
+P02916,Luis Pérez,0,X,La Molina,Rayos X,15/04/2033,738.53
+P01726,Patricia Pérez,46,F,Comas,Odontología,06/07/2025,164.92
+P02642,María Ramos,80,M,NA,Pediatría,25/07/2018,879.7
+P01164,Ana Flores,63,M,Miraflores,Consulta General,02/04/2019,937.68
+P00807,NA,71,NA,La Molina,Consulta General,11/08/2018,326.62
+P00312,NA,40,M,Callao,Cardiología,26/07/2022,781.64
+P02765,Patricia Vargas,14,F,NA,Vacunación,16/05/2023,927.79
+P01592,Javier Pérez,61,M,San Isidro,Consulta General,11/10/2019,106.2
+P01987,Pedro Torres,59,NA,San Isidro,Rayos X,12/07/2022,568.74
+P00555,NA,7,M,La Molina,Consulta General,05/07/2020,NA
+P00734,Rosa Flores,64,NA,Callao,Emergencia,24/03/2018,275.36
+P02132,Rosa Mendoza,78,,La Molina,Emergencia,04/08/2018,515.28
+P00462,Carmen Pérez,42,M,NA,Odontología,22/11/2022,359.4
+P01320,Luis Torres,32,F,La Molina,Rayos X,22/11/2018,177.82
+P01124,Luis Pérez,40,,Miraflores,Emergencia,07/02/2022,431.25
+P00979,Miguel Fernández,57,F,San Isidro,Emergencia,26/10/2024,787.05
+P00083,Carmen Torres,5,NA,NA,Rayos X,07/06/2020,92.96
+P01040,Carmen Gómez,75,NA,NA,Odontología,08/09/2025,995.88
+P02029,Javier Flores,58,F,Miraflores,Odontología,21/06/2020,915.61
+P01519,José Castillo,69,F,NA,Emergencia,04/01/2021,977.77
+P00897,María Flores,43,F,NA,Rayos X,08/01/2025,894.16
+P02201,Carmen Vargas,52,NA,Surco,Emergencia,17/04/2018,775.54
+P01417,Carmen Flores,90,M,NA,NA,17/01/2025,451.78
+P00403,Lucía Ruiz,15,M,Lince,Odontología,25/06/2025,323.39
+P01155,Patricia Gómez,71,NA,Miraflores,Odontología,13/07/2022,478.82
+P02547,José Mendoza,53,M,Comas,Pediatría,17/02/2021,476.14
+P01414,Lucía Mendoza,26,M,Lince,Cardiología,05/06/2024,813.27
+P00076,Carlos Fernández,15,NA,Comas,Odontología,,157.89
+P00044,Carlos Fernández,78,NA,Callao,,08/05/2023,713.95
+P01782,Pedro Flores,67,F,San Isidro,Consulta General,23/08/2019,572.14
+P02425,Rosa Fernández,,M,Surco,Odontología,29/05/2022,NA
+P02358,Lucía Fernández,,F,La Molina,Rayos X,24/09/2025,389.83
+P00631,Patricia Ruiz,17,,Callao,Odontología,15/06/2023,960.42
+P00223,Luis Castillo,14,NA,NA,Odontología,19/12/2023,234.6
+P00476,Lucía Torres,88,NA,San Isidro,Cardiología,14/11/2021,223.8
+P02397,José Castillo,65,NA,NA,Cardiología,19/02/2022,235.38
+P02672,Pedro Pérez,20,NA,La Molina,NA,06/01/2025,389.29
+P02679,María Castillo,14,F,Surco,Odontología,19/02/2025,472.68
+P00079,,25,F,San Isidro,NA,12/08/2018,891.05
+P00867,Patricia Gómez,72,F,,Emergencia,03/11/2024,758.51
+P01164,Ana Flores,63,M,Miraflores,Consulta General,02/04/2019,937.68
+P02798,María Vargas,73,F,Lince,Vacunación,22/05/2018,96.66
+P00506,Javier Mendoza,46,NA,Callao,Consulta General,14/01/2021,242.26
+P00146,Pedro Pérez,23,F,Miraflores,Emergencia,08/11/2025,232.11
+P02323,Lucía Vargas,8,M,NA,Emergencia,28/02/2024,83.82
+P01498,Ana Flores,78,F,,Consulta General,05/11/2018,726.09
+P02428,Luis Fernández,79,M,La Molina,Cardiología,05/08/2022,815.88
+P02365,Rosa Ruiz,6,,,Vacunación,14/05/2020,193.41
+P01034,José Vargas,3,M,Miraflores,Rayos X,23/04/2024,NA
+P03000,Lucía Pérez,190,NA,Desconocido,Pediatría,01/01/2026,-50
+P01297,Lucía Flores,61,M,San Isidro,Vacunación,12/06/2019,
+P02534,Carmen Castillo,54,F,La Molina,Cardiología,15/09/2020,153.65
+P01055,Carlos Ramos,56,F,NA,NA,01/12/2020,825.32
+P00697,Javier Vargas,86,M,San Isidro,Pediatría,14/01/2019,325.73
+P01664,Miguel Ramos,15,M,Callao,NA,14/06/2021,328.39
+P02478,Miguel Ruiz,74,M,Lince,Vacunación,06/07/2024,642.48
+P00676,Pedro Castillo,52,F,Comas,Cardiología,15/11/2025,182.24
+P01169,Rosa Pérez,20,M,Miraflores,Cardiología,21/01/2024,897.63
+P01658,Miguel Pérez,,M,NA,Odontología,15/06/2023,833.36
+P00643,Patricia Fernández,85,M,San Isidro,NA,24/03/2025,191.86
+P00583,Luis Gómez,33,F,,Odontología,03/08/2023,54.9
+P00396,José Flores,20,NA,Callao,Odontología,19/12/2018,197.28
+P00938,María Torres,57,F,NA,NA,18/02/2021,875.16
+P01362,José Gómez,32,F,Lince,Rayos X,28/08/2025,376.76
+P01465,,24,NA,Surco,NA,04/10/2018,319.95
+P00598,Luis Fernández,76,NA,NA,Rayos X,12/10/2023,NA
+P00466,Miguel Ramos,36,NA,Surco,NA,24/05/2019,
+P02805,Lucía Ruiz,NA,NA,Miraflores,Cardiología,22/01/2019,882.46
+P02709,Ana Torres,23,M,Callao,Pediatría,15/04/2021,112.07
+P02791,Ana Vargas,63,M,Comas,,21/08/2024,936.38
+P00764,Rosa Castillo,54,NA,Comas,Rayos X,25/11/2018,704.31
+P00708,Patricia Fernández,6,F,San Isidro,Cardiología,08/09/2024,82.31
+P02089,María Pérez,88,NA,San Isidro,Rayos X,19/12/2022,624.03
+P00071,Miguel Gómez,,NA,,Pediatría,09/12/2025,237.96
+P01005,Miguel Torres,14,F,NA,NA,03/03/2022,284.82
+P00861,Miguel Ramos,73,M,NA,Emergencia,14/05/2022,469.93
+P02832,Pedro Mendoza,67,F,Surco,NA,12/08/2024,82.78
+P02669,Rosa Ruiz,26,NA,Lince,Cardiología,17/05/2023,720.26
+P02890,Patricia Ramos,195,X,Desconocido,Otro,08/10/2031,0
+P02606,NA,1,F,Callao,Vacunación,01/07/2019,630.6
+P01307,Patricia Flores,57,F,Lince,Vacunación,03/08/2025,NA
+P01737,Lucía Gómez,26,M,La Molina,Rayos X,05/02/2018,535.95
+P02846,Carlos Fernández,39,F,Surco,Rayos X,16/06/2021,156.24
+P01951,Carmen Castillo,55,NA,NA,NA,04/09/2024,417.71
+P00899,Ana Pérez,65,NA,Callao,Emergencia,26/09/2018,957.99
+P02994,José Torres,142,NA,NA,Cardiología,28/09/2034,-50
+P01667,Javier Ramos,35,M,NA,Consulta General,10/02/2021,388.45
+P01617,Carmen Mendoza,57,NA,La Molina,Pediatría,02/07/2019,322.23
+P02139,,73,,Comas,Rayos X,07/06/2022,680.28
+P02167,Pedro Vargas,65,M,,Rayos X,,26.79
+P02194,Carmen Fernández,70,NA,,Vacunación,15/09/2019,965.79
+P01317,Lucía Gómez,29,NA,Surco,NA,27/06/2023,951.0
+P02875,Pedro Vargas,186,F,La Molina,Cardiología,06/01/2033,0
+P00883,Pedro Ruiz,57,F,NA,Cardiología,,31.4
+P00287,Javier Flores,,NA,Miraflores,Emergencia,27/12/2025,892.2
+P02316,Pedro Mendoza,33,M,La Molina,Pediatría,06/03/2024,974.35
+P01157,Luis Fernández,65,NA,Surco,Cardiología,12/07/2020,920.4
+P02582,Ana Ramos,74,NA,Miraflores,Pediatría,12/11/2025,908.1
+P01138,,87,NA,NA,Emergencia,03/12/2025,661.9
+P01115,José Fernández,78,,Lince,Rayos X,24/02/2025,839.24
+P01392,Carmen Ruiz,18,NA,Surco,NA,,736.37
+P01773,Carmen Flores,,NA,Miraflores,Rayos X,01/11/2025,250.38
+P02810,Pedro Fernández,20,M,Surco,NA,04/06/2020,540.77
+P00455,Rosa Mendoza,90,NA,La Molina,Pediatría,29/03/2021,337.98
+P00399,NA,48,F,La Molina,Rayos X,18/09/2024,934.15
+P00599,Lucía Flores,,M,La Molina,Vacunación,13/08/2019,
+P01019,José Vargas,NA,M,Surco,NA,07/07/2023,824.51
+P01742,Ana Flores,30,F,Lince,NA,23/02/2024,721.63
+P00639,Pedro Ruiz,66,F,NA,NA,23/12/2021,661.21
+P00017,José Vargas,43,NA,Miraflores,Consulta General,13/07/2024,393.45
+P01419,Ana Flores,57,NA,Lince,Cardiología,09/01/2022,641.66
+P02499,Lucía Flores,58,M,NA,NA,04/04/2021,504.73
+P02275,Miguel Fernández,27,NA,La Molina,Pediatría,14/07/2018,723.54
+P01705,Javier Mendoza,81,NA,Callao,Consulta General,04/11/2023,942.74
+P02073,Lucía Flores,45,M,Lince,Rayos X,06/10/2023,101.09
+P01266,Miguel Ruiz,81,,Comas,Rayos X,21/02/2022,553.97
+P02721,Ana Flores,32,F,Miraflores,Odontología,13/01/2024,90.71
+P00286,Patricia Fernández,11,F,Miraflores,Pediatría,06/01/2018,906.45
+P01759,Miguel Ruiz,85,NA,La Molina,Consulta General,26/06/2020,330.98
+P02874,Miguel Mendoza,141,M,La Molina,Emergencia,20/06/2026,-50
+P02218,Pedro Fernández,80,M,San Isidro,Vacunación,,905.35
+P01920,Patricia Ramos,10,NA,Miraflores,Odontología,20/11/2021,405.86
+P00997,José Gómez,82,M,NA,Odontología,27/11/2019,445.89
+P01635,Patricia Ruiz,4,F,Lince,Cardiología,18/01/2023,189.28
+P01908,Patricia Flores,68,F,San Isidro,Emergencia,,954.34
+P01480,Luis Ramos,72,NA,San Isidro,Pediatría,11/11/2023,955.06
+P00847,Pedro Ruiz,83,,NA,Emergencia,13/06/2020,543.35
+P01829,Luis Pérez,21,NA,San Isidro,Consulta General,27/05/2020,508.95
+P02527,Javier Fernández,40,F,Callao,Rayos X,30/09/2024,457.21
+P02109,Miguel Gómez,58,NA,Callao,NA,01/03/2019,573.3
+P00538,Ana Castillo,2,M,Comas,Emergencia,28/04/2021,404.62
+P00376,Ana Ramos,55,F,NA,Vacunación,09/10/2019,378.29
+P00170,Lucía Ramos,73,NA,NA,Vacunación,12/08/2023,605.44
+P00178,Carlos Pérez,10,NA,Surco,Odontología,20/03/2021,141.78
+P01431,José Gómez,78,F,San Isidro,NA,,79.11
+P01741,María Castillo,90,F,La Molina,Rayos X,01/05/2018,NA
+P01862,Carlos Mendoza,84,F,Lince,Vacunación,09/05/2022,648.31
+P01349,José Castillo,26,F,Comas,Vacunación,11/01/2020,248.58
+P02827,Pedro Vargas,77,M,Lince,,21/08/2024,455.94
+P00219,Carmen Gómez,15,M,Surco,Vacunación,07/04/2018,279.66
+P01057,Javier Fernández,59,M,La Molina,Vacunación,16/08/2022,416.14
+P02626,Luis Ramos,72,F,Comas,Cardiología,01/11/2020,100.28
+P01914,Patricia Gómez,83,NA,Lince,Emergencia,NA,516.36
+P02529,María Ramos,28,NA,NA,Odontología,12/03/2020,491.51
+P02899,María Fernández,-19,X,San Isidro,Rayos X,23/07/2034,888.34
+P01956,,,M,Comas,Emergencia,06/01/2019,333.88
+P00415,Miguel Torres,35,NA,Comas,NA,13/03/2022,668.56
+P02011,Patricia Pérez,,M,Lince,Consulta General,NA,393.89
+P02972,Rosa Gómez,190,F,Desconocido,Rayos X,05/10/2026,547.43
+P00772,Lucía Ramos,5,M,Lince,Vacunación,21/02/2021,474.7
+P01176,Ana Vargas,84,M,Lince,Rayos X,12/06/2019,NA
+P01674,Javier Ruiz,82,NA,Callao,Emergencia,24/05/2024,420.99
+P02513,Javier Castillo,66,NA,Lince,NA,25/03/2018,379.92
+P01683,Javier Gómez,56,M,Lince,NA,19/03/2019,220.31
+P00968,José Fernández,81,F,Callao,NA,20/11/2025,547.01
+P00161,Patricia Castillo,29,M,Lince,Odontología,10/11/2020,249.14
+P01113,Lucía Gómez,5,F,Comas,Emergencia,26/01/2023,854.1
+P00665,Luis Castillo,87,M,San Isidro,Rayos X,01/05/2022,230.25
+P00418,Luis Ramos,78,NA,Surco,Vacunación,27/07/2020,875.95
+P01669,Pedro Torres,70,M,Lince,NA,12/02/2021,609.49
+P00684,Carlos Torres,68,M,Miraflores,Cardiología,23/07/2024,521.13
+P00543,Luis Vargas,88,NA,Surco,Vacunación,20/02/2020,506.71
+P00628,María Flores,51,NA,Callao,Cardiología,22/11/2020,152.5
+P02858,Rosa Fernández,124,NA,Comas,NA,17/08/2034,857.54
+P00008,María Fernández,44,F,Callao,NA,11/10/2021,37.8
+P00171,,26,NA,NA,Vacunación,31/10/2020,50.75
+P01874,José Gómez,NA,M,San Isidro,Pediatría,,361.81
+P00768,Ana Vargas,40,F,NA,NA,30/10/2022,385.27
+P01329,Javier Ramos,47,F,Comas,Emergencia,02/09/2025,152.87
+P00133,Patricia Torres,82,NA,Surco,Vacunación,06/03/2024,281.91
+P00704,Luis Flores,88,M,NA,Emergencia,13/02/2025,264.71
+P00199,Luis Vargas,84,F,San Isidro,NA,07/01/2024,962.38
+P00119,Carmen Fernández,74,NA,NA,Cardiología,13/04/2020,467.89
+P00924,Lucía Castillo,84,NA,NA,Pediatría,06/12/2020,412.9
+P00806,Miguel Ramos,53,F,Surco,Odontología,03/04/2018,696.83
+P01449,Luis Ramos,81,NA,NA,Odontología,,525.02
+P01415,Lucía Pérez,60,F,Lince,Emergencia,10/11/2023,351.75
+P01850,Patricia Fernández,75,F,Callao,Odontología,09/04/2018,223.29
+P01616,Carmen Torres,18,NA,Callao,Pediatría,29/09/2020,358.32
+P02045,Rosa Ramos,52,M,San Isidro,NA,27/07/2019,783.19
+P01382,NA,55,M,Miraflores,NA,,931.2
+P00641,Carlos Ruiz,73,,San Isidro,Vacunación,11/10/2020,159.07
+P01375,Luis Castillo,42,M,Callao,Consulta General,02/04/2025,660.59
+P01212,Luis Mendoza,4,NA,Surco,Rayos X,02/05/2025,898.15
+P01250,María Pérez,90,M,San Isidro,Cardiología,06/03/2021,924.82
+P00088,Pedro Ramos,5,M,La Molina,Consulta General,25/04/2023,556.7
+P00190,Miguel Pérez,32,NA,Comas,NA,15/09/2021,978.55
+P02283,Javier Gómez,NA,F,Miraflores,Odontología,02/04/2020,484.24
+P01614,Ana Ruiz,36,NA,Comas,Consulta General,22/10/2020,503.08
+P01189,Patricia Torres,7,M,Callao,Pediatría,04/04/2023,768.36
+P00188,Pedro Torres,31,NA,San Isidro,Emergencia,,65.41
+P02599,Pedro Castillo,83,M,San Isidro,,21/05/2023,517.88
+P02819,Carlos Vargas,60,NA,Surco,Cardiología,16/12/2019,244.75
+P02108,,3,M,Comas,Pediatría,NA,438.55
+P02941,Rosa Ruiz,-16,F,San Isidro,NA,16/09/2032,264.67
+P00275,Carlos Fernández,79,NA,Callao,Pediatría,18/07/2024,680.06
+P00085,Ana Gómez,89,NA,Surco,Rayos X,28/03/2022,732.1
+P00258,Rosa Flores,24,F,NA,Emergencia,21/02/2018,933.78
+P00705,Carlos Ruiz,NA,M,Miraflores,Vacunación,15/12/2021,800.22
+P00627,Lucía Torres,22,M,Callao,NA,20/08/2022,901.34
+P00212,Rosa Gómez,86,M,La Molina,Consulta General,18/12/2021,148.61
+P01936,José Torres,36,F,Miraflores,Odontología,02/06/2020,338.49
+P00517,Rosa Ramos,39,F,NA,Vacunación,19/07/2024,560.42
+P01582,,28,M,Lince,Vacunación,24/09/2025,109.68
+P01787,Ana Gómez,86,M,Miraflores,Rayos X,NA,853.48
+P00688,Javier Ruiz,44,,Miraflores,Odontología,29/01/2024,NA
+P01439,Luis Ruiz,26,F,NA,Consulta General,14/07/2018,
+P00671,Patricia Gómez,57,M,NA,Emergencia,08/09/2024,673.86
+P00437,Ana Pérez,53,NA,Lince,Vacunación,12/02/2019,545.87
+P02537,Carmen Flores,71,F,Callao,Emergencia,06/04/2023,330.81
+P01975,Patricia Pérez,66,F,San Isidro,Emergencia,04/07/2018,809.18
+P00740,Lucía Ramos,17,F,Surco,Pediatría,21/10/2023,314.36
+P01684,Rosa Torres,49,NA,Lince,Consulta General,22/11/2018,879.84
+P02084,Javier Ruiz,33,NA,Surco,Consulta General,31/08/2023,275.94
+P00290,José Ruiz,63,F,La Molina,Emergencia,03/03/2020,244.1
+P02868,José Flores,188,F,Surco,Rayos X,01/02/2027,-50
+P02568,Carlos Torres,60,NA,La Molina,Vacunación,26/08/2023,544.58
+P00282,Carmen Ramos,7,F,La Molina,Vacunación,15/11/2021,158.05
+P00236,Pedro Gómez,41,NA,La Molina,Rayos X,31/05/2024,168.69
+P02722,Pedro Pérez,80,NA,Surco,Cardiología,19/06/2023,154.17
+P01715,Carmen Mendoza,53,M,Callao,NA,10/05/2019,570.8
+P01948,NA,84,F,Lince,Pediatría,11/10/2024,840.06
+P00761,José Ramos,74,NA,La Molina,Cardiología,NA,106.72
+P01333,Miguel Vargas,,F,Lince,Odontología,06/05/2023,371.05
+P01241,Rosa Fernández,68,NA,,Vacunación,15/11/2022,32.91
+P01883,Pedro Mendoza,56,NA,NA,Odontología,30/06/2025,823.41
+P02009,Patricia Mendoza,75,NA,Comas,Consulta General,27/10/2019,
+P01262,María Vargas,11,NA,Miraflores,Odontología,25/08/2023,462.37
+P02363,Carlos Mendoza,89,F,Miraflores,Rayos X,01/02/2018,665.89
+P01059,José Torres,28,NA,La Molina,,21/07/2025,137.74
+P02884,María Castillo,-15,X,Callao,Cardiología,27/12/2027,98.69
+P02736,Javier Mendoza,87,F,Comas,Rayos X,23/08/2019,710.41
+P00930,José Vargas,25,M,La Molina,Vacunación,30/04/2022,223.49
+P02956,Lucía Torres,-16,X,Surco,Consulta General,25/10/2030,0
+P01039,Miguel Fernández,71,M,Surco,Pediatría,27/03/2018,692.92
+P02466,María Gómez,,F,Miraflores,Emergencia,03/02/2024,79.45
+P00493,Lucía Castillo,,NA,Comas,Pediatría,11/06/2024,431.92
+P00151,Carlos Flores,59,F,Callao,Consulta General,20/04/2022,115.73
+P00102,Lucía Ramos,64,M,Miraflores,Odontología,13/08/2025,775.02
+P00755,Carmen Torres,,M,La Molina,Vacunación,14/01/2025,729.07
+P02919,Luis Gómez,-14,F,Comas,Rayos X,16/01/2031,-50
+P01131,NA,39,M,Surco,Consulta General,29/11/2025,440.23
+P00569,Pedro Gómez,,F,Comas,NA,13/03/2018,436.3
+P01398,NA,60,F,Surco,Odontología,30/05/2025,64.13
+P02557,Patricia Ramos,74,M,La Molina,Emergencia,09/06/2025,362.88
+P01661,Luis Ruiz,65,NA,Comas,Emergencia,13/10/2020,195.32
+P02788,José Fernández,29,M,Comas,Pediatría,19/07/2020,148.76
+P02690,Rosa Flores,50,F,Lince,Vacunación,30/11/2020,600.89
+P02985,Ana Castillo,-7,NA,Surco,Cardiología,08/08/2026,0
+P00699,Lucía Ruiz,41,F,Lince,Pediatría,09/01/2025,243.83
+P00825,Carlos Fernández,37,M,Miraflores,Odontología,20/05/2023,522.57
+P02852,Patricia Ruiz,161,F,Miraflores,NA,09/05/2028,-50
+P01537,Patricia Flores,56,NA,Comas,Odontología,11/03/2019,933.54
+P02153,Carlos Torres,88,NA,Surco,Pediatría,05/10/2019,21.46
+P01095,Carmen Flores,49,NA,Surco,Vacunación,11/08/2021,802.21
+P02897,Pedro Gómez,-9,NA,La Molina,Consulta General,07/12/2033,-50
+P00603,María Vargas,9,F,Lince,Odontología,19/04/2024,981.87
+P02696,Lucía Pérez,76,NA,,Odontología,05/05/2024,328.72
+P02528,Lucía Vargas,42,NA,Miraflores,,24/05/2021,722.05
+P01517,Javier Ramos,33,M,San Isidro,NA,11/10/2019,414.62
+P01608,Ana Vargas,62,NA,NA,Emergencia,NA,588.95
+P00461,José Gómez,51,F,San Isidro,Emergencia,08/11/2022,496.97
+P00910,José Ramos,NA,NA,NA,Vacunación,03/07/2025,227.86
+P01718,Luis Flores,61,NA,Lince,Cardiología,11/11/2024,
+P00600,José Ruiz,79,F,Miraflores,Rayos X,NA,870.3
+P00294,NA,67,M,La Molina,Rayos X,28/06/2021,613.76
+P02455,Carmen Castillo,12,M,NA,Pediatría,09/09/2019,763.93
+P02279,María Mendoza,87,M,San Isidro,Emergencia,10/09/2024,855.26
+P02978,María Mendoza,-3,NA,Comas,Vacunación,04/04/2030,-50
+P02774,Javier Ramos,31,F,Comas,Consulta General,17/08/2018,461.61
+P02038,Pedro Ruiz,82,F,Lince,Vacunación,18/05/2022,644.91
+P02703,Carlos Torres,47,M,Miraflores,Emergencia,04/06/2022,486.22
+P00621,Rosa Pérez,64,NA,Comas,Rayos X,22/11/2024,44.48
+P01290,Carlos Pérez,34,M,Callao,Pediatría,27/04/2022,177.19
+P02446,Carlos Flores,71,F,San Isidro,Emergencia,18/02/2021,651.11
+P00150,Lucía Fernández,86,NA,Surco,NA,14/05/2020,843.08
+P02859,María Torres,122,NA,Surco,Vacunación,23/10/2029,-50
+P01748,Luis Mendoza,86,F,Callao,Consulta General,07/09/2025,465.57
+P01696,Pedro Ruiz,76,NA,San Isidro,Rayos X,07/04/2020,419.17
+P01511,María Castillo,66,NA,San Isidro,Consulta General,16/12/2021,43.44
+P02927,Pedro Fernández,193,NA,Comas,Rayos X,19/11/2027,-50
+P02052,Patricia Ruiz,21,NA,NA,Rayos X,NA,131.13
+P00944,Carmen Fernández,30,NA,Comas,Emergencia,11/07/2019,634.81
+P00314,Ana Flores,NA,M,NA,Rayos X,27/03/2019,68.28
+P00059,Lucía Pérez,12,NA,Callao,Odontología,25/03/2022,958.41
+P02344,Lucía Ramos,19,NA,NA,Emergencia,24/09/2022,693.44
+P01141,Patricia Ramos,81,F,Miraflores,Emergencia,26/12/2018,770.7
+P01061,María Gómez,14,NA,NA,Cardiología,10/04/2020,501.06
+P01717,María Castillo,69,M,NA,NA,11/12/2019,24.82
+P02761,Patricia Vargas,25,F,NA,Pediatría,08/02/2020,911.86
+P01691,José Pérez,14,NA,La Molina,Rayos X,19/04/2025,275.59
+P02943,Miguel Fernández,130,M,NA,NA,28/07/2030,0
+P01265,María Flores,48,M,Lince,Cardiología,15/02/2019,888.92
+P00136,Javier Castillo,56,M,Callao,Vacunación,14/03/2024,162.19
+P02228,José Ruiz,67,,Miraflores,Pediatría,24/04/2021,832.7
+P01895,Javier Fernández,54,F,Miraflores,Cardiología,29/06/2022,891.43
+P01369,Carmen Flores,84,,NA,Odontología,02/09/2024,270.01
+P00322,Miguel Gómez,34,F,Lince,NA,26/01/2019,295.03
+P02854,Patricia Mendoza,-13,X,San Isidro,Odontología,23/11/2030,-50
+P00878,Lucía Pérez,4,NA,San Isidro,Cardiología,,748.06
+P01153,María Gómez,17,NA,La Molina,Consulta General,14/10/2024,135.76
+P01929,Rosa Vargas,74,F,NA,Vacunación,NA,412.63
+P01513,Javier Flores,88,F,Comas,Consulta General,11/01/2022,268.9
+P00101,Miguel Torres,89,M,Miraflores,NA,09/10/2019,832.04
+P00251,María Gómez,30,F,La Molina,Vacunación,19/05/2023,431.51
+P00362,José Fernández,80,NA,La Molina,Odontología,21/10/2019,626.66
+P00334,NA,69,F,Lince,Cardiología,,128.28
+P02205,Javier Flores,15,NA,San Isidro,NA,15/05/2020,126.83
+P00993,María Ruiz,2,M,Surco,Vacunación,04/03/2018,
+P00692,María Vargas,41,F,La Molina,NA,04/05/2018,450.8
+P00904,Pedro Ruiz,81,NA,Callao,NA,03/07/2021,331.1
+P00984,José Vargas,74,NA,NA,Rayos X,21/11/2024,834.21
+P00658,Carmen Ramos,78,NA,San Isidro,Consulta General,16/10/2021,951.53
+P02353,María Castillo,71,NA,Surco,Odontología,,811.84
+P01504,Carmen Pérez,54,F,Callao,Odontología,,57.31
+P02835,Pedro Mendoza,39,NA,San Isidro,Cardiología,06/05/2024,297.24
+P01364,Carmen Gómez,72,M,Callao,Pediatría,11/09/2022,345.42
+P02615,Pedro Flores,1,M,La Molina,Pediatría,23/08/2018,399.43
+P01488,Ana Castillo,85,M,NA,Consulta General,31/05/2021,560.44
+P01427,Javier Ramos,,NA,Callao,NA,29/05/2025,387.44
+P00110,Patricia Gómez,NA,F,La Molina,Pediatría,18/12/2020,256.77
+P00213,Ana Vargas,42,M,,Odontología,03/08/2021,313.02
+P02371,Ana Pérez,3,M,Surco,Pediatría,12/08/2021,373.28
+P01688,Javier Torres,72,NA,Miraflores,Cardiología,14/12/2018,729.54
+P02367,Patricia Ramos,44,M,La Molina,Pediatría,06/01/2018,119.83
+P02613,Carlos Vargas,48,M,NA,Emergencia,20/08/2023,392.47
+P00038,Luis Torres,1,NA,Miraflores,Pediatría,27/02/2022,668.31
+P00894,Rosa Mendoza,81,NA,Miraflores,NA,22/06/2024,307.17
+P02410,Miguel Flores,11,NA,Miraflores,Rayos X,07/06/2019,835.34
+P00616,José Pérez,72,NA,Surco,NA,05/08/2023,542.99
+P00263,José Mendoza,62,F,Lince,,14/05/2022,438.49
+P00420,Pedro Vargas,76,M,Miraflores,Pediatría,21/08/2019,417.1
+P00885,Miguel Fernández,3,NA,San Isidro,Emergencia,13/08/2018,580.36
+P02661,Luis Mendoza,79,F,Callao,Emergencia,01/10/2021,527.26
+P01223,Carmen Vargas,73,M,NA,Vacunación,11/02/2018,48.71
+P01588,Miguel Fernández,34,M,Surco,Cardiología,23/02/2018,369.92
+P02195,Carlos Vargas,68,M,NA,Pediatría,11/01/2021,101.14
+P01498,Ana Flores,78,F,,Consulta General,05/11/2018,726.09
+P01597,José Fernández,73,F,NA,Pediatría,27/12/2025,33.36
+P01753,,84,F,NA,Emergencia,27/01/2021,288.47
+P00808,Javier Mendoza,76,F,La Molina,Emergencia,17/06/2022,241.73
+P02975,Lucía Pérez,-15,M,Lince,Otro,17/06/2032,-50
+P02953,Luis Pérez,-12,X,Surco,Rayos X,01/12/2031,0
+P02266,José Mendoza,82,NA,Callao,Odontología,30/04/2019,731.79
+P00109,Luis Castillo,80,M,La Molina,Rayos X,22/12/2023,859.38
+P02784,,6,M,Surco,Cardiología,12/02/2025,508.86
+P02116,Javier Vargas,27,NA,Callao,Consulta General,28/07/2019,230.83
+P01821,Miguel Pérez,11,NA,La Molina,Cardiología,06/07/2020,496.69
+P02320,Lucía Pérez,23,NA,Surco,NA,22/09/2018,429.88
+P00644,Carmen Ramos,35,NA,Lince,NA,27/01/2019,21.71
+P00220,Rosa Ruiz,19,F,Callao,Vacunación,15/07/2020,444.41
+P01399,José Pérez,88,F,Lince,NA,01/12/2022,595.58
+P02767,NA,62,NA,Miraflores,NA,18/09/2025,209.03
+P00648,Lucía Torres,29,F,Surco,Vacunación,13/01/2025,619.62
+P01312,Rosa Ruiz,86,M,Miraflores,Consulta General,09/04/2020,927.09
+P01543,María Fernández,38,F,San Isidro,Cardiología,25/03/2023,225.13
+P00918,Rosa Vargas,67,F,Surco,NA,04/11/2023,900.29
+P02352,Miguel Mendoza,7,M,Lince,Vacunación,07/02/2021,25.85
+P00284,Ana Castillo,42,NA,La Molina,Pediatría,21/07/2025,568.17
+P01788,Patricia Flores,32,M,,,07/04/2023,617.58
+P00458,José Pérez,28,M,Lince,Vacunación,13/01/2021,396.29
+P02855,Ana Mendoza,190,X,Callao,Odontología,13/04/2033,0
+P00841,NA,32,NA,San Isidro,Odontología,13/05/2020,512.09
+P00121,Patricia Gómez,12,M,Miraflores,Cardiología,06/12/2023,565.88
+P01791,Patricia Ramos,40,F,Lince,Pediatría,07/06/2023,962.11
+P01142,Pedro Pérez,42,F,NA,Vacunación,15/07/2023,172.96
+P00964,NA,84,NA,La Molina,Rayos X,27/04/2023,667.63
+P01514,Rosa Mendoza,90,M,La Molina,Vacunación,16/06/2021,734.94
+P01763,Patricia Torres,7,M,La Molina,Pediatría,18/06/2019,462.43
+P00425,NA,36,F,Surco,Emergencia,27/08/2023,168.45
+P00230,Patricia Gómez,7,F,La Molina,Emergencia,03/12/2025,425.82
+P00650,Luis Castillo,86,NA,Lince,Consulta General,11/07/2025,484.86
+P01481,Javier Mendoza,76,M,,Pediatría,14/02/2024,518.29
+P00905,Carlos Torres,14,NA,NA,Pediatría,08/03/2022,NA
+P01025,Miguel Mendoza,30,NA,Miraflores,Consulta General,24/11/2021,596.76
+P01104,Luis Flores,67,M,Surco,Rayos X,27/11/2024,296.58
+P02342,Lucía Torres,NA,NA,NA,Rayos X,16/07/2020,30.98
+P00746,Rosa Mendoza,34,F,Callao,,25/06/2025,605.9
+P00117,Patricia Ramos,74,M,San Isidro,NA,03/10/2024,212.11
+P01229,Carmen Flores,8,M,NA,Consulta General,15/02/2024,768.04
+P01636,María Fernández,7,NA,Surco,Emergencia,05/09/2020,537.39
+P00731,Pedro Castillo,26,F,NA,Odontología,21/04/2024,37.28
+P02570,,23,F,Surco,Rayos X,NA,245.44
+P00703,Carlos Ruiz,18,F,Callao,NA,18/02/2021,712.09
+P02343,Rosa Vargas,30,F,NA,Cardiología,15/07/2022,517.61
+P01733,José Flores,51,F,Lince,Consulta General,21/07/2018,405.96
+P00805,Patricia Mendoza,1,F,Callao,Rayos X,,68.57
+P02584,NA,19,NA,Comas,NA,05/04/2020,246.94
+P02688,Patricia Ruiz,8,NA,La Molina,Vacunación,08/08/2020,769.92
+P02701,Ana Fernández,66,F,Lince,Odontología,24/11/2025,78.45
+P00374,Patricia Castillo,13,M,Callao,Odontología,07/08/2025,924.51
+P02014,Rosa Flores,75,NA,Miraflores,NA,31/08/2019,986.58
+P01746,Carlos Mendoza,56,F,NA,Emergencia,25/07/2020,397.01
+P00533,NA,13,M,San Isidro,Rayos X,23/01/2023,997.55
+P02507,Luis Torres,27,M,Callao,NA,05/05/2020,723.52
+P00438,Ana Vargas,,NA,San Isidro,Rayos X,13/08/2022,985.73
+P02280,Patricia Castillo,53,F,Lince,NA,14/10/2019,320.57
+P02394,Patricia Castillo,13,NA,Comas,Cardiología,17/06/2025,895.85
+P00048,José Fernández,53,M,NA,Consulta General,20/02/2019,70.6
+P00929,Ana Pérez,16,NA,Surco,Emergencia,13/06/2022,429.44
+P02131,Lucía Vargas,21,NA,Miraflores,Vacunación,17/02/2025,642.1
+P00267,Pedro Vargas,90,NA,Lince,Cardiología,01/06/2021,970.29
+P00067,Ana Ramos,7,F,Surco,Emergencia,22/01/2024,328.89
+P00767,José Fernández,3,NA,San Isidro,Cardiología,07/01/2024,519.11
+P02893,Carlos Fernández,196,X,NA,NA,27/06/2033,-50
+P02718,NA,22,M,Callao,Emergencia,31/05/2018,172.55
+P00982,Rosa Ramos,74,NA,NA,Cardiología,23/08/2019,624.07
+P01555,Javier Mendoza,82,M,Callao,Emergencia,02/04/2024,274.01
+P02515,Carmen Ruiz,80,NA,San Isidro,Cardiología,21/11/2020,623.29
+P01441,María Gómez,42,F,Lince,Rayos X,23/02/2022,NA
+P00964,NA,84,NA,La Molina,Rayos X,27/04/2023,667.63
+P00745,Carlos Fernández,86,M,Miraflores,Cardiología,06/05/2018,96.12
+P00355,Pedro Pérez,61,NA,Lince,Cardiología,25/04/2024,236.71
+P01116,José Pérez,3,NA,Lince,Consulta General,NA,113.36
+P02844,Ana Castillo,NA,NA,La Molina,Vacunación,01/01/2022,
+P00531,Carlos Gómez,NA,F,Miraflores,Emergencia,03/04/2018,670.59
+P01475,Rosa Castillo,43,NA,NA,Emergencia,08/07/2021,903.95
+P00659,Lucía Castillo,4,NA,Miraflores,Emergencia,22/11/2024,104.48
+P00903,Ana Ramos,43,NA,Surco,Vacunación,28/04/2025,410.32
+P00297,Carlos Vargas,40,NA,NA,NA,13/06/2018,455.22
+P02282,Pedro Ruiz,67,F,Miraflores,Rayos X,18/11/2020,
+P01828,Carmen Torres,45,NA,Callao,NA,22/02/2019,759.79
+P02385,Carmen Fernández,81,M,NA,NA,07/12/2024,101.98
+P01156,,48,F,Callao,Vacunación,25/02/2024,404.6
+P02967,Ana Gómez,-7,X,Lince,Pediatría,18/09/2031,885.7
+P01618,Miguel Castillo,22,F,Callao,Pediatría,28/11/2018,84.84
+P01027,Carlos Vargas,1,NA,NA,Rayos X,29/03/2024,398.23
+P00253,Pedro Ramos,25,F,Lince,Rayos X,04/08/2025,789.97
+P01687,Miguel Mendoza,70,F,San Isidro,Emergencia,01/01/2018,647.6
+P00919,Pedro Fernández,40,F,Lince,Rayos X,24/07/2018,397.12
+P02871,Carmen Pérez,194,M,Comas,Pediatría,18/01/2029,-50
+P01981,José Flores,83,,Surco,Vacunación,22/12/2023,290.46
+P00156,Patricia Gómez,56,,Comas,Pediatría,22/09/2020,986.6
+P01998,Pedro Pérez,37,NA,Callao,Rayos X,20/11/2019,129.67
+P01524,Pedro Gómez,5,F,Surco,Cardiología,11/12/2021,182.85
+P00975,Carlos Mendoza,52,NA,La Molina,Emergencia,29/02/2020,150.96
+P00084,Patricia Castillo,19,M,Miraflores,Emergencia,03/01/2018,NA
+P00605,Carlos Ruiz,24,NA,Lince,Emergencia,19/12/2020,633.6
+P01869,Luis Flores,22,F,Miraflores,Consulta General,13/03/2024,574.12
+P00748,Lucía Pérez,60,NA,Comas,Consulta General,10/01/2022,292.32
+P01931,Luis Gómez,48,F,Miraflores,Pediatría,07/07/2024,832.16
+P00719,Carlos Gómez,89,NA,La Molina,Rayos X,17/10/2019,885.99
+P00721,María Torres,39,F,Callao,Rayos X,27/05/2023,324.48
+P00513,Javier Torres,73,NA,Surco,Vacunación,05/10/2021,765.6
+P02227,Carlos Pérez,10,F,La Molina,Consulta General,28/04/2024,394.63
+P00482,Pedro Flores,50,NA,Lince,Vacunación,01/12/2018,342.28
+P00566,Javier Castillo,76,F,Comas,Odontología,07/05/2018,551.18
+P01713,Pedro Castillo,6,F,Miraflores,Vacunación,28/07/2023,859.41
+P00607,María Fernández,80,NA,NA,NA,18/08/2021,948.02
+P02869,Patricia Vargas,-5,NA,Desconocido,Otro,20/11/2034,0
+P02054,NA,87,F,Lince,NA,01/04/2021,619.25
+P02602,Carmen Flores,4,M,Surco,Vacunación,06/01/2021,729.76
+P01877,Ana Castillo,9,,La Molina,Emergencia,20/05/2025,93.43
+P01864,Javier Ruiz,66,M,La Molina,Vacunación,07/01/2025,599.47
+P00510,Lucía Ramos,78,F,La Molina,Odontología,,907.2
+P02699,Carmen Ramos,71,NA,Surco,Emergencia,19/02/2023,178.82
+P01159,NA,23,NA,NA,Vacunación,27/12/2021,804.19
+P01383,Luis Castillo,45,M,Comas,Rayos X,22/11/2025,344.49
+P02006,Ana Mendoza,NA,F,NA,Odontología,05/05/2022,623.51
+P01899,Pedro Torres,88,NA,Miraflores,Odontología,11/10/2023,277.65
+P02473,Ana Pérez,32,M,Comas,Pediatría,17/05/2018,260.24
+P00195,Ana Flores,80,NA,San Isidro,Emergencia,04/11/2020,46.44
+P01551,Javier Torres,71,F,Surco,NA,31/01/2023,911.16
+P01147,Carlos Castillo,65,M,Comas,Pediatría,,714.6
+P02808,Lucía Fernández,,,NA,Cardiología,10/05/2022,544.5
+P01770,Pedro Castillo,86,NA,La Molina,Consulta General,06/01/2018,298.51
+P02906,María Torres,148,NA,San Isidro,Emergencia,22/01/2028,0
+P01209,Lucía Castillo,68,M,Miraflores,Rayos X,20/01/2024,172.93
+P00682,Patricia Ruiz,61,NA,,Rayos X,21/09/2021,376.17
+P00820,Luis Vargas,7,M,Miraflores,Cardiología,10/06/2023,532.04
+P01119,Ana Fernández,1,M,Lince,Vacunación,01/11/2024,218.3
+P01631,Javier Vargas,57,NA,Miraflores,NA,29/08/2022,251.89
+P01550,Carmen Fernández,9,NA,La Molina,Emergencia,23/04/2021,962.1
+P00915,José Mendoza,32,NA,Comas,Rayos X,20/10/2020,497.79
+P02355,Pedro Castillo,71,M,La Molina,NA,22/02/2024,414.4
+P01225,María Mendoza,32,M,Surco,Vacunación,,226.72
+P01632,Carlos Ramos,16,NA,NA,Emergencia,27/11/2023,94.73
+P01279,Javier Mendoza,64,NA,Callao,Vacunación,,518.74
+P01660,Carlos Pérez,,F,,Emergencia,,659.1
+P01185,Ana Fernández,78,F,Miraflores,Rayos X,18/11/2021,614.22
+P01002,Luis Gómez,66,NA,NA,NA,21/05/2018,854.99
+P00780,María Flores,32,F,Lince,Pediatría,29/04/2021,776.72
+P02785,Patricia Ruiz,53,NA,NA,,22/04/2019,591.95
+P02685,NA,NA,F,NA,Vacunación,13/01/2024,136.57
+P01795,María Vargas,35,M,La Molina,Emergencia,11/10/2025,251.86
+P01252,Carlos Pérez,88,F,Callao,Odontología,16/02/2019,186.93
+P02554,Rosa Ruiz,32,F,Callao,Cardiología,30/08/2024,199.8
+P00445,Pedro Ramos,80,NA,San Isidro,Odontología,07/09/2018,294.58
+P00970,María Ruiz,60,F,NA,Odontología,09/07/2024,383.79
+P01772,Carlos Castillo,16,F,NA,Rayos X,09/03/2024,754.31
+P01719,Lucía Flores,21,NA,San Isidro,Pediatría,18/03/2023,419.0
+P02121,Javier Ruiz,66,F,San Isidro,Vacunación,20/11/2018,895.26
+P02664,Carmen Ruiz,27,F,Surco,Rayos X,,753.89
+P02799,José Flores,80,NA,San Isidro,Vacunación,14/02/2023,666.55
+P02852,Luis Vargas,197,NA,San Isidro,,29/09/2028,765.2
+P02337,María Castillo,86,F,Miraflores,Cardiología,14/02/2020,290.28
+P01065,María Mendoza,70,F,Callao,NA,09/08/2025,189.02
+P02797,Ana Ruiz,6,M,San Isidro,Rayos X,14/10/2018,380.72
+P00218,Patricia Ruiz,43,M,Comas,Emergencia,31/07/2019,945.79
+P01949,Patricia Vargas,85,M,Surco,Vacunación,02/03/2025,496.59
+P02831,Lucía Pérez,29,NA,Miraflores,Cardiología,06/05/2020,40.13
+P02165,Carmen Vargas,16,NA,NA,Emergencia,16/02/2020,595.8
+P02682,Miguel Vargas,77,NA,La Molina,,19/06/2020,NA
+P01054,Rosa Torres,6,F,Comas,Emergencia,16/08/2025,NA
+P02175,Patricia Castillo,76,F,San Isidro,Cardiología,27/11/2024,122.28
+P01351,María Torres,22,M,,Vacunación,06/07/2020,208.63
+P00220,Rosa Ruiz,19,F,Callao,Vacunación,15/07/2020,444.41
+P01854,Carmen Mendoza,2,F,Lince,Rayos X,02/12/2023,
+P01300,Pedro Ruiz,NA,NA,,Consulta General,30/04/2022,204.19
+P02324,Lucía Torres,74,NA,NA,NA,,148.82
+P02406,Javier Vargas,13,M,Comas,NA,15/12/2020,241.47
+P01071,Pedro Castillo,22,NA,San Isidro,NA,23/02/2024,100.87
+P01288,Patricia Ruiz,89,F,Miraflores,NA,09/01/2022,428.07
+P00395,Lucía Flores,31,NA,Comas,Rayos X,13/05/2023,50.2
+P01680,Rosa Gómez,68,NA,Miraflores,Emergencia,14/01/2021,160.1
+P00095,NA,41,M,Lince,Pediatría,07/07/2019,423.06
+P02186,Carmen Fernández,78,F,La Molina,NA,13/04/2025,594.9
+P02142,Javier Fernández,69,NA,Comas,Emergencia,14/09/2020,336.34
+P02433,NA,33,F,Callao,Rayos X,21/03/2023,306.72
+P01394,Javier Ramos,85,M,Surco,Consulta General,06/04/2023,196.45
+P02957,Luis Mendoza,167,NA,La Molina,Rayos X,08/09/2032,0
+P01650,Lucía Ramos,36,F,Surco,Consulta General,05/11/2021,210.32
+P02744,Luis Ruiz,44,M,NA,Pediatría,01/06/2020,NA
+P02888,José Pérez,-1,F,Desconocido,Emergencia,25/02/2028,681.19
+P02287,Javier Ramos,86,F,La Molina,Consulta General,NA,498.29
+P01831,Patricia Castillo,8,F,Surco,Cardiología,22/01/2019,422.71
+P00477,Ana Vargas,90,M,Comas,Odontología,11/10/2024,563.3
+P02817,María Torres,80,NA,Miraflores,Cardiología,24/12/2022,543.28
+P02880,Javier Flores,175,F,La Molina,Otro,09/11/2032,-50
+P02755,Rosa Ruiz,71,NA,Lince,Pediatría,19/05/2019,291.16
+P00527,Javier Torres,,M,NA,NA,04/05/2024,720.66
+P02475,Ana Pérez,27,NA,Comas,Emergencia,09/02/2023,20.11
+P01702,Patricia Mendoza,5,M,Miraflores,Rayos X,23/01/2024,171.74
+P00726,Carlos Gómez,21,F,Callao,Rayos X,06/09/2022,859.73
+P02822,Carlos Pérez,68,F,Miraflores,Odontología,10/08/2019,680.11
+P00127,Carlos Pérez,10,M,Surco,Pediatría,12/04/2024,260.42
+P00070,Carlos Ramos,23,NA,La Molina,NA,21/12/2021,326.51
+P02074,Carmen Ruiz,42,F,San Isidro,Consulta General,11/04/2020,699.41
+P00756,María Ruiz,85,M,NA,NA,15/05/2020,726.68
+P01168,Lucía Fernández,70,NA,Comas,Consulta General,23/04/2023,NA
+P02307,Pedro Castillo,37,F,NA,Rayos X,30/12/2018,640.92
+P00739,Ana Vargas,90,M,,Cardiología,05/01/2023,NA
+P02308,Pedro Mendoza,56,M,NA,Consulta General,28/09/2018,749.96
+P02351,Patricia Mendoza,43,F,Comas,Consulta General,01/07/2022,620.02
+P02512,José Fernández,30,F,La Molina,Rayos X,NA,371.63
+P01932,José Ruiz,76,M,Miraflores,Pediatría,28/01/2020,782.13
+P00062,Pedro Ruiz,47,,Comas,Vacunación,06/05/2025,675.6
+P02114,Miguel Vargas,67,F,Surco,Rayos X,27/07/2019,382.35
+P02871,Miguel Gómez,-11,F,Comas,Rayos X,20/07/2030,657.73
+P02234,Ana Castillo,57,F,Miraflores,Vacunación,28/10/2022,384.49
+P02891,Ana Gómez,-5,M,Miraflores,Pediatría,30/12/2032,-50
+P00486,Luis Castillo,41,NA,,,25/10/2020,54.81
+P01393,Luis Ruiz,84,M,Callao,Consulta General,NA,679.38
+P02084,Javier Ruiz,33,NA,Surco,Consulta General,31/08/2023,275.94
+P01774,Miguel Ruiz,28,F,Miraflores,Emergencia,10/12/2025,NA
+P01251,Miguel Vargas,50,NA,Callao,Odontología,07/12/2020,NA
+P02100,Miguel Fernández,65,M,Miraflores,Emergencia,20/03/2023,
+P01572,María Vargas,13,NA,NA,Pediatría,24/04/2020,65.28
+P02253,Luis Gómez,5,NA,Miraflores,Consulta General,08/12/2018,285.55
+P00990,Pedro Fernández,NA,M,NA,Emergencia,30/03/2025,637.1
+P00556,Javier Ramos,20,M,NA,Odontología,03/09/2024,890.7
+P00444,José Castillo,63,NA,La Molina,Cardiología,06/06/2019,251.17
+P01960,Lucía Torres,2,M,NA,Cardiología,09/02/2018,238.57
+P01654,Javier Mendoza,48,M,Surco,Vacunación,27/01/2023,953.33
+P00540,Lucía Gómez,88,NA,Miraflores,Vacunación,17/11/2022,322.24
+P00783,Ana Ruiz,79,F,Lince,NA,22/07/2024,342.79
+P01425,Ana Pérez,76,,Comas,Vacunación,,463.29
+P02539,Ana Castillo,15,M,Surco,NA,22/12/2025,756.26
+P02705,,50,F,San Isidro,Odontología,29/12/2019,831.95
+P00860,Pedro Vargas,46,M,Lince,Cardiología,08/01/2021,156.0
+P02012,Ana Castillo,76,M,San Isidro,NA,26/02/2024,320.22
+P00092,Rosa Ramos,47,F,Lince,Pediatría,12/06/2021,233.85
+P00396,José Flores,20,NA,Callao,Odontología,19/12/2018,197.28
+P00653,Lucía Ramos,84,M,Comas,Emergencia,15/05/2021,218.52
+P02577,Rosa Flores,36,NA,NA,Vacunación,14/05/2024,133.91
+P00817,Luis Ruiz,10,M,Lince,Emergencia,14/05/2021,866.98
+P02689,José Pérez,60,M,Callao,NA,31/10/2022,866.48
+P02949,Rosa Gómez,132,M,Surco,Odontología,14/11/2029,610.36
+P02762,Patricia Gómez,90,NA,San Isidro,Consulta General,11/02/2024,996.59
+P01556,Ana Flores,NA,NA,San Isidro,Pediatría,02/12/2025,496.17
+P02580,Patricia Flores,48,NA,Miraflores,Odontología,17/01/2022,479.78
+P02484,Javier Flores,20,F,La Molina,NA,04/01/2022,733.88
+P02731,Patricia Castillo,69,M,Miraflores,Rayos X,19/04/2022,309.96
+P00078,Rosa Ramos,29,,Comas,Emergencia,NA,86.01
+P02463,Patricia Flores,52,F,Surco,Emergencia,22/07/2018,866.61
+P01471,José Fernández,81,F,Lince,NA,13/01/2023,798.39
+P02180,José Mendoza,33,F,Miraflores,Cardiología,20/11/2020,234.42
+P01458,,19,M,Surco,Cardiología,03/02/2018,998.34
+P00326,Miguel Mendoza,53,F,La Molina,Pediatría,22/08/2023,288.87
+P00225,Carmen Ramos,53,F,La Molina,Consulta General,18/09/2022,595.06
+P00103,Patricia Mendoza,27,M,Callao,Cardiología,30/06/2021,187.07
+P02292,María Fernández,48,F,Callao,NA,09/03/2022,111.69
+P00785,Ana Torres,83,F,Callao,,14/11/2022,514.36
+P02494,Javier Ramos,71,NA,Lince,,25/06/2018,830.23
+P02123,Ana Torres,73,NA,Lince,Cardiología,27/01/2025,674.89
+P00749,Pedro Pérez,NA,F,La Molina,Rayos X,19/01/2020,766.76
+P02075,Pedro Torres,22,M,Surco,,10/10/2021,510.89
+P01146,Luis Fernández,62,F,Lince,Pediatría,04/06/2025,578.09
+P01359,José Torres,35,M,Comas,Rayos X,07/04/2020,425.42
+P02896,Miguel Ramos,159,X,Desconocido,Odontología,21/06/2026,-50
+P00551,Patricia Mendoza,73,M,NA,Consulta General,02/12/2021,371.07
+P01778,Carlos Pérez,72,F,Comas,Emergencia,25/10/2021,NA
+P02206,Lucía Fernández,57,M,Comas,Emergencia,16/04/2023,805.98
+P02382,Patricia Flores,65,M,Callao,Emergencia,06/01/2023,542.62
+P02931,Lucía Ramos,176,M,NA,,21/07/2027,-50
+P00227,José Torres,65,NA,Lince,Emergencia,11/05/2023,796.25
+P02362,Rosa Torres,73,F,NA,Consulta General,15/09/2021,897.4
+P02215,Miguel Castillo,81,M,Comas,NA,05/09/2020,54.13
+P02517,Javier Pérez,68,M,,,23/03/2023,NA
+P01810,Pedro Castillo,81,F,Miraflores,Pediatría,03/06/2019,163.79
+P00947,Lucía Fernández,25,M,San Isidro,NA,12/02/2019,527.76
+P00570,Carlos Pérez,32,NA,Comas,Cardiología,15/12/2025,842.17
+P01021,,,F,NA,Emergencia,19/06/2018,834.62
+P01264,Ana Flores,30,,NA,Vacunación,24/12/2025,270.43
+P00328,Carlos Fernández,42,M,Comas,Cardiología,27/11/2020,444.72
+P00872,Carlos Torres,10,,La Molina,Odontología,13/01/2018,72.5
+P02237,Lucía Fernández,65,M,Miraflores,,11/12/2021,475.72
+P02971,Rosa Vargas,197,NA,Callao,Emergencia,31/12/2030,0
+P02943,Pedro Fernández,165,F,Lince,Odontología,18/08/2029,566.69
+P00857,Javier Ruiz,30,NA,San Isidro,Odontología,16/04/2023,540.7
+P00082,Luis Mendoza,68,NA,Comas,Pediatría,20/05/2020,959.4
+P00547,Miguel Ruiz,1,M,Comas,Odontología,19/07/2018,
+P01728,NA,61,NA,La Molina,Rayos X,14/09/2024,350.89
+P00134,Carlos Pérez,75,NA,Comas,Odontología,09/01/2020,193.17
+P01672,Carmen Castillo,NA,M,Comas,NA,03/04/2019,175.95
+P01836,Miguel Vargas,NA,F,NA,Odontología,13/03/2023,986.79
+P02552,María Pérez,68,F,NA,Cardiología,31/07/2018,542.02
+P00363,Pedro Torres,39,NA,Callao,NA,09/10/2021,747.8
+P02176,Patricia Mendoza,47,NA,Lince,Cardiología,08/09/2020,752.73
+P00400,Javier Mendoza,43,F,Miraflores,Vacunación,09/05/2025,31.22
+P02378,Miguel Castillo,20,NA,Lince,Rayos X,28/06/2020,132.63
+P00992,Pedro Flores,86,M,NA,Rayos X,,609.42
+P02678,José Mendoza,23,NA,Surco,Pediatría,06/05/2020,
+P00429,María Gómez,12,M,San Isidro,,19/08/2019,889.98
+P01712,NA,66,NA,Surco,Cardiología,31/03/2023,632.24
+P01538,Carlos Pérez,54,F,Surco,Pediatría,01/02/2025,137.59
+P02359,María Mendoza,66,NA,NA,Vacunación,21/10/2019,167.57
+P01575,Carlos Fernández,8,NA,Surco,Emergencia,16/07/2021,752.91
+P00072,Patricia Gómez,41,F,Surco,Emergencia,06/03/2022,NA
+P02617,Ana Mendoza,66,M,Lince,NA,25/03/2018,729.64
+P00529,Rosa Vargas,19,M,San Isidro,,13/03/2020,765.5
+P01397,Carlos Torres,32,F,Comas,Odontología,16/07/2020,394.87
+P02865,María Flores,193,X,NA,Emergencia,03/05/2030,25.83
+P02409,Ana Ramos,60,F,Miraflores,Emergencia,16/10/2025,836.64
+P00391,Patricia Mendoza,28,M,,Emergencia,14/03/2019,929.85
+P00916,NA,33,NA,Surco,Odontología,10/11/2018,314.74
+P02447,Pedro Ramos,,M,NA,Vacunación,12/05/2021,341.86
+P01080,Carlos Fernández,83,F,San Isidro,NA,01/09/2025,620.34
+P01972,Carmen Pérez,46,NA,Miraflores,Rayos X,19/08/2022,
+P02627,Carlos Ruiz,48,NA,Comas,NA,31/10/2018,NA
+P00864,Patricia Vargas,87,NA,Comas,Emergencia,18/05/2021,525.5
+P00268,,8,NA,NA,NA,11/01/2019,693.67
+P02912,Pedro Vargas,-17,NA,Callao,NA,01/02/2030,0
+P00793,Luis Gómez,77,M,San Isidro,Cardiología,07/03/2024,146.1
+P01217,Lucía Flores,2,M,Miraflores,Consulta General,17/04/2024,653.4
+P02375,Lucía Ramos,NA,NA,Miraflores,Cardiología,30/12/2020,358.22
+P01295,Miguel Castillo,69,F,San Isidro,Odontología,21/07/2023,887.81
+P01896,José Castillo,42,NA,Miraflores,NA,10/08/2021,69.47
+P00426,Miguel Ramos,73,M,Surco,Consulta General,02/02/2019,643.32
+P00432,Carlos Pérez,13,M,Surco,NA,03/09/2020,180.03
+P01644,Ana Torres,57,F,Surco,Pediatría,12/10/2022,932.65
+P00307,Lucía Gómez,61,F,La Molina,NA,14/04/2020,111.63
+P00453,Patricia Vargas,52,NA,Miraflores,NA,22/08/2019,898.31
+P02814,Miguel Mendoza,66,M,NA,Consulta General,14/07/2019,954.74
+P00507,Rosa Flores,64,F,NA,Emergencia,06/02/2021,426.97
+P02437,Ana Fernández,15,NA,Callao,NA,15/08/2024,597.23
+P02448,Pedro Torres,12,M,San Isidro,NA,10/01/2020,191.34
+P00963,Carmen Ruiz,78,NA,La Molina,Vacunación,05/09/2020,676.26
+P00831,José Mendoza,3,F,Miraflores,Vacunación,25/05/2025,452.5
+P01242,,46,NA,NA,Cardiología,17/06/2025,706.94
+P00054,Lucía Pérez,81,NA,NA,Pediatría,26/04/2018,686.13
+P01046,Luis Ruiz,65,F,Callao,Odontología,16/06/2018,670.38
+P02393,Miguel Ruiz,2,NA,Surco,Odontología,19/02/2018,172.56
+P01505,Carmen Ramos,44,M,La Molina,Pediatría,17/09/2021,184.44
+P00473,Miguel Ruiz,76,M,La Molina,Pediatría,28/05/2022,30.15
+P01881,María Gómez,41,F,Callao,Rayos X,17/05/2024,558.17
+P02888,Carmen Torres,-3,M,Comas,Rayos X,25/12/2028,0
+P02676,Patricia Flores,49,NA,Lince,Rayos X,29/05/2023,802.59
+P01662,Pedro Vargas,11,F,Callao,Rayos X,23/04/2022,73.41
+P01380,Luis Vargas,37,F,Comas,Vacunación,14/12/2024,599.15
+P00983,Patricia Fernández,21,F,Callao,Cardiología,03/08/2021,533.96
+P01516,Lucía Vargas,15,NA,NA,NA,17/12/2019,556.99
+P02430,Lucía Flores,84,M,Lince,Vacunación,28/02/2020,756.11
+P01926,Javier Gómez,46,NA,Comas,Emergencia,03/09/2021,347.0
+P00743,Pedro Mendoza,12,M,San Isidro,Pediatría,23/05/2022,224.03
+P00386,,18,NA,NA,NA,29/12/2022,764.94
+P01180,Lucía Torres,76,NA,Surco,Emergencia,07/12/2025,809.39
+P00144,José Ramos,3,F,NA,Consulta General,04/11/2021,176.07
+P01506,Lucía Torres,6,NA,NA,NA,01/02/2019,699.37
+P02281,Miguel Flores,59,NA,Miraflores,Emergencia,30/06/2022,457.61
+P00475,Luis Ruiz,53,M,Lince,Consulta General,22/12/2024,741.19
+P00468,Carlos Gómez,38,M,Comas,Pediatría,27/08/2020,924.2
+P01385,Javier Ruiz,31,M,NA,Pediatría,23/08/2025,263.46
+P01922,Javier Torres,90,F,Surco,Vacunación,10/01/2020,898.05
+P02162,Rosa Ruiz,42,M,La Molina,Odontología,06/11/2020,792.08
+P02533,Carmen Vargas,19,NA,Lince,Rayos X,22/02/2019,629.2
+P02138,Ana Flores,80,NA,Comas,Rayos X,16/05/2025,959.87
+P01412,Carmen Pérez,10,M,,Vacunación,01/07/2024,985.07
+P01560,Ana Ramos,37,F,Callao,NA,10/05/2021,NA
+P00966,Lucía Gómez,76,M,La Molina,Pediatría,31/01/2021,811.42
+P01125,Patricia Ruiz,82,NA,San Isidro,Vacunación,26/04/2022,271.11
+P02303,NA,40,NA,San Isidro,Pediatría,12/01/2018,516.75
+P02706,Rosa Ramos,42,NA,Callao,Pediatría,09/10/2022,749.18
+P00440,Carmen Pérez,54,M,La Molina,Vacunación,11/06/2018,143.6
+P01957,Carmen Torres,36,F,Lince,Rayos X,24/11/2025,691.32
+P01289,María Fernández,54,F,Surco,NA,17/07/2018,828.33
+P00906,NA,16,NA,Comas,NA,23/04/2025,38.28
+P00339,Carlos Ramos,4,M,NA,Vacunación,04/02/2021,918.72
+P01135,Patricia Pérez,62,F,NA,Emergencia,28/12/2022,935.01
+P00032,José Fernández,,NA,San Isidro,Consulta General,22/07/2024,697.63
+P01824,Rosa Ruiz,75,F,Surco,Consulta General,,851.46
+P00863,Miguel Ramos,62,NA,Surco,Cardiología,17/06/2021,
+P00344,Miguel Ramos,23,M,La Molina,Rayos X,28/08/2022,347.31
+P01604,Carlos Mendoza,71,M,La Molina,Emergencia,20/11/2025,846.52
+P01790,Miguel Ramos,81,F,NA,Pediatría,28/02/2021,352.99
+P00033,Carmen Torres,54,F,Lince,,11/04/2021,585.26
+P01044,,22,NA,La Molina,Emergencia,28/11/2022,427.14
+P01540,María Vargas,62,F,NA,Vacunación,15/09/2019,
+P00638,Carmen Ruiz,24,M,Surco,NA,05/08/2025,140.8
+P02204,Ana Vargas,56,NA,NA,NA,17/05/2019,877.0
+P01888,María Mendoza,66,NA,,Pediatría,07/10/2019,709.64
+P01786,Carmen Pérez,49,NA,La Molina,Pediatría,02/04/2018,180.83
+P02372,Miguel Gómez,71,,Comas,Consulta General,08/03/2021,90.76
+P00981,Ana Ruiz,53,F,Comas,Pediatría,17/05/2023,588.27
+P00260,Ana Fernández,70,M,NA,Consulta General,26/10/2024,577.49
+P00368,Lucía Castillo,79,NA,NA,NA,01/03/2025,144.27
+P02181,,45,F,Miraflores,Emergencia,25/09/2019,508.26
+P02148,Miguel Gómez,61,F,Callao,Vacunación,28/04/2019,405.22
+P02680,NA,13,NA,Comas,Consulta General,11/10/2023,989.03
+P02122,Patricia Flores,7,NA,Surco,Rayos X,16/03/2023,291.12
+P00693,Ana Fernández,30,NA,Callao,Cardiología,18/09/2020,978.36
+P01849,Rosa Gómez,61,F,NA,Consulta General,19/03/2021,
+P00951,Carlos Gómez,68,NA,La Molina,Vacunación,17/09/2021,740.34
+P00816,Miguel Pérez,20,M,NA,Vacunación,27/12/2025,539.52
+P01070,Miguel Pérez,NA,NA,Miraflores,Pediatría,09/03/2025,282.5
+P02491,Lucía Castillo,31,M,NA,NA,05/08/2018,548.69
+P00271,Carmen Fernández,81,,Comas,Emergencia,22/04/2022,120.58
+P01919,Carlos Ramos,6,M,Surco,Odontología,06/09/2019,599.36
+P00335,José Gómez,81,NA,San Isidro,Rayos X,12/05/2020,297.88
+P00152,Rosa Pérez,67,F,Lince,NA,27/06/2020,436.4
+P00157,Ana Torres,48,F,Lince,Cardiología,26/06/2020,277.79
+P02775,NA,71,M,Comas,Vacunación,14/07/2020,777.21
+P01694,,88,F,San Isidro,NA,,834.88
+P00293,Javier Ramos,24,M,Lince,Cardiología,20/06/2023,858.3
+P02265,Carmen Ramos,61,NA,Miraflores,Consulta General,06/09/2024,454.63
+P00049,Pedro Flores,86,M,Surco,Pediatría,11/02/2019,868.67
+P02976,Lucía Fernández,-11,F,Comas,Vacunación,29/01/2026,0
+P02623,Ana Ruiz,68,NA,Lince,Odontología,10/05/2025,75.54
+P00951,Carlos Gómez,68,NA,La Molina,Vacunación,17/09/2021,740.34
+P02569,NA,44,F,,Rayos X,26/03/2024,667.02
+P00228,Ana Ruiz,68,M,Lince,Pediatría,27/06/2018,781.19
+P00958,Carlos Torres,80,NA,Lince,Emergencia,17/06/2022,782.98
+P00040,NA,40,F,Lince,Vacunación,14/04/2019,323.49
+P00289,Lucía Torres,9,F,Surco,Emergencia,04/06/2023,611.54
+P01968,Javier Fernández,,NA,NA,Vacunación,NA,456.11
+P01906,Carlos Pérez,84,F,Callao,Emergencia,08/06/2025,198.28
+P02103,Ana Flores,85,M,Miraflores,Consulta General,06/07/2021,713.15
+P01710,Rosa Torres,54,F,Callao,Rayos X,08/10/2021,215.34
+P00815,Javier Castillo,37,M,Miraflores,Emergencia,20/07/2018,772.8
+P00250,Carlos Ramos,31,NA,La Molina,Cardiología,01/04/2024,243.02
+P02511,Ana Ruiz,48,M,Surco,Cardiología,09/05/2023,765.41
+P01230,Pedro Mendoza,NA,F,Miraflores,Emergencia,13/10/2019,706.32
+P02502,Carlos Ramos,62,F,La Molina,Cardiología,16/11/2021,354.26
+P00849,Carmen Ramos,33,F,La Molina,Odontología,12/07/2024,743.69
+P00164,Miguel Gómez,2,F,Miraflores,Odontología,08/04/2019,
+P00069,José Mendoza,33,F,Callao,Vacunación,18/12/2024,525.37
+P00530,María Torres,,F,Callao,Vacunación,20/08/2018,558.34
+P00637,Carlos Ruiz,52,M,Surco,Vacunación,17/01/2019,212.86
+P01122,Pedro Vargas,59,F,Comas,Rayos X,22/07/2020,279.39
+P02587,Pedro Gómez,23,NA,Comas,Odontología,28/02/2022,462.44
+P01980,Luis Flores,63,NA,,NA,20/10/2018,974.59
+P01842,Javier Castillo,56,NA,Miraflores,Consulta General,07/10/2024,745.46
+P00208,Patricia Mendoza,15,NA,Miraflores,Cardiología,16/06/2024,
+P01880,Miguel Castillo,59,M,NA,Pediatría,06/04/2024,192.04
+P02978,Miguel Mendoza,-15,M,NA,NA,17/05/2026,0
+P01921,Patricia Mendoza,60,NA,Comas,Consulta General,26/10/2022,451.52
+P00615,Miguel Mendoza,7,M,NA,NA,13/01/2019,156.53
+P01187,Carlos Fernández,55,NA,Comas,Vacunación,26/04/2021,508.57
+P00080,Patricia Pérez,48,F,Miraflores,Vacunación,13/07/2022,137.79
+P02348,María Mendoza,51,M,Miraflores,Rayos X,26/11/2024,617.36
+P00978,Ana Ruiz,35,F,San Isidro,Pediatría,25/06/2022,441.0
+P00061,,63,NA,Comas,Vacunación,15/04/2021,624.03
+P01422,Luis Castillo,4,F,Lince,Odontología,12/01/2024,105.01
+P02335,Carlos Torres,23,M,Lince,NA,18/09/2018,NA
+P00265,Patricia Fernández,14,F,La Molina,Odontología,21/04/2018,524.17
+P02441,Miguel Torres,NA,NA,Callao,Vacunación,12/12/2020,750.57
+P01577,Carlos Torres,73,F,La Molina,NA,18/10/2021,905.16
+P00565,Pedro Ramos,14,M,Callao,Consulta General,29/08/2024,303.42
+P02102,Rosa Fernández,38,F,Lince,Consulta General,09/05/2022,524.98
+P00118,Rosa Castillo,80,F,Surco,Rayos X,17/08/2019,62.68
+P02095,Javier Gómez,43,M,San Isidro,Odontología,NA,96.73
+P01682,Ana Gómez,40,NA,Surco,Rayos X,06/12/2020,805.1
+P01360,Rosa Pérez,34,M,NA,Consulta General,22/06/2024,952.2
+P00933,José Flores,63,NA,Lince,NA,21/06/2018,720.89
+P00139,Patricia Mendoza,50,M,Comas,NA,05/01/2020,901.54
+P02298,Miguel Mendoza,52,F,Callao,Odontología,25/10/2021,311.88
+P01118,Miguel Mendoza,6,M,NA,Emergencia,27/06/2024,909.14
+P02338,NA,24,NA,,NA,17/01/2024,109.54
+P01868,Patricia Ramos,34,F,Callao,NA,24/02/2025,116.36
+P01261,Rosa Fernández,20,F,La Molina,Vacunación,18/06/2020,652.32
+P00269,Rosa Vargas,NA,F,Miraflores,Pediatría,29/11/2025,713.95
+P02584,NA,19,NA,Comas,NA,05/04/2020,246.94
+P00679,José Ramos,56,F,San Isidro,Consulta General,11/06/2019,619.58
+P00619,Patricia Ruiz,55,F,NA,Emergencia,20/03/2021,297.8
+P00350,NA,26,NA,NA,Consulta General,14/10/2024,463.93
+P02987,Rosa Gómez,-1,F,San Isidro,Cardiología,03/09/2034,0
+P01298,José Torres,60,M,La Molina,Pediatría,22/01/2022,540.58
+P00612,José Mendoza,53,M,Surco,Vacunación,08/12/2022,254.01
+P01258,María Castillo,47,M,Callao,Odontología,24/05/2020,953.06
+P00375,Carlos Flores,29,F,La Molina,Consulta General,11/05/2019,418.67
+P00626,Carmen Fernández,9,M,Surco,Cardiología,24/01/2023,495.59
+P01624,Lucía Castillo,53,F,,Rayos X,18/04/2018,704.82
+P00610,Patricia Ruiz,27,NA,Callao,Pediatría,10/12/2020,118.94
+P02505,Luis Castillo,34,M,Surco,Consulta General,22/09/2022,153.0
+P00680,Javier Ramos,18,NA,Miraflores,Consulta General,,824.48
+P02088,Luis Mendoza,42,F,La Molina,Odontología,31/12/2024,226.76
+P01232,José Flores,56,M,La Molina,Consulta General,23/06/2018,NA
+P01671,Pedro Ruiz,35,M,Comas,Cardiología,16/11/2024,363.85
+P02065,Patricia Mendoza,72,F,,NA,14/10/2019,771.75
+P02209,Miguel Torres,3,M,NA,Cardiología,17/09/2018,433.87
+P00786,Rosa Gómez,3,NA,Callao,Emergencia,15/06/2024,417.44
+P01742,Ana Flores,30,F,Lince,NA,23/02/2024,721.63
+P00342,Luis Castillo,70,NA,NA,Odontología,09/07/2023,58.49
+P02891,Miguel Vargas,-15,F,Comas,Pediatría,31/05/2026,624.99
+P02684,Patricia Vargas,52,NA,NA,Rayos X,01/04/2019,362.78
+P01347,Miguel Castillo,41,F,Miraflores,NA,12/05/2025,764.79
+P02786,María Mendoza,48,,La Molina,Emergencia,,839.37
+P01568,José Fernández,54,F,Lince,Vacunación,07/03/2023,70.3
+P01098,Rosa Mendoza,51,NA,NA,Pediatría,13/11/2019,591.46
+P02424,Lucía Gómez,79,F,San Isidro,Odontología,31/12/2018,693.67
+P01323,NA,58,M,Comas,Odontología,27/09/2019,953.46
+P01001,Rosa Pérez,89,F,Comas,NA,29/09/2022,715.25
+P00741,Luis Gómez,70,F,La Molina,Odontología,28/08/2024,81.39
+P02778,Patricia Gómez,56,NA,La Molina,Vacunación,28/12/2022,183.37
+P00474,Ana Fernández,56,F,Surco,Odontología,13/07/2023,405.29
+P02852,Miguel Flores,-19,X,Surco,Otro,19/07/2029,0
+P01885,Rosa Ramos,24,M,Surco,Odontología,10/05/2020,175.54
+P02542,Carlos Castillo,65,NA,Comas,Odontología,14/12/2019,198.45
+P02041,Lucía Castillo,30,NA,Lince,Emergencia,28/11/2024,185.55
+P00876,Lucía Ramos,80,M,NA,Vacunación,30/04/2022,888.48
+P01775,Carmen Flores,78,NA,Lince,Cardiología,03/10/2019,444.75
+P02572,Miguel Fernández,17,NA,La Molina,Rayos X,21/01/2021,43.46
+P00877,Miguel Gómez,NA,F,Comas,Rayos X,15/06/2025,848.88
+P00367,María Pérez,86,M,Callao,Cardiología,25/09/2019,584.06
+P01762,Ana Castillo,25,NA,Lince,Emergencia,12/01/2022,248.03
+P01050,Ana Fernández,70,M,Comas,Rayos X,14/12/2025,246.64
+P02079,Lucía Ramos,76,M,Surco,Consulta General,26/01/2019,312.2
+P00001,Javier Flores,38,F,Lince,Vacunación,09/04/2018,728.68
+P00724,Carmen Ruiz,89,F,Comas,Cardiología,05/06/2021,686.31
+P02245,Carlos Vargas,43,F,Miraflores,Pediatría,12/03/2019,535.44
+P01744,Carmen Torres,87,NA,NA,Emergencia,03/04/2021,751.59
+P00279,María Pérez,44,M,Lince,NA,19/02/2025,76.58
+P00053,Patricia Pérez,79,NA,Callao,Cardiología,,321.52
+P01455,Ana Fernández,11,NA,Callao,Odontología,25/04/2020,364.77
+P01793,,28,M,NA,Vacunación,19/03/2020,781.89
+P01356,Carmen Vargas,35,M,San Isidro,Pediatría,03/01/2019,786.71
+P02071,Patricia Ruiz,51,M,Surco,Odontología,23/11/2020,143.13
+P02848,Luis Castillo,76,F,Callao,Emergencia,26/03/2022,874.77
+P00470,,15,NA,San Isidro,Odontología,29/01/2019,60.9
+P02963,Ana Castillo,162,X,Comas,Odontología,11/05/2031,-50
+P02440,José Ramos,40,M,Lince,Rayos X,28/03/2020,929.27
+P00273,María Mendoza,88,M,La Molina,Emergencia,11/06/2018,361.58
+P02589,Luis Ramos,38,F,Lince,,19/06/2020,952.57
+P01827,Rosa Castillo,45,M,Comas,Emergencia,09/08/2019,61.21
+P00546,Carlos Vargas,29,NA,San Isidro,NA,22/08/2023,352.73
+P00135,Patricia Ruiz,11,F,Surco,Consulta General,06/09/2020,143.29
+P02400,Carlos Fernández,7,M,Comas,NA,21/08/2018,771.44
+P00728,Patricia Torres,NA,NA,NA,NA,20/09/2018,403.09
+P02728,Rosa Gómez,17,F,Surco,Pediatría,08/11/2025,765.82
+P02005,Ana Castillo,79,M,Comas,Cardiología,29/11/2019,665.35
+P02803,Miguel Ramos,73,M,NA,Emergencia,26/07/2021,310.91
+P00382,María Gómez,NA,M,Callao,Rayos X,25/04/2023,22.11
+P02330,Rosa Pérez,35,NA,Miraflores,Emergencia,01/08/2023,265.43
+P00421,Lucía Torres,14,F,Comas,Pediatría,14/09/2023,485.74
+P02614,José Flores,56,NA,Callao,Cardiología,16/11/2021,27.08
+P00002,Miguel Pérez,40,NA,,Pediatría,31/03/2024,37.15
+P01573,María Ruiz,NA,NA,Miraflores,Rayos X,12/05/2024,303.63
+P02476,,74,NA,Miraflores,Consulta General,10/07/2018,129.9
+P02481,Luis Castillo,9,M,San Isidro,Rayos X,01/02/2020,971.83
+P02763,José Gómez,21,M,San Isidro,Odontología,19/08/2022,374.39
+P01073,Patricia Castillo,86,F,NA,Consulta General,11/06/2025,720.94
+P02469,Luis Torres,22,M,Comas,Pediatría,17/02/2025,335.72
+P01843,Patricia Fernández,4,F,San Isidro,Emergencia,24/05/2023,608.9
+P01567,José Ramos,52,M,Miraflores,NA,26/04/2024,110.88
+P02294,Luis Mendoza,55,F,,Cardiología,14/06/2024,627.4
+P02314,NA,40,M,Comas,Consulta General,15/10/2019,191.7
+P02596,,56,F,Callao,NA,,943.63
+P02604,Carmen Pérez,64,M,Surco,Vacunación,03/10/2019,34.51
+P02033,Miguel Vargas,34,NA,Surco,Pediatría,09/02/2025,835.11
+P01729,Ana Torres,54,F,La Molina,Pediatría,13/04/2021,476.25
+P01884,José Gómez,15,M,Callao,NA,04/03/2024,898.04
+P01330,Miguel Fernández,63,F,Surco,Odontología,08/04/2020,311.5
+P00667,Lucía Fernández,,M,Miraflores,Vacunación,26/12/2022,832.88
+P02697,José Pérez,73,F,NA,Pediatría,11/01/2023,235.53
+P00902,Carlos Castillo,29,NA,Callao,Cardiología,17/08/2022,179.59
+P00128,Patricia Fernández,38,F,NA,Odontología,11/09/2024,154.59
+P00710,Pedro Gómez,20,M,NA,NA,02/05/2020,39.04
+P01984,NA,1,NA,La Molina,NA,12/02/2019,255.09
+P02431,Luis Gómez,87,NA,Comas,Cardiología,07/06/2019,353.25
+P02508,Luis Pérez,84,NA,Miraflores,Odontología,14/07/2021,804.52
+P02221,Lucía Torres,38,M,Lince,NA,04/08/2018,345.82
+P02868,Miguel Ramos,169,F,Callao,Emergencia,20/02/2033,0
+P00881,NA,80,M,La Molina,Cardiología,07/08/2018,342.12
+P00944,Carmen Fernández,30,NA,Comas,Emergencia,11/07/2019,634.81
+P02035,Pedro Flores,16,M,Comas,Vacunación,31/12/2021,
+P01190,Ana Flores,87,NA,Lince,Consulta General,14/07/2019,755.99
+P02492,María Mendoza,37,M,NA,Rayos X,28/10/2019,864.31
+P01940,Lucía Pérez,12,F,Miraflores,,26/01/2023,120.18
+P00837,Miguel Fernández,41,M,Callao,Consulta General,29/04/2020,61.57
+P00625,José Flores,47,M,Lince,Emergencia,31/10/2021,945.7
+P00407,Lucía Mendoza,49,F,Lince,Vacunación,23/07/2021,81.95
+P02806,Patricia Mendoza,85,M,La Molina,Vacunación,19/09/2023,143.27
+P00148,Lucía Ramos,,NA,Lince,Rayos X,14/01/2025,971.65
+P02519,Luis Mendoza,60,NA,Lince,Cardiología,28/06/2024,182.87
+P01822,Javier Gómez,82,M,La Molina,Rayos X,23/04/2024,698.26
+P02649,Javier Fernández,49,M,,NA,14/11/2024,805.17
+P00480,Rosa Gómez,7,M,NA,,05/06/2025,106.07
+P00490,Patricia Mendoza,88,F,NA,Pediatría,27/06/2021,236.09
+P02812,Rosa Castillo,23,F,Miraflores,NA,05/09/2020,657.75
+P01269,Javier Torres,84,NA,Miraflores,Emergencia,19/07/2020,472.93
+P00606,Miguel Mendoza,83,M,,Consulta General,15/05/2024,619.79
+P02336,Carmen Flores,16,NA,Surco,Vacunación,04/02/2024,524.48
+P01803,Miguel Fernández,19,F,NA,Consulta General,22/03/2023,22.93
+P00516,Miguel Ruiz,15,M,Lince,Cardiología,05/04/2025,215.47
+P01750,Carlos Ruiz,39,F,NA,NA,28/11/2025,27.42
+P02932,María Mendoza,-6,X,La Molina,Pediatría,01/02/2029,0
+P01127,Patricia Gómez,42,M,Callao,Emergencia,22/09/2019,NA
+P01622,Pedro Castillo,30,NA,Lince,Vacunación,16/04/2021,548.4
+P00479,José Vargas,47,F,Miraflores,Consulta General,18/04/2022,669.12
+P02500,Ana Vargas,51,NA,Surco,Consulta General,27/02/2020,496.18
+P02994,José Gómez,-1,X,Lince,Cardiología,12/05/2028,-50
+P01246,Carlos Ruiz,35,F,Comas,Rayos X,26/02/2020,485.35
+P00689,NA,25,M,Callao,Consulta General,07/07/2021,357.01
+P01020,Pedro Gómez,52,NA,Surco,Vacunación,05/11/2025,722.23
+P00507,Rosa Flores,64,F,NA,Emergencia,06/02/2021,426.97
+P00212,Rosa Gómez,86,M,La Molina,Consulta General,18/12/2021,148.61
+P01574,Carlos Mendoza,86,NA,Miraflores,Pediatría,25/07/2024,288.38
+P01769,Carlos Castillo,79,F,Surco,Consulta General,01/01/2025,208.37
+P02068,Javier Gómez,72,NA,San Isidro,Vacunación,10/11/2022,350.94
+P00922,,24,F,La Molina,Emergencia,01/01/2025,939.54
+P02540,José Castillo,13,,Lince,Cardiología,05/01/2018,835.63
+P00802,Rosa Pérez,45,F,NA,Consulta General,23/01/2018,828.18
+P02707,Rosa Ramos,59,M,Miraflores,Rayos X,12/07/2023,635.0
+P02411,Javier Torres,68,NA,Surco,Pediatría,22/11/2019,320.39
+P00868,María Flores,3,M,Miraflores,Cardiología,06/10/2018,487.61
+P01222,Ana Flores,9,NA,NA,Pediatría,12/09/2021,52.67
+P01663,Javier Flores,19,M,Comas,NA,24/11/2023,489.87
+P02729,María Torres,63,M,La Molina,NA,30/04/2018,213.4
+P00226,María Flores,10,NA,La Molina,Consulta General,11/02/2021,216.48
+P01418,Carmen Pérez,65,NA,NA,Emergencia,11/07/2019,NA
+P01586,Pedro Torres,20,F,San Isidro,Rayos X,NA,NA
+P01584,María Fernández,34,M,Callao,Vacunación,13/05/2020,450.5
+P01325,Carlos Gómez,,M,Callao,Cardiología,30/09/2021,263.08
+P02299,Ana Vargas,13,F,NA,Consulta General,23/12/2022,695.95
+P00967,Ana Flores,53,NA,Comas,Pediatría,24/11/2022,471.39
+P00416,Javier Pérez,36,NA,Surco,Pediatría,25/06/2019,474.75
+P00900,NA,57,F,San Isidro,Cardiología,26/08/2019,354.74
+P01814,Lucía Ruiz,89,M,Surco,Vacunación,15/07/2024,980.8
+P01823,Carmen Flores,10,,Miraflores,NA,22/09/2025,671.1
+P01287,Rosa Fernández,3,NA,Miraflores,Odontología,03/04/2023,924.5
+P02402,Rosa Fernández,46,M,Miraflores,Consulta General,18/12/2018,497.22
+P02823,Pedro Ruiz,38,F,Surco,Consulta General,14/06/2023,729.48
+P00402,Lucía Castillo,32,M,Comas,,16/04/2020,948.26
+P02384,,87,M,NA,Vacunación,08/10/2019,788.57
+P01247,Patricia Mendoza,45,NA,San Isidro,Emergencia,25/03/2019,766.59
+P01477,Luis Fernández,27,NA,San Isidro,Odontología,19/05/2020,496.34
+P02197,,28,F,NA,Consulta General,19/02/2022,114.6
+P01531,Lucía Ramos,50,M,San Isidro,Vacunación,08/12/2023,597.64
+P01986,María Gómez,19,NA,Miraflores,Emergencia,08/07/2025,213.57
+P00435,Miguel Castillo,28,M,NA,Cardiología,02/12/2020,228.05
+P01645,,86,F,Miraflores,Cardiología,01/06/2022,255.58
+P01081,Ana Castillo,19,M,Callao,Rayos X,27/09/2021,688.14
+P01509,Carmen Torres,38,M,Miraflores,NA,17/08/2019,745.28
+P00372,Patricia Castillo,83,NA,Surco,Consulta General,,969.36
+P00712,María Vargas,54,F,Callao,,,937.71
+P01472,Luis Ruiz,28,F,Comas,Emergencia,04/09/2021,85.19
+P00160,Ana Flores,49,NA,Lince,Consulta General,18/10/2018,381.27
+P01818,Patricia Torres,57,M,Lince,NA,26/02/2024,840.05
+P02125,Patricia Ramos,36,NA,,Emergencia,11/09/2019,378.63
+P00873,María Vargas,10,F,La Molina,Odontología,,435.13
+P01976,Patricia Ruiz,27,NA,NA,NA,24/11/2019,180.53
+P02092,María Mendoza,83,M,Surco,Cardiología,11/01/2019,917.31
+P01192,Ana Ruiz,9,M,Callao,Emergencia,09/01/2024,NA
+P02687,Miguel Ramos,40,NA,Comas,Vacunación,13/12/2022,
+P01596,Rosa Mendoza,23,M,Miraflores,NA,01/01/2019,871.3
+P01452,Patricia Gómez,90,M,NA,Pediatría,28/06/2025,81.74
+P01502,Luis Vargas,89,NA,La Molina,Emergencia,07/01/2021,30.28
+P02019,Lucía Torres,82,M,NA,NA,24/02/2023,623.09
+P00827,Miguel Gómez,36,F,Surco,Pediatría,26/09/2021,745.93
+P00209,Rosa Vargas,35,M,Surco,Rayos X,22/03/2020,997.39
+P01865,NA,60,,Surco,Rayos X,15/01/2025,530.11
+P02873,Carmen Fernández,-1,X,San Isidro,Cardiología,13/10/2026,0
+P00775,Lucía Torres,23,M,La Molina,Odontología,12/08/2024,324.58
+P00431,Carmen Gómez,90,F,La Molina,Emergencia,06/01/2018,797.17
+P01938,José Ruiz,41,M,Callao,Vacunación,18/06/2022,726.11
+P01852,José Vargas,58,M,Lince,Consulta General,03/11/2019,415.28
+P01739,Lucía Pérez,87,NA,Surco,Vacunación,19/01/2022,371.5
+P00645,Javier Ruiz,46,M,La Molina,Pediatría,15/03/2018,447.91
+P02994,Lucía Flores,0,X,Desconocido,Otro,20/12/2034,0
+P01844,María Torres,3,NA,Surco,Odontología,25/11/2023,753.62
+P01313,Luis Mendoza,10,NA,La Molina,Vacunación,03/12/2021,939.15
+P02037,Miguel Gómez,75,M,La Molina,Cardiología,26/10/2020,113.85
+P00828,Miguel Vargas,54,NA,Surco,Consulta General,18/04/2024,772.94
+P01309,Luis Castillo,8,M,La Molina,Cardiología,31/12/2018,
+P02126,,32,NA,,Pediatría,27/07/2022,398.42
+P02129,Miguel Flores,45,NA,Surco,Vacunación,09/08/2024,781.99
+P02903,Ana Castillo,150,M,Desconocido,Rayos X,25/05/2031,-50
+P00941,Luis Mendoza,56,NA,San Isidro,Rayos X,21/07/2022,982.54
+P01286,,43,F,Surco,Odontología,21/09/2019,129.43
+P01767,Lucía Pérez,51,NA,Miraflores,Pediatría,14/06/2020,912.87
+P02667,NA,70,M,NA,NA,27/04/2018,528.52
+P00707,NA,1,NA,NA,Odontología,27/04/2020,694.74
+P00949,Javier Torres,51,NA,Surco,Vacunación,04/09/2020,647.65
+P00347,Pedro Ruiz,73,NA,San Isidro,Consulta General,16/02/2023,454.6
+P02289,Rosa Torres,6,NA,NA,NA,02/03/2024,620.78
+P00346,Luis Ruiz,38,M,Comas,NA,19/06/2021,689.16
+P02635,Miguel Fernández,17,M,Miraflores,Pediatría,13/01/2024,475.93
+P02487,María Torres,12,,Comas,Consulta General,02/09/2019,20.37
+P00254,Rosa Flores,72,F,Lince,Cardiología,08/12/2023,508.93
+P02980,José Torres,-20,M,San Isidro,Odontología,30/04/2034,0
+P00537,Patricia Mendoza,36,NA,Surco,Vacunación,08/02/2019,98.94
+P00316,Lucía Fernández,59,M,Callao,Cardiología,15/05/2023,326.12
+P01673,Patricia Ramos,NA,NA,Lince,Cardiología,09/01/2024,397.07
+P00952,Pedro Flores,80,M,Surco,Pediatría,08/12/2023,624.06
+P02347,Patricia Ruiz,9,M,Comas,NA,08/07/2024,709.08
+P00194,José Ramos,55,NA,San Isidro,,08/01/2022,714.35
+P00826,María Mendoza,45,M,NA,Rayos X,12/08/2023,727.93
+P00892,Luis Fernández,69,NA,Callao,Consulta General,10/04/2023,688.5
+P02099,Ana Gómez,,F,San Isidro,NA,,914.09
+P02693,Ana Pérez,57,M,La Molina,NA,13/05/2020,803.98
+P02327,María Ramos,62,M,San Isidro,Pediatría,02/10/2025,593.69
+P01971,Lucía Vargas,5,NA,Surco,Vacunación,18/06/2019,579.88
+P00717,Miguel Pérez,52,F,Miraflores,NA,27/07/2020,368.01
+P00203,Rosa Flores,54,NA,NA,NA,08/09/2024,478.31
+P00985,Lucía Fernández,28,M,NA,Emergencia,08/09/2021,683.13
+P00311,Pedro Vargas,89,F,Callao,Rayos X,16/07/2023,851.06
+P01525,Carlos Castillo,57,M,Surco,Cardiología,29/04/2025,386.32
+P00301,Rosa Pérez,6,F,La Molina,Cardiología,18/05/2020,36.45
+P00280,Patricia Vargas,27,F,Comas,Rayos X,05/11/2018,406.4
+P00300,Luis Ramos,77,M,Lince,Rayos X,11/06/2020,985.07
+P01182,María Torres,34,F,San Isidro,Cardiología,24/11/2020,806.86
+P01672,Carmen Castillo,NA,M,Comas,NA,03/04/2019,175.95
+P02081,Javier Pérez,60,M,Comas,Odontología,23/06/2022,688.89
+P00446,Miguel Mendoza,17,NA,Comas,NA,19/04/2021,771.57
+P00917,Ana Pérez,16,,Callao,Emergencia,09/01/2023,66.88
+P01485,Pedro Mendoza,69,M,Lince,Rayos X,18/06/2022,572.65
+P00853,Rosa Castillo,,NA,Comas,Odontología,,407.2
+P00988,José Ruiz,64,NA,Comas,Odontología,05/05/2018,559.27
+P01037,Rosa Gómez,26,M,Comas,Cardiología,04/09/2025,810.99
+P00205,Carlos Fernández,17,M,NA,Consulta General,17/02/2022,NA
+P00249,Lucía Ramos,32,F,Miraflores,Cardiología,28/04/2020,615.34
+P02224,Rosa Ramos,29,NA,Comas,NA,14/08/2025,89.28
+P02643,Carlos Flores,68,NA,,Consulta General,03/01/2023,136.04
+P02909,José Fernández,144,X,Miraflores,Consulta General,21/12/2032,912.99
+P00524,María Ruiz,16,NA,NA,Pediatría,NA,
+P00580,Patricia Vargas,49,NA,Callao,NA,03/03/2020,809.24
+P00931,Miguel Ruiz,84,F,Surco,Cardiología,31/08/2022,839.06
+P01224,Luis Castillo,80,NA,La Molina,Cardiología,27/09/2022,NA
+P01109,Carlos Ruiz,19,M,Callao,Emergencia,07/01/2021,36.52
+P00961,Patricia Vargas,5,F,La Molina,Cardiología,17/01/2025,627.4
+P02285,Ana Castillo,42,M,NA,Odontología,13/03/2024,52.05
+P01473,José Ramos,83,,Miraflores,Pediatría,NA,903.86
+P01128,Ana Flores,41,NA,San Isidro,Odontología,04/07/2020,734.79
+P00954,,8,M,San Isidro,Vacunación,25/11/2023,283.36
+P01735,Patricia Flores,86,M,Lince,NA,27/06/2024,180.44
+P02674,Javier Torres,10,F,Lince,Rayos X,04/10/2024,955.86
+P01154,Luis Pérez,61,NA,Surco,NA,25/04/2019,811.7
+P02609,Patricia Ramos,48,F,NA,Vacunación,21/03/2022,331.67
+P00959,Pedro Pérez,48,F,Surco,Consulta General,14/05/2019,588.85
+P01004,Ana Castillo,66,M,Comas,Emergencia,28/11/2019,124.83
+P01901,NA,40,F,Lince,Emergencia,19/01/2022,546.27
+P01967,Ana Ramos,75,M,La Molina,NA,27/06/2019,590.67
+P00154,María Ramos,66,M,Lince,Emergencia,12/06/2018,705.73
+P00823,Rosa Castillo,22,F,La Molina,Pediatría,21/02/2018,767.09
+P02853,Carmen Fernández,-15,X,NA,NA,01/03/2029,0
+P02315,Pedro Pérez,,M,NA,Odontología,NA,572.0
+P02841,María Ramos,63,,Lince,Vacunación,22/05/2022,935.86
+P02780,Carmen Vargas,26,F,San Isidro,Cardiología,22/02/2024,789.88
+P00021,Carmen Pérez,68,F,NA,Emergencia,19/02/2025,612.76
+P01011,Carlos Gómez,84,NA,Surco,NA,05/12/2025,731.25
+P02558,Pedro Pérez,75,F,La Molina,Pediatría,01/04/2021,456.89
+P01369,Carmen Flores,84,,NA,Odontología,02/09/2024,270.01
+P02306,Miguel Pérez,9,M,San Isidro,NA,19/01/2018,480.21
+P00980,Carlos Pérez,42,,San Isidro,Odontología,01/11/2018,246.53
+P02413,Ana Gómez,,NA,Comas,Consulta General,23/07/2021,72.02
+P01718,Luis Flores,61,NA,Lince,Cardiología,11/11/2024,
+P00096,Ana Castillo,19,NA,Lince,Cardiología,27/05/2025,848.01
+P00955,Rosa Ramos,,NA,Callao,Odontología,03/07/2022,391.56
+P00497,Lucía Fernández,19,F,NA,Emergencia,,192.11
+P02713,Carlos Ramos,5,F,Miraflores,Pediatría,22/01/2018,769.52
+P02757,María Torres,25,NA,,NA,10/03/2019,679.69
+P01785,Luis Ramos,28,F,La Molina,Emergencia,03/11/2021,
+P01417,Carmen Flores,90,M,NA,NA,17/01/2025,451.78
+P00393,Ana Flores,65,M,La Molina,Cardiología,14/08/2018,888.33
+P02267,NA,38,M,NA,NA,28/04/2018,71.32
+P02591,Ana Ruiz,69,F,La Molina,Rayos X,NA,824.8
+P00094,Carmen Ramos,59,M,Comas,Emergencia,05/08/2019,87.8
+P01668,NA,74,NA,NA,Consulta General,29/12/2023,401.27
+P00485,Carmen Vargas,60,M,Miraflores,Emergencia,24/07/2021,617.0
+P01160,,,F,Callao,Consulta General,,321.98
+P00914,Ana Castillo,57,F,La Molina,Pediatría,26/11/2022,536.36
+P01283,Luis Vargas,6,NA,Comas,Cardiología,10/06/2024,601.81
+P02477,José Vargas,4,M,Callao,Pediatría,02/12/2021,483.72
+P00578,Ana Flores,46,M,Surco,Consulta General,11/08/2024,254.33
+P02660,Miguel Vargas,62,M,Callao,Rayos X,29/09/2025,441.34
+P01184,Lucía Fernández,61,NA,Callao,NA,05/01/2021,510.23
+P02915,Miguel Ramos,197,F,Lince,,26/08/2032,682.62
+P01171,Patricia Vargas,80,F,NA,Vacunación,22/03/2019,843.75
+P01643,Carlos Vargas,43,M,San Isidro,Cardiología,17/01/2025,347.36
+P02026,Patricia Mendoza,26,M,La Molina,NA,07/07/2020,400.33
+P01348,María Pérez,,F,Comas,Emergencia,28/03/2025,452.25
+P02608,María Mendoza,44,F,Callao,NA,05/02/2021,637.27
+P00015,Rosa Ruiz,76,NA,La Molina,Odontología,24/02/2023,789.49
+P00715,Lucía Flores,,M,La Molina,Rayos X,27/11/2020,80.67
+P02354,Ana Torres,52,NA,Comas,Pediatría,04/08/2019,598.22
+P01496,Carlos Castillo,3,F,Callao,Pediatría,29/02/2024,292.21
+P02469,Luis Torres,22,M,Comas,Pediatría,17/02/2025,335.72
+P00701,Javier Pérez,NA,M,Comas,Emergencia,14/09/2020,380.69
+P01634,Carmen Pérez,84,NA,Surco,Odontología,25/12/2018,450.37
+P02415,Luis Fernández,34,NA,Callao,Cardiología,18/01/2022,976.24
+P02988,Rosa Castillo,193,NA,Comas,Cardiología,21/07/2026,-50
+P00196,Carlos Castillo,44,M,Surco,Consulta General,27/12/2020,234.38
+P01918,NA,64,F,La Molina,Emergencia,16/08/2024,470.62
+P00058,Patricia Ruiz,87,NA,NA,Pediatría,05/10/2020,273.08
+P02115,Rosa Fernández,58,F,Miraflores,Rayos X,NA,96.0
+P01958,José Torres,74,NA,Callao,Cardiología,24/06/2024,621.85
+P01321,Carmen Mendoza,,NA,La Molina,NA,09/01/2020,156.13
+P02773,Javier Mendoza,2,NA,Lince,Vacunación,08/02/2021,128.93
+P02000,José Flores,2,NA,Comas,Cardiología,13/10/2023,777.04
+P01878,Javier Fernández,1,M,NA,Vacunación,31/03/2025,430.11
+P01585,Rosa Torres,60,NA,San Isidro,Cardiología,27/10/2020,926.47
+P01406,Lucía Ramos,31,M,La Molina,Rayos X,31/03/2018,114.02
+P01727,José Flores,55,M,Surco,Consulta General,03/04/2022,416.19
+P01857,Luis Ruiz,55,NA,Callao,NA,24/10/2024,626.02
+P01642,Javier Flores,72,NA,Lince,Rayos X,08/06/2021,859.86
+P00870,Lucía Pérez,86,NA,San Isidro,Vacunación,18/06/2025,399.44
+P01063,Pedro Ruiz,4,NA,NA,Odontología,12/07/2021,157.17
+P01091,Carlos Ramos,74,F,Surco,Rayos X,07/10/2022,148.73
+P01357,Rosa Torres,68,NA,La Molina,,14/01/2025,663.4
+P00637,Carlos Ruiz,52,M,Surco,Vacunación,17/01/2019,212.86
+P02464,Pedro Pérez,63,NA,Surco,,06/08/2021,403.92
+P02332,Carmen Castillo,27,F,Comas,Rayos X,21/09/2018,929.05
+P01326,Pedro Vargas,25,F,Comas,Vacunación,12/04/2025,697.04
+P02220,María Ramos,11,M,La Molina,Pediatría,22/12/2020,168.18
+P01760,Lucía Ramos,69,M,San Isidro,NA,11/05/2024,445.22
+P00379,Patricia Pérez,71,NA,La Molina,Odontología,04/03/2023,972.96
+P00417,Luis Mendoza,33,M,Callao,Vacunación,09/11/2019,940.12
+P01434,Carlos Torres,80,NA,NA,Rayos X,27/05/2024,452.25
+P02683,Ana Fernández,14,M,Surco,Cardiología,10/02/2021,722.95
+P01416,Carlos Ramos,4,NA,Surco,NA,,611.22
+P01275,Carlos Gómez,14,NA,NA,Rayos X,13/02/2021,703.89
+P02391,Carmen Pérez,73,M,NA,NA,05/12/2025,29.05
+P00074,José Pérez,2,NA,La Molina,Cardiología,14/08/2020,736.62
+P01499,Carmen Fernández,33,F,La Molina,Emergencia,11/05/2019,330.46
+P00718,Rosa Castillo,76,NA,Miraflores,Pediatría,,151.88
+P00822,José Flores,82,F,San Isidro,Consulta General,12/06/2018,
+P01474,María Fernández,68,F,Comas,Consulta General,08/02/2018,796.2
+P01053,Javier Pérez,7,M,San Isidro,Emergencia,21/01/2023,365.61
+P02340,Carmen Ruiz,81,M,San Isidro,Odontología,28/04/2023,283.04
+P01277,Patricia Ruiz,32,M,Lince,Odontología,04/01/2021,806.75
+P01479,Ana Pérez,33,NA,San Isidro,NA,05/04/2023,23.69
+P01805,,76,F,Surco,Odontología,12/09/2025,172.76
+P02290,Javier Flores,34,M,San Isidro,Pediatría,29/11/2025,269.91
+P00306,Carmen Ramos,82,NA,Lince,Rayos X,24/08/2020,455.76
+P01639,,2,NA,Comas,Vacunación,22/05/2020,406.69
+P01867,Ana Ramos,42,M,Callao,Pediatría,17/08/2023,515.96
+P00577,NA,NA,NA,San Isidro,Odontología,23/04/2018,742.79
+P01317,Lucía Gómez,29,NA,Surco,NA,27/06/2023,951.0
+P02319,Rosa Torres,87,M,Miraflores,NA,14/05/2024,660.02
+P02489,Carmen Pérez,85,M,NA,Cardiología,26/05/2025,209.73
+P02039,Pedro Castillo,9,NA,San Isidro,Emergencia,18/01/2025,488.87
+P00024,,79,M,Callao,Emergencia,16/10/2024,752.27
+P00333,José Ruiz,72,M,La Molina,Vacunación,24/08/2025,559.64
+P02636,Miguel Pérez,32,F,,Odontología,29/08/2019,757.26
+P01041,Miguel Fernández,6,M,Lince,Cardiología,09/05/2025,653.74
+P01706,Ana Gómez,7,NA,Comas,NA,08/04/2020,947.94
+P00310,,37,M,San Isidro,,11/01/2023,410.73
+P02603,Patricia Gómez,76,NA,NA,Cardiología,23/10/2021,65.06
+P00589,Luis Castillo,33,NA,Callao,Odontología,08/06/2019,611.92
+P02694,María Pérez,45,M,La Molina,Odontología,01/07/2021,378.62
+P00813,Rosa Pérez,90,M,La Molina,Odontología,28/07/2020,602.15
+P01773,Carmen Flores,,NA,Miraflores,Rayos X,01/11/2025,250.38
+P00147,Ana Fernández,75,M,San Isidro,Emergencia,,928.51
+P01301,María Torres,41,F,,Rayos X,17/04/2023,545.02
+P00948,José Castillo,62,NA,La Molina,Consulta General,16/12/2021,875.41
+P00832,Miguel Ruiz,5,NA,Comas,Consulta General,,636.05
+P00590,María Fernández,39,NA,NA,Rayos X,01/02/2018,90.87
+P02853,Ana Torres,137,NA,NA,Pediatría,17/05/2033,0
+P01503,Carlos Torres,68,F,Surco,Emergencia,NA,96.36
+P01974,José Ramos,15,NA,Miraflores,Consulta General,18/04/2018,52.43
+P02726,José Gómez,77,,Miraflores,Emergencia,02/05/2022,666.24
+P00592,Lucía Mendoza,32,F,La Molina,NA,13/07/2023,372.41
+P02137,Miguel Castillo,75,,NA,Cardiología,16/02/2025,255.14
+P01962,Carlos Torres,NA,NA,Surco,Odontología,08/01/2021,276.14
+P02288,Pedro Ramos,32,NA,Lince,NA,06/12/2024,486.9
+P00687,Lucía Ramos,57,NA,San Isidro,Cardiología,09/06/2024,413.07
+P01008,Patricia Ruiz,6,NA,La Molina,Vacunación,20/02/2021,441.03
+P02776,Javier Flores,26,NA,Surco,NA,20/12/2025,570.51
+P01286,,43,F,Surco,Odontología,21/09/2019,129.43
+P02874,María Torres,154,F,Surco,NA,19/04/2031,-50
+P02113,José Mendoza,NA,NA,NA,NA,30/01/2025,442.37
+P02961,Lucía Vargas,128,X,Callao,Consulta General,12/02/2028,0
+P01340,Carmen Flores,76,NA,San Isidro,Rayos X,12/05/2018,577.35
+P02561,Carlos Flores,69,M,,Emergencia,22/11/2022,892.45
+P02830,Pedro Mendoza,6,M,Comas,Cardiología,12/04/2021,169.96
+P02259,José Castillo,76,F,Comas,Emergencia,14/10/2022,567.83
+P02524,Lucía Flores,21,F,Surco,,07/04/2022,755.29
+P02727,Carmen Castillo,78,NA,San Isidro,Pediatría,13/10/2025,85.95
+P02399,Carmen Ruiz,23,NA,La Molina,Consulta General,12/12/2022,244.27
+P02874,Rosa Mendoza,152,F,NA,Consulta General,28/03/2032,0
+P00552,Carlos Castillo,67,NA,NA,NA,01/11/2021,454.79
+P00766,Carlos Ruiz,40,F,NA,NA,04/03/2021,645.24
+P01677,Patricia Ramos,16,F,La Molina,Consulta General,16/05/2023,858.25
+P01533,Rosa Ramos,75,M,Miraflores,NA,15/10/2018,898.62
+P02272,Luis Vargas,58,NA,Callao,NA,01/06/2020,532.23
+P00187,Carlos Ruiz,81,M,San Isidro,Cardiología,20/05/2025,862.94
+P02553,Luis Mendoza,89,NA,Lince,Consulta General,22/06/2025,497.02
+P00377,Carlos Ramos,52,NA,Surco,,09/04/2018,580.53
+P01605,Javier Torres,10,NA,Lince,Odontología,10/04/2022,811.76
+P02474,Rosa Ruiz,24,M,Surco,Vacunación,01/07/2019,888.18
+P01482,Patricia Ruiz,73,M,Comas,Vacunación,27/06/2025,926.14
+P00499,Patricia Ramos,28,NA,Surco,NA,20/04/2023,482.22
+P00013,Miguel Gómez,72,NA,San Isidro,NA,12/07/2019,631.76
+P02143,Lucía Ramos,39,NA,NA,Cardiología,16/10/2020,705.16
+P02379,,29,M,NA,Cardiología,14/09/2019,441.22
+P01048,Carlos Fernández,90,NA,Comas,NA,04/01/2019,133.81
+P02421,Rosa Castillo,,F,Lince,Emergencia,21/11/2024,966.35
+P01179,Ana Flores,41,NA,San Isidro,Rayos X,14/08/2024,430.13
+P01887,Ana Ramos,45,NA,NA,NA,08/04/2020,152.06
+P00694,Lucía Ruiz,66,M,La Molina,Rayos X,19/05/2024,612.15
+P00604,Rosa Gómez,6,NA,Callao,Vacunación,21/12/2019,998.91
+P02462,Javier Ruiz,69,F,Comas,Pediatría,11/03/2023,882.03
+P02389,María Fernández,2,F,Lince,Emergencia,11/10/2023,623.33
+P01600,Javier Gómez,14,NA,Callao,NA,17/03/2023,104.97
+P02597,Miguel Flores,72,F,Comas,Emergencia,NA,800.85
+P00073,NA,70,M,Comas,Vacunación,18/09/2021,32.62
+P02184,Luis Castillo,45,NA,Surco,Pediatría,29/08/2021,290.54
+P01193,Carmen Ramos,48,NA,Comas,Rayos X,14/12/2024,350.45
+P01587,José Pérez,74,F,Lince,Odontología,17/05/2020,649.11
+P00043,Carlos Mendoza,53,F,Miraflores,Pediatría,12/10/2021,197.9
+P02593,José Torres,90,NA,Surco,Rayos X,08/02/2023,928.36
+P00617,Rosa Fernández,77,NA,La Molina,Odontología,20/07/2024,842.27
+P00663,José Torres,60,M,Surco,Emergencia,,
+P02621,Javier Ruiz,85,NA,Callao,Odontología,14/10/2023,846.6
+P02836,,28,NA,Miraflores,Consulta General,21/01/2022,526.12
+P01296,Ana Torres,79,M,Callao,NA,14/12/2020,381.24
+P01236,María Castillo,55,M,Comas,Rayos X,07/10/2025,384.35
+P01361,Luis Vargas,12,F,Callao,Vacunación,01/12/2021,869.63
+P01215,Carlos Flores,67,M,Surco,NA,30/10/2020,461.49
+P01413,Patricia Torres,21,M,Surco,Vacunación,07/11/2024,793.05
+P00652,NA,64,F,La Molina,Cardiología,15/11/2021,79.36
+P02742,Pedro Gómez,85,NA,San Isidro,NA,10/07/2021,773.9
+P00168,María Torres,68,NA,Callao,Odontología,24/12/2020,247.23
+P02065,Patricia Mendoza,72,F,,NA,14/10/2019,771.75
+P02059,Rosa Flores,66,NA,Comas,Consulta General,05/10/2021,900.09
+P02632,José Mendoza,38,NA,San Isidro,Consulta General,10/03/2021,405.83
+P01238,Miguel Flores,43,F,Callao,Rayos X,16/06/2021,164.74
+P02339,Pedro Mendoza,61,F,Miraflores,Consulta General,12/10/2022,51.11
+P01545,,41,M,Comas,Consulta General,19/11/2019,151.94
+P02712,Miguel Torres,69,M,Comas,Vacunación,21/04/2022,358.54
+P00999,Luis Mendoza,4,F,San Isidro,Emergencia,20/11/2021,NA
+P02444,NA,25,M,Lince,Pediatría,14/06/2024,266.72
+P01725,Javier Ramos,58,NA,Surco,Rayos X,13/03/2018,712.55
+P02198,NA,60,NA,Comas,NA,02/06/2023,132.15
+P01721,Rosa Mendoza,68,M,Miraflores,Consulta General,04/07/2021,
+P01510,José Ramos,90,F,Lince,Cardiología,17/09/2024,913.17
+P02225,Luis Flores,42,M,Surco,Emergencia,21/12/2018,
+P00361,Rosa Torres,6,M,Callao,Pediatría,NA,998.67
+P00986,Luis Fernández,37,,NA,Odontología,02/12/2019,423.95
+P00098,María Flores,38,M,Comas,Pediatría,15/12/2021,544.24
+P01277,Patricia Ruiz,32,M,Lince,Odontología,04/01/2021,806.75
+P02395,Carlos Fernández,80,F,San Isidro,,,732.89
+P00907,María Torres,,NA,Comas,NA,01/02/2020,178.15
+P02612,María Castillo,1,NA,Miraflores,Consulta General,29/09/2023,876.5
+P01570,Ana Flores,76,F,Surco,Rayos X,01/02/2022,913.34
+P00859,Carlos Gómez,NA,NA,Surco,Emergencia,12/07/2024,125.99
+P01832,Carmen Mendoza,72,,Miraflores,Vacunación,16/09/2019,75.97
+P01407,Ana Vargas,56,F,Lince,Vacunación,20/01/2024,967.75
+P00022,Patricia Castillo,36,NA,Lince,NA,10/01/2018,NA
+P02127,Luis Ruiz,79,M,San Isidro,Consulta General,12/10/2023,
+P01943,Patricia Pérez,34,M,Callao,Rayos X,05/07/2025,631.05
+P01336,José Ruiz,41,NA,Callao,Cardiología,NA,331.93
+P02027,Lucía Ruiz,74,M,Miraflores,Odontología,12/03/2022,773.89
+P01006,José Ruiz,89,M,La Molina,Cardiología,03/10/2025,218.71
+P00179,Ana Torres,53,M,Lince,NA,18/03/2023,655.63
+P00725,Ana Torres,8,NA,,Odontología,05/03/2019,998.65
+P02262,Carmen Ruiz,21,M,La Molina,Consulta General,NA,935.77
+P01413,Patricia Torres,21,M,Surco,Vacunación,07/11/2024,793.05
+P00042,José Pérez,38,M,Lince,NA,20/06/2021,762.27
+P02821,Carlos Castillo,89,M,La Molina,Consulta General,25/08/2018,376.66
+P01707,José Ruiz,74,F,Comas,Emergencia,,505.83
+P00498,Miguel Ruiz,3,F,Callao,Vacunación,15/09/2022,504.64
+P00340,Miguel Flores,NA,F,Callao,Cardiología,20/12/2023,NA
+P00380,Carlos Gómez,33,M,Surco,Emergencia,18/12/2025,394.04
+P01529,Patricia Flores,27,M,Miraflores,Vacunación,30/09/2025,454.68
+P02443,Miguel Flores,41,F,Miraflores,Cardiología,04/08/2020,632.85
+P01068,Luis Fernández,40,F,Miraflores,Cardiología,06/06/2024,75.01
+P00973,Miguel Torres,13,F,NA,Rayos X,18/12/2024,105.15
+P02217,Miguel Ramos,90,NA,Callao,Emergencia,14/09/2018,303.28
+P00460,Lucía Gómez,29,M,NA,Rayos X,27/03/2025,219.84
+P00046,Luis Torres,51,M,San Isidro,Emergencia,01/04/2024,34.94
+P01523,Miguel Vargas,36,NA,Callao,Consulta General,19/11/2022,NA
+P02802,José Ruiz,11,M,Callao,Consulta General,15/02/2020,371.55
+P02133,Pedro Flores,62,F,Comas,Vacunación,24/02/2020,94.14
+P00640,María Ramos,47,NA,La Molina,Rayos X,03/07/2020,420.56
+P02711,Carmen Fernández,50,M,Callao,Rayos X,23/09/2025,342.29
+P00895,Carlos Flores,74,NA,Surco,NA,31/01/2019,97.94
+P00912,Patricia Fernández,34,M,Callao,Pediatría,28/10/2025,548.82
+P02369,Pedro Ruiz,9,M,Lince,Vacunación,04/10/2023,653.99
+P01606,Lucía Ruiz,89,F,Comas,Pediatría,01/12/2024,459.59
+P01345,Miguel Ramos,79,F,Miraflores,Vacunación,10/08/2018,797.68
+P02845,Javier Torres,45,F,Comas,Consulta General,,964.59
+P01627,,32,F,San Isidro,Vacunación,11/08/2020,754.79
+P00087,Javier Gómez,39,M,Surco,Odontología,19/10/2025,758.17
+P02408,Rosa Ruiz,77,F,Callao,Consulta General,12/03/2025,169.84
+P02094,Miguel Gómez,38,NA,San Isidro,Consulta General,27/09/2024,481.19
+P02864,Miguel Fernández,-17,X,Callao,Consulta General,09/02/2029,161.16
+P00886,Pedro Castillo,38,NA,NA,Odontología,16/02/2025,807.01
+P00900,NA,57,F,San Isidro,Cardiología,26/08/2019,354.74
+P00566,Javier Castillo,76,F,Comas,Odontología,07/05/2018,551.18
+P02422,Javier Vargas,81,M,Miraflores,NA,24/09/2022,939.65
+P00108,Pedro Flores,40,M,San Isidro,Vacunación,13/05/2018,
+P00045,Miguel Mendoza,78,NA,NA,Cardiología,07/04/2022,58.18
+P00713,Carmen Fernández,78,NA,,Odontología,30/09/2022,341.24
+P01711,Miguel Castillo,,NA,Miraflores,Odontología,NA,95.52
+P00114,Ana Pérez,34,NA,Comas,Rayos X,14/06/2023,829.63
+P01993,Carmen Ruiz,31,F,San Isidro,Vacunación,NA,621.65
+P02488,Javier Ruiz,30,M,Callao,NA,20/11/2023,45.9
+P01855,Rosa Fernández,2,NA,La Molina,Emergencia,NA,970.23
+P00448,Miguel Ruiz,44,F,Comas,NA,22/02/2023,958.88
+P02574,Carlos Castillo,10,M,Callao,Vacunación,24/02/2025,171.83
+P01863,María Ramos,35,M,,NA,24/09/2020,107.37
+P00202,Javier Torres,34,NA,NA,Vacunación,19/11/2024,308.83
+P01082,Lucía Pérez,88,NA,NA,Consulta General,09/09/2019,404.88
+P02710,María Ruiz,70,NA,Lince,Consulta General,19/01/2020,107.24
+P01316,Javier Pérez,59,,San Isidro,NA,25/09/2025,318.22
+P02401,Javier Mendoza,81,NA,NA,NA,23/06/2023,769.57
+P01861,Luis Vargas,27,M,Comas,,07/11/2022,758.8
+P01426,José Vargas,4,F,Surco,Odontología,31/01/2022,562.42
+P02594,Carmen Castillo,67,M,San Isidro,NA,15/10/2021,550.6
+P00976,José Pérez,52,M,Surco,Cardiología,15/09/2025,201.51
+P01866,José Ramos,60,F,San Isidro,Vacunación,19/04/2020,663.35
+P00838,Patricia Fernández,81,M,Callao,Odontología,21/01/2022,273.82
+P02590,Carlos Mendoza,43,F,Comas,Consulta General,17/01/2022,549.92
+P00305,Carlos Pérez,64,M,Lince,,01/03/2021,885.26
+P01996,,35,NA,Miraflores,Rayos X,19/03/2019,612.06
+P01152,Pedro Mendoza,40,F,NA,NA,20/06/2019,731.07
+P01841,Lucía Mendoza,NA,M,Miraflores,Cardiología,01/07/2025,436.48
+P00804,José Flores,85,M,Surco,NA,20/08/2021,898.68
+P00296,Pedro Gómez,25,NA,Miraflores,Odontología,03/07/2023,343.42
+P02620,Patricia Ramos,12,NA,Lince,Cardiología,28/12/2020,478.93
+P00661,Carmen Ruiz,9,M,La Molina,Odontología,07/02/2018,837.93
+P02048,Lucía Flores,86,NA,San Isidro,Pediatría,24/08/2023,359.52
+P02456,Javier Torres,58,NA,Lince,Rayos X,26/05/2019,694.11
+P01379,Miguel Vargas,3,NA,Comas,Rayos X,07/01/2021,370.02
+P01051,Luis Torres,51,F,La Molina,Consulta General,04/09/2024,
+P00573,Miguel Mendoza,10,NA,NA,Cardiología,29/06/2022,848.05
+P02938,Javier Flores,200,F,Lince,Odontología,03/10/2029,660.53
+P00306,Carmen Ramos,82,NA,Lince,Rayos X,24/08/2020,455.76
+P02072,Lucía Torres,38,NA,Surco,Rayos X,25/04/2023,
+P02781,Miguel Vargas,8,M,Surco,Consulta General,25/12/2022,181.44
+P01268,Javier Pérez,18,NA,Miraflores,Vacunación,05/09/2022,371.31
+P02199,María Ruiz,44,M,Lince,Pediatría,21/06/2021,71.99
+P01819,Luis Fernández,36,NA,Lince,NA,18/07/2025,330.27
+P00736,Patricia Pérez,40,NA,Miraflores,,NA,903.39
+P01278,Pedro Pérez,13,F,,Vacunación,26/03/2020,858.6
+P02555,Rosa Castillo,32,M,Comas,Pediatría,11/06/2021,297.2
+P00441,María Ruiz,69,F,San Isidro,Consulta General,18/02/2022,607.68
+P00308,Lucía Mendoza,65,M,San Isidro,Emergencia,22/12/2022,177.85
+P01955,José Mendoza,40,F,Lince,Cardiología,21/07/2022,516.61
+P01648,Carlos Castillo,65,F,Comas,Vacunación,24/03/2019,347.9
+P00972,NA,85,,Callao,Pediatría,NA,556.68
+P01959,Ana Castillo,24,NA,NA,Consulta General,09/10/2021,982.64
+P00781,Rosa Ramos,65,M,Surco,Pediatría,NA,344.61
+P01337,José Ruiz,59,NA,NA,Odontología,08/04/2024,244.1
+P00341,Rosa Ramos,78,NA,San Isidro,Odontología,29/12/2019,38.24
+P00262,Ana Ruiz,52,M,Surco,Pediatría,03/12/2022,498.0
+P01621,Miguel Torres,NA,F,Surco,Vacunación,31/05/2018,605.15
+P00143,Pedro Vargas,NA,M,Surco,Pediatría,22/03/2023,565.93
+P01495,Patricia Flores,23,F,La Molina,Cardiología,30/10/2020,
+P00681,Ana Flores,1,,La Molina,Pediatría,11/06/2025,613.88
+P01143,Carlos Ruiz,71,NA,NA,Cardiología,27/11/2025,50.03
+P02360,Lucía Gómez,24,F,NA,Cardiología,26/06/2019,129.15
+P00027,Luis Pérez,,NA,NA,Emergencia,21/10/2019,795.55
+P01421,Miguel Torres,85,F,La Molina,Pediatría,31/07/2020,248.23
+P01030,Rosa Ramos,16,NA,Surco,Consulta General,13/08/2019,744.64
+P02607,Rosa Ruiz,26,M,Lince,NA,07/10/2024,256.51
+P01873,Lucía Torres,59,F,NA,Cardiología,25/12/2022,998.37
+P02520,Patricia Castillo,37,F,NA,NA,28/05/2021,890.08
+P02730,Javier Torres,48,M,San Isidro,Cardiología,10/11/2024,971.94
+P02516,Pedro Gómez,41,F,Comas,Pediatría,NA,983.13
+P00856,José Castillo,46,M,Miraflores,Consulta General,27/11/2025,NA
+P00635,María Fernández,14,,Callao,Pediatría,27/04/2024,
+P01807,María Flores,40,M,NA,Emergencia,11/07/2019,NA
+P02325,Carmen Vargas,14,,,Emergencia,19/03/2020,590.63
+P00500,José Gómez,10,NA,NA,Emergencia,07/11/2019,567.52
+P00319,José Fernández,75,F,Surco,Cardiología,24/04/2019,791.06
+P02049,Pedro Pérez,43,NA,Lince,Pediatría,04/02/2019,557.58
+P02449,María Ruiz,49,M,Lince,Consulta General,26/08/2020,944.74
+P00871,Luis Gómez,63,M,Comas,Consulta General,06/04/2020,630.02
+P01123,Patricia Pérez,77,F,Lince,Rayos X,31/01/2021,652.07
+P02438,José Fernández,11,F,NA,Emergencia,21/08/2024,491.04
+P00830,Rosa Gómez,52,M,San Isidro,Odontología,18/02/2021,436.1
+P01678,Miguel Flores,3,M,San Isidro,Pediatría,09/07/2022,962.85
+P01653,Rosa Torres,75,M,Comas,Odontología,02/10/2018,762.13
+P02673,,43,NA,Comas,Vacunación,25/04/2022,509.19
+P01569,Miguel Gómez,39,F,Callao,Vacunación,18/01/2024,268.94
+P00690,María Flores,30,F,Callao,NA,09/10/2023,253.34
+P01530,Lucía Mendoza,17,M,San Isidro,Vacunación,09/05/2024,632.65
+P00636,Luis Ruiz,54,F,Lince,Cardiología,26/11/2025,577.18
+P00369,Carmen Vargas,38,F,Comas,Emergencia,13/07/2023,182.75
+P02226,Patricia Ramos,89,M,Comas,Consulta General,22/12/2018,
+P01882,Rosa Ruiz,,F,Lince,Vacunación,07/05/2020,78.84
+P02141,José Pérez,65,NA,Surco,Rayos X,27/09/2021,288.45
+P00945,Carlos Flores,28,M,Miraflores,Odontología,28/03/2025,952.99
+P01372,Ana Torres,37,M,Comas,Odontología,09/10/2019,317.05
+P01151,Lucía Fernández,,M,NA,Pediatría,05/02/2021,310.71
+P00789,José Flores,27,M,Miraflores,Pediatría,04/10/2020,959.9
+P00909,Rosa Fernández,78,M,Lince,NA,27/09/2018,101.55
+P02982,Miguel Ruiz,152,X,Callao,Emergencia,30/04/2027,-50
+P02556,María Ramos,5,NA,NA,,27/06/2020,
+P02223,Javier Fernández,43,F,Lince,NA,26/12/2021,630.27
+P00099,Ana Castillo,14,NA,Lince,Consulta General,13/02/2022,24.59
+P01274,Ana Castillo,33,NA,NA,Emergencia,16/09/2019,403.91
+P01860,Ana Torres,30,M,Callao,Vacunación,26/04/2021,NA
+P02749,,45,,San Isidro,Vacunación,,651.11
+P01210,Pedro Ruiz,7,NA,Lince,NA,16/08/2024,663.82
+P02003,Luis Ruiz,86,NA,Lince,Consulta General,25/07/2025,481.98
+P02718,NA,22,M,Callao,Emergencia,31/05/2018,172.55
+P02116,Javier Vargas,27,NA,Callao,Consulta General,28/07/2019,230.83
+P00045,Miguel Mendoza,78,NA,NA,Cardiología,07/04/2022,58.18
+P02671,Pedro Gómez,11,NA,San Isidro,NA,07/04/2023,174.62
+P02601,Luis Flores,48,M,Callao,Consulta General,01/02/2024,204.56
+P00595,María Fernández,70,F,,Vacunación,07/03/2023,338.82
+P01396,Luis Ruiz,89,M,Surco,Pediatría,22/06/2022,602.15
+P00276,Miguel Castillo,46,F,NA,Pediatría,24/03/2025,601.43
+P02838,Lucía Pérez,60,M,Miraflores,Vacunación,23/01/2024,545.24
+P01532,Rosa Ramos,29,F,Lince,Vacunación,30/11/2023,85.84
+P00803,Pedro Flores,17,M,Surco,Emergencia,NA,883.97
+P01915,Lucía Castillo,70,F,Callao,Consulta General,06/12/2023,114.03
+P02145,María Vargas,36,NA,Callao,Cardiología,22/06/2024,33.44
+P02296,,75,M,Miraflores,Rayos X,NA,
+P01542,Carlos Pérez,10,M,San Isidro,Pediatría,07/11/2020,338.74
+P00149,Pedro Fernández,33,F,Lince,Cardiología,21/12/2024,229.9
+P00332,Ana Mendoza,46,NA,Callao,Emergencia,30/03/2019,292.19
+P01202,Patricia Ruiz,24,NA,La Molina,Odontología,22/08/2020,68.58
+P00193,Lucía Pérez,57,F,San Isidro,Consulta General,07/09/2021,
+P00034,Lucía Ramos,28,M,San Isidro,NA,17/01/2021,954.79
+P02913,Rosa Fernández,159,F,Miraflores,Emergencia,11/03/2033,0
+P01894,Luis Flores,21,NA,Miraflores,Vacunación,21/11/2018,847.68
+P01112,Lucía Ramos,40,NA,Comas,Cardiología,12/12/2025,759.32
+P01625,Carlos Flores,46,NA,Callao,NA,,328.86
+P01782,Pedro Flores,67,F,San Isidro,Consulta General,23/08/2019,572.14
+P01338,José Vargas,22,F,Miraflores,Vacunación,22/05/2023,757.94
+P00567,Pedro Vargas,,F,Surco,Odontología,08/02/2019,311.25
+P01450,Carlos Mendoza,86,F,Surco,NA,02/02/2019,NA
+P01716,Luis Ramos,46,M,San Isidro,Cardiología,24/11/2019,
+P00333,José Ruiz,72,M,La Molina,Vacunación,24/08/2025,559.64
+P01527,José Pérez,20,M,Miraflores,Rayos X,17/07/2021,453.36
+P00587,José Flores,63,M,Miraflores,Pediatría,12/03/2023,
+P02130,Rosa Fernández,16,M,Miraflores,Rayos X,04/07/2025,NA
+P01862,Carlos Mendoza,84,F,Lince,Vacunación,09/05/2022,648.31
+P02284,Ana Vargas,82,NA,Callao,Rayos X,25/08/2020,992.55
+P02628,José Mendoza,67,,Miraflores,Odontología,01/04/2025,385.49
+P02549,María Gómez,66,M,La Molina,Vacunación,25/11/2022,703.82
+P02162,Rosa Ruiz,42,M,La Molina,Odontología,06/11/2020,792.08
+P01973,Miguel Mendoza,29,F,Comas,Consulta General,07/05/2023,648.32
+P00818,Lucía Mendoza,26,NA,Comas,Odontología,28/05/2018,577.45
+P02170,María Ruiz,20,NA,NA,Rayos X,12/03/2025,NA
+P00302,Carlos Torres,89,F,Lince,Pediatría,21/10/2024,642.16
+P00201,Carmen Ramos,84,NA,Lince,NA,19/08/2020,235.81
+P01299,Patricia Ramos,30,M,Miraflores,Odontología,14/01/2020,759.33
+P00956,Patricia Castillo,49,M,Callao,NA,11/07/2020,870.05
+P00798,Patricia Ruiz,83,M,Lince,Cardiología,16/08/2022,964.14
+P01561,NA,17,NA,Comas,Vacunación,05/08/2020,483.17
+P02818,Rosa Gómez,NA,M,La Molina,Emergencia,17/10/2021,475.97
+P01761,Luis Vargas,41,M,Miraflores,NA,20/05/2019,844.94
+P02560,Javier Castillo,59,F,La Molina,Emergencia,19/10/2025,707.7
+P00515,Carlos Ramos,29,M,Callao,Consulta General,NA,71.81
+P00232,Pedro Ramos,49,M,NA,Vacunación,13/10/2020,64.45
+P00245,Carmen Vargas,17,M,NA,Odontología,04/05/2021,224.56
+P02965,Carmen Vargas,-12,X,San Isidro,Pediatría,15/02/2027,382.86
+P00829,Luis Mendoza,61,F,San Isidro,NA,NA,406.71
+P01611,Carlos Gómez,NA,M,La Molina,Vacunación,11/07/2024,933.63
+P00277,Carmen Ramos,33,F,Miraflores,Vacunación,21/05/2024,948.0
+P01214,Rosa Ramos,60,NA,San Isidro,Consulta General,26/01/2018,186.47
+P01031,,,F,Surco,Rayos X,06/05/2025,872.58
+P01568,José Fernández,54,F,Lince,Vacunación,07/03/2023,70.3
+P02770,Pedro Ruiz,23,NA,Lince,NA,15/10/2021,875.96
+P01526,Luis Flores,9,F,La Molina,Cardiología,02/10/2021,51.6
+P00584,Rosa Vargas,39,NA,Comas,Odontología,27/12/2022,295.43
+P01448,Patricia Pérez,77,M,NA,NA,13/12/2023,503.43
+P00727,José Mendoza,20,F,San Isidro,Emergencia,17/07/2024,420.54
+P02096,María Vargas,17,NA,San Isidro,NA,23/01/2019,268.23
+P01701,Ana Torres,4,F,Miraflores,Rayos X,26/11/2023,NA
+P02646,Patricia Fernández,30,NA,San Isidro,Emergencia,17/08/2019,386.85
+P00423,Ana Torres,47,F,Lince,Consulta General,15/02/2019,121.75
+P02837,Rosa Flores,57,M,Surco,NA,13/06/2025,511.94
+P00594,Rosa Pérez,13,NA,NA,Odontología,18/06/2022,120.36
+P01913,Patricia Ramos,7,M,Comas,NA,01/05/2022,32.88
+P02171,Carmen Castillo,55,M,Miraflores,Vacunación,21/12/2021,639.59
+P01489,,19,NA,Callao,Cardiología,24/03/2019,608.82
+P01934,Carlos Vargas,75,NA,Lince,NA,21/11/2024,725.43
+P00744,Miguel Ruiz,17,NA,Surco,NA,05/04/2023,801.24
+P02668,Carlos Ruiz,73,M,Lince,Vacunación,15/01/2023,989.25
+P02882,Lucía Castillo,-6,NA,Comas,Pediatría,07/04/2029,0
+P01064,Patricia Ruiz,37,M,Callao,,04/03/2018,NA
+P00057,Carlos Mendoza,84,NA,Callao,Emergencia,04/06/2022,NA
+P02140,Ana Mendoza,71,M,Callao,Rayos X,17/03/2018,NA
+P00235,Luis Pérez,86,F,NA,Odontología,07/03/2018,254.24
+P01796,Javier Ruiz,27,NA,NA,Vacunación,24/08/2025,566.49
+P00427,José Gómez,44,NA,NA,Odontología,01/04/2020,623.89
+P01783,Ana Ruiz,32,F,La Molina,Rayos X,31/03/2018,462.75
+P01096,Carlos Flores,6,M,Comas,Consulta General,01/08/2021,523.74
+P00545,Patricia Vargas,63,F,Lince,Vacunación,28/04/2021,471.1
+P00960,Patricia Flores,62,M,Comas,Cardiología,29/09/2024,964.5
+P00994,Javier Castillo,48,M,Surco,NA,18/08/2023,918.8
+P02222,Rosa Gómez,21,F,NA,Cardiología,22/05/2020,855.16
+P02625,Pedro Castillo,66,M,Callao,Consulta General,31/05/2024,146.32
+P01909,Luis Torres,75,NA,Surco,Cardiología,15/04/2020,798.48
+P00274,Lucía Flores,47,,Surco,Vacunación,NA,
+P00177,Patricia Castillo,22,M,Miraflores,Cardiología,08/04/2022,258.09
+P02393,Miguel Ruiz,2,NA,Surco,Odontología,19/02/2018,172.56
+P00654,Luis Mendoza,47,M,Callao,Emergencia,06/11/2021,247.78
+P00848,José Torres,55,F,Comas,Emergencia,24/01/2024,631.95
+P01172,Pedro Castillo,48,F,Miraflores,,03/02/2021,847.73
+P01646,Pedro Gómez,77,NA,La Molina,Consulta General,,123.93
+P00950,Javier Torres,62,NA,NA,NA,,703.06
+P00528,Carlos Ruiz,16,,San Isidro,Pediatría,16/03/2018,776.07
+P00373,Carmen Castillo,10,M,NA,Rayos X,NA,304.08
+P02256,Javier Castillo,25,NA,NA,Vacunación,03/11/2020,676.32
+P01194,Pedro Fernández,18,F,San Isidro,Emergencia,15/03/2021,329.7
+P01813,José Ruiz,5,F,San Isidro,NA,21/01/2019,421.97
+P02445,Patricia Ruiz,4,NA,Miraflores,Odontología,21/09/2019,556.03
+P01967,Ana Ramos,75,M,La Molina,NA,27/06/2019,590.67
+P00009,Pedro Ramos,42,M,Miraflores,Emergencia,27/08/2021,460.17
+P01088,Miguel Vargas,79,M,NA,NA,18/07/2018,663.38
+P01815,Luis Ruiz,16,F,La Molina,Emergencia,NA,228.79
+P00935,Rosa Flores,60,F,Lince,Emergencia,28/08/2024,857.82
+P02383,Miguel Vargas,42,NA,Lince,Emergencia,28/07/2024,NA
+P00608,Carmen Castillo,36,NA,Lince,Consulta General,26/04/2022,788.84
+P02616,Carlos Mendoza,78,,,Consulta General,08/01/2023,785.39
+P02207,Carmen Gómez,72,F,Surco,Cardiología,NA,769.17
+P01686,Pedro Flores,,F,Lince,Consulta General,14/11/2018,618.57
+P02583,María Fernández,43,NA,NA,NA,10/07/2020,976.86
+P02478,Miguel Ruiz,74,M,Lince,Vacunación,06/07/2024,642.48
+P01510,José Ramos,90,F,Lince,Cardiología,17/09/2024,913.17
+P02172,Patricia Ruiz,12,M,Lince,Vacunación,05/09/2020,863.14
+P01916,Ana Pérez,45,NA,NA,Pediatría,01/03/2024,535.45
+P02486,Javier Ruiz,45,M,Miraflores,NA,21/06/2020,590.68
+P00132,Lucía Gómez,8,M,NA,Odontología,07/12/2025,678.27
+P00677,Carlos Pérez,90,M,NA,Pediatría,13/10/2025,858.8
+P02984,José Flores,140,M,Callao,NA,12/09/2033,0
+P02702,Javier Fernández,13,NA,Callao,Rayos X,06/02/2020,842.25
+P01492,María Ruiz,77,M,Comas,Odontología,02/06/2019,942.74
+P00025,María Ruiz,52,NA,La Molina,Vacunación,28/03/2018,399.84
+P01752,Lucía Pérez,83,NA,,Rayos X,05/08/2025,792.14
+P00237,Pedro Ruiz,34,NA,Comas,Odontología,19/09/2020,203.67
+P01946,Pedro Mendoza,36,NA,Comas,Vacunación,23/01/2019,737.12
+P01149,Luis Torres,56,F,Comas,Cardiología,06/01/2018,577.57
+P01745,Pedro Vargas,28,M,Callao,Pediatría,06/10/2020,856.59
+P02373,Miguel Flores,,NA,Comas,Odontología,09/11/2024,478.9
+P02925,Patricia Pérez,200,F,San Isidro,Consulta General,13/10/2033,0
+P01424,Carmen Gómez,57,NA,NA,Odontología,28/02/2023,759.19
+P01720,Luis Pérez,26,F,La Molina,Vacunación,21/12/2020,241.42
+P02077,Patricia Gómez,74,M,Lince,Odontología,18/09/2024,80.21
+P01280,Javier Castillo,45,F,Callao,Vacunación,30/01/2025,968.14
+P01377,Miguel Castillo,12,NA,Comas,Vacunación,11/03/2020,610.79
+P02273,Miguel Gómez,14,NA,NA,Cardiología,NA,547.58
+P02712,Miguel Torres,69,M,Comas,Vacunación,21/04/2022,358.54
+P02231,Carmen Castillo,38,M,La Molina,NA,03/03/2019,211.11
+P00433,Pedro Vargas,31,NA,Lince,Odontología,30/01/2022,596.73
+P02293,Carmen Gómez,82,NA,La Molina,Vacunación,29/04/2018,
+P02970,Miguel Ramos,174,F,Miraflores,,17/09/2028,0
+P01963,Carlos Pérez,83,F,Comas,Cardiología,06/08/2021,518.17
+P00153,María Gómez,,NA,San Isidro,Pediatría,13/06/2023,638.81
+P02910,Pedro Ruiz,-8,M,Surco,Emergencia,18/01/2028,701.65
+P00788,Pedro Torres,30,F,Miraflores,Vacunación,02/05/2020,874.6
+P02097,Carlos Fernández,13,M,Lince,Vacunación,18/04/2025,757.54
+P01376,Carlos Ruiz,65,M,NA,Emergencia,08/02/2018,896.74
+P01087,Miguel Flores,69,M,Miraflores,,09/05/2023,776.94
+P00472,Luis Pérez,44,,Comas,Rayos X,20/10/2019,246.54
+P02496,Carmen Flores,74,F,Surco,NA,28/09/2024,617.19
+P01709,Ana Mendoza,51,M,Lince,Vacunación,NA,242.49
+P02493,Pedro Ramos,60,F,Surco,Odontología,02/11/2020,96.63
+P01322,Lucía Pérez,60,NA,Surco,NA,17/07/2018,815.7
+P02423,Luis Flores,43,M,San Isidro,Rayos X,19/05/2024,809.51
+P02200,Carlos Castillo,58,NA,Lince,Consulta General,09/12/2022,847.17
+P01566,Rosa Castillo,78,NA,San Isidro,Odontología,21/12/2025,652.66
+P00464,Ana Flores,73,M,Callao,Emergencia,20/01/2018,466.46
+P02291,José Pérez,57,M,Lince,Rayos X,07/10/2019,957.07
+P01708,Lucía Ruiz,15,,Surco,Emergencia,13/08/2022,979.24
+P02811,Luis Mendoza,31,M,Lince,Cardiología,13/10/2020,595.26
+P01276,Patricia Castillo,75,M,Lince,Odontología,19/09/2022,348.46
+P01100,Rosa Flores,NA,M,San Isidro,,04/07/2019,NA
+P01994,Javier Gómez,24,NA,Surco,Pediatría,27/06/2020,845.43
+P00288,Patricia Flores,1,F,San Isidro,NA,NA,151.88
+P00702,Luis Torres,8,F,La Molina,Consulta General,23/01/2022,249.84
+P02119,María Torres,3,F,,NA,22/11/2024,231.81
+P00158,José Castillo,70,F,La Molina,Emergencia,01/12/2023,159.09
+P01196,NA,48,M,La Molina,Cardiología,13/08/2018,730.41
+P02504,Patricia Castillo,49,NA,Comas,Odontología,04/01/2024,120.94
+P01072,Javier Torres,88,M,Miraflores,Pediatría,13/02/2020,285.73
+P00674,Ana Castillo,86,M,Lince,Vacunación,30/11/2020,798.49
+P00016,María Torres,77,M,San Isidro,Vacunación,30/12/2022,697.48
+P01947,Javier Torres,28,NA,,Cardiología,05/06/2021,978.88
+P00698,Ana Pérez,73,NA,Surco,Emergencia,20/01/2018,904.84
+P01197,Miguel Torres,44,NA,Comas,Odontología,22/08/2023,622.88
+P02630,Rosa Torres,17,M,Lince,Emergencia,16/04/2022,110.09
+P01649,NA,69,F,Callao,NA,26/08/2025,158.67
+P02629,Javier Flores,61,M,Callao,Vacunación,NA,559.3
+P02752,Lucía Vargas,40,M,Miraflores,Pediatría,03/05/2022,766.91
+P00882,Carlos Ruiz,55,NA,Miraflores,Cardiología,26/12/2025,154.35
+P02936,Pedro Ruiz,0,M,Lince,Pediatría,08/07/2030,752.3
+P02510,Patricia Flores,76,NA,San Isidro,NA,01/12/2019,510.59
+P02918,Javier Mendoza,146,M,Callao,Emergencia,09/06/2029,-50
+P01668,NA,74,NA,NA,Consulta General,29/12/2023,401.27
+P02700,María Torres,69,M,Surco,Odontología,08/04/2022,
+P00514,Rosa Flores,80,F,La Molina,NA,05/06/2025,314.5
+P02748,Carmen Fernández,,F,San Isidro,Vacunación,27/05/2021,855.51
+P01679,Carlos Castillo,45,NA,Surco,Cardiología,20/09/2023,297.97
+P01282,María Vargas,42,F,NA,Consulta General,24/11/2018,128.91
+P02719,Patricia Castillo,24,F,Surco,,27/01/2024,624.94
+P02255,Ana Gómez,55,NA,NA,Odontología,17/11/2022,NA
+P00505,Ana Ruiz,5,M,Callao,,12/05/2024,327.97
+P00632,Pedro Mendoza,41,M,Surco,NA,23/02/2021,73.26
+P01834,Carmen Flores,84,F,San Isidro,NA,13/09/2019,626.0
+P02321,Carlos Flores,30,,San Isidro,Pediatría,NA,253.85
+P01221,Luis Ramos,,M,Miraflores,Emergencia,09/07/2018,69.21
+P00338,NA,29,NA,Lince,Consulta General,07/12/2025,427.64
+P01054,Rosa Torres,6,F,Comas,Emergencia,16/08/2025,NA
+P02567,Carmen Torres,11,NA,Callao,NA,28/11/2023,802.77
+P02655,Miguel Torres,55,F,San Isidro,Pediatría,11/03/2020,581.35
+P00769,Patricia Fernández,53,M,Lince,Consulta General,21/07/2019,417.74
+P02955,Ana Fernández,-18,F,Callao,Vacunación,13/04/2031,105.68
+P02759,María Mendoza,49,M,Lince,Consulta General,07/12/2020,949.97
+P00086,Carlos Mendoza,67,M,Comas,Emergencia,27/05/2025,283.98
+P00436,Pedro Mendoza,90,F,San Isidro,Consulta General,28/03/2021,283.22
+P01136,Luis Gómez,76,M,NA,NA,14/08/2025,
+P00668,María Flores,66,M,Surco,Cardiología,16/08/2022,
+P01847,Rosa Ruiz,61,F,Callao,Vacunación,02/09/2018,666.66
+P01840,Javier Ruiz,25,NA,Lince,Cardiología,23/07/2023,NA
+P00502,Luis Torres,66,M,La Molina,Cardiología,03/04/2023,263.07
+P02973,Miguel Ruiz,-16,F,Lince,Rayos X,14/04/2028,211.03
+P00398,Rosa Fernández,1,NA,Lince,Odontología,03/08/2020,607.18
+P02190,Miguel Gómez,49,NA,San Isidro,Vacunación,04/01/2021,315.66
+P01366,Carmen Flores,44,F,San Isidro,Consulta General,02/06/2021,687.01
+P00206,Carmen Gómez,69,NA,San Isidro,Cardiología,22/04/2020,499.72
+P00167,Luis Torres,17,F,Surco,NA,13/08/2022,612.98
+P01890,Carlos Ramos,2,NA,Callao,Consulta General,26/04/2025,
+P02576,Carmen Ramos,13,F,NA,Vacunación,09/12/2018,441.22
+P02531,Patricia Vargas,35,NA,Lince,Cardiología,11/04/2024,939.59
+P01792,Lucía Flores,39,NA,Surco,NA,10/10/2022,941.06
+P01066,Javier Mendoza,40,M,Surco,Cardiología,21/11/2023,260.14
+P00014,Ana Pérez,22,F,Callao,NA,28/10/2024,743.4
+P01900,José Ruiz,76,F,La Molina,Consulta General,28/03/2021,675.46
+P01806,Patricia Vargas,22,NA,Lince,NA,,620.99
+P00003,María Flores,19,F,NA,NA,15/06/2023,340.18
+P00356,Rosa Fernández,90,M,Surco,Rayos X,26/10/2020,NA
+P02745,Luis Castillo,7,M,La Molina,NA,23/05/2019,643.0
+P01512,Lucía Pérez,79,M,Callao,Cardiología,15/10/2022,263.06
+P01534,Luis Ramos,27,NA,,Emergencia,11/03/2020,384.81
+P00618,Miguel Mendoza,26,F,Comas,Vacunación,26/01/2022,195.81
+P00408,Rosa Gómez,40,NA,La Molina,Cardiología,12/09/2025,827.7
+P02086,,73,M,Surco,NA,07/07/2025,NA
+P00429,María Gómez,12,M,San Isidro,,19/08/2019,889.98
+P02503,NA,NA,M,NA,,15/04/2018,155.02
+P00179,Ana Torres,53,M,Lince,NA,18/03/2023,655.63
+P02490,Patricia Fernández,59,M,Miraflores,Vacunación,01/07/2019,86.58
+P00180,Carmen Vargas,33,NA,NA,,19/09/2025,34.62
+P02331,Patricia Vargas,37,F,Lince,,19/04/2019,163.58
+P00131,Lucía Mendoza,44,NA,,NA,10/01/2022,539.76
+P00130,Javier Ramos,63,NA,Surco,Odontología,19/05/2025,359.83
+P00776,Ana Fernández,79,NA,NA,Consulta General,19/04/2023,637.93
+P01067,Rosa Fernández,,F,San Isidro,Pediatría,15/12/2025,49.33
+P01133,Javier Torres,77,NA,NA,NA,01/03/2022,882.78
+P01790,Miguel Ramos,81,F,NA,Pediatría,28/02/2021,352.99
+P01213,Miguel Flores,21,NA,Surco,NA,23/07/2018,283.28
+P00974,Javier Castillo,46,F,Callao,Rayos X,05/06/2023,279.47
+P02304,Luis Fernández,11,NA,Comas,Emergencia,28/08/2020,852.24
+P00777,Pedro Fernández,23,,Callao,Odontología,06/10/2018,331.0
+P02794,Ana Torres,33,NA,La Molina,Emergencia,21/02/2025,129.37
+P01904,Carmen Castillo,32,NA,Comas,Odontología,10/07/2024,171.81
+P02884,Rosa Fernández,187,F,NA,,06/09/2029,0
+P01547,José Vargas,86,NA,Miraflores,Vacunación,29/03/2020,411.69
+P00264,Patricia Pérez,66,NA,San Isidro,Vacunación,04/08/2023,179.42
+P00971,María Ruiz,32,F,Miraflores,Rayos X,15/05/2019,808.02
+P01812,Javier Ruiz,17,NA,Surco,Consulta General,17/11/2019,906.28
+P02758,Luis Torres,11,F,San Isidro,Cardiología,20/04/2019,543.39
+P02892,Miguel Fernández,-8,NA,La Molina,Otro,09/10/2029,-50
+P01358,Carmen Vargas,32,NA,San Isidro,,03/06/2022,279.8
+P00248,Ana Ramos,53,M,Surco,Cardiología,26/09/2018,261.64
+P00401,José Torres,2,NA,Callao,Odontología,28/10/2020,150.2
+P02414,Rosa Ruiz,77,F,NA,Cardiología,12/04/2022,936.85
+P02460,José Fernández,24,M,Lince,Pediatría,23/04/2024,575.83
+P01302,María Fernández,15,F,San Isidro,Pediatría,01/01/2018,853.61
+P00494,Miguel Vargas,41,NA,La Molina,Odontología,27/03/2018,NA
+P00483,Luis Pérez,55,F,Lince,Cardiología,14/05/2025,966.09
+P02656,Ana Mendoza,75,NA,Callao,Vacunación,27/08/2023,412.77
+P01446,José Fernández,24,M,Comas,Consulta General,12/05/2021,724.05
+P02418,Pedro Ramos,78,F,Surco,Consulta General,29/07/2022,355.79
+P02210,Patricia Pérez,32,M,Comas,Emergencia,25/07/2024,67.18
+P02839,José Pérez,77,NA,Comas,Consulta General,30/12/2024,67.29
+P00564,Carmen Fernández,88,F,San Isidro,NA,17/10/2022,547.4
+P01074,Javier Torres,15,F,NA,Consulta General,08/10/2018,657.52
+P02698,Lucía Ruiz,15,F,Lince,Pediatría,30/04/2020,210.61
+P02374,NA,50,F,NA,Consulta General,02/08/2018,122.0
+P00865,Carlos Gómez,16,F,La Molina,Odontología,07/09/2019,155.21
+P02611,José Ramos,63,NA,NA,NA,17/01/2019,983.3
+P01830,Javier Fernández,52,F,La Molina,,24/08/2025,67.48
+P01130,José Flores,42,F,Surco,Emergencia,03/08/2021,123.88
+P02274,Carlos Pérez,12,,NA,Odontología,27/12/2024,707.87
+P02157,Luis Vargas,71,F,Miraflores,NA,09/10/2020,600.03
+P01565,Rosa Pérez,36,F,La Molina,Consulta General,28/09/2025,NA
+P02453,Miguel Torres,52,M,Surco,NA,23/10/2022,373.92
+P02364,Miguel Pérez,70,F,Surco,Emergencia,31/07/2019,NA
+P00942,Patricia Torres,5,F,San Isidro,Odontología,10/05/2024,471.89
+P01367,María Castillo,50,F,Lince,Rayos X,28/04/2023,624.83
+P00015,Rosa Ruiz,76,NA,La Molina,Odontología,24/02/2023,789.49
+P00888,Pedro Ruiz,44,M,Lince,NA,03/03/2024,343.47
+P02155,Rosa Vargas,72,F,Comas,NA,02/03/2023,293.69
+P00495,Pedro Mendoza,33,M,San Isidro,Emergencia,31/03/2018,286.2
+P00597,María Torres,80,NA,Callao,Pediatría,26/06/2023,303.42
+P01341,Ana Pérez,13,NA,Lince,Rayos X,29/01/2018,566.45
+P02924,José Fernández,132,X,Miraflores,Vacunación,30/05/2033,0
+P02431,Luis Gómez,87,NA,Comas,Cardiología,07/06/2019,353.25
+P02152,Luis Vargas,1,M,NA,Emergencia,27/10/2022,91.75
+P01368,Carmen Flores,2,NA,La Molina,Consulta General,22/08/2022,554.17
+P01738,Pedro Ramos,32,NA,NA,Rayos X,28/06/2022,923.62
+P01924,Ana Torres,61,F,La Molina,Pediatría,11/04/2024,974.09
+P01199,Luis Ramos,65,F,NA,Rayos X,04/06/2025,764.37
+P02080,Javier Ruiz,69,F,Miraflores,NA,24/06/2022,821.85
+P01889,,33,F,San Isidro,Emergencia,23/03/2019,194.65
+P00760,Carlos Ramos,34,F,NA,Pediatría,09/05/2023,996.82
+P02932,Miguel Fernández,-15,NA,NA,Rayos X,20/07/2034,0
+P00492,Pedro Gómez,41,M,Surco,Vacunación,11/04/2021,105.93
+P01487,Rosa Mendoza,57,M,Comas,Emergencia,15/04/2024,89.21
+P00869,María Flores,54,F,Comas,NA,03/01/2022,793.75
+P00928,Javier Ramos,78,F,Comas,Odontología,13/11/2024,826.17
+P00670,Javier Castillo,8,F,San Isidro,NA,24/03/2025,383.34
+P00560,Lucía Ruiz,50,M,Comas,Odontología,NA,588.3
+P00153,María Gómez,,NA,San Isidro,Pediatría,13/06/2023,638.81
+P01623,Luis Pérez,81,F,Lince,Cardiología,15/03/2024,536.92
+P01024,Luis Fernández,5,NA,Surco,Vacunación,05/09/2025,942.91
+P02156,Javier Fernández,84,M,La Molina,Vacunación,18/12/2019,561.47
+P02322,Pedro Torres,79,F,NA,Odontología,NA,NA
+P01088,Miguel Vargas,79,M,NA,NA,18/07/2018,663.38
+P02276,,69,NA,La Molina,NA,23/06/2018,305.78
+P01028,Patricia Gómez,,F,Miraflores,Vacunación,,551.78
+P00845,Carmen Ramos,1,NA,Callao,Cardiología,20/08/2023,518.21
+P00233,Javier Gómez,57,,Surco,Odontología,21/12/2019,191.16
+P01363,Luis Ramos,66,NA,Miraflores,Vacunación,24/10/2025,740.48
+P01052,Ana Mendoza,24,M,San Isidro,Odontología,28/02/2022,592.54
+P01497,Miguel Ruiz,,M,Lince,Pediatría,02/07/2025,932.84
+P02083,Javier Fernández,77,NA,Comas,NA,01/01/2018,941.41
+P02439,Ana Fernández,4,NA,NA,Pediatría,29/06/2025,272.78
+P01743,Carmen Torres,64,F,NA,NA,08/10/2020,342.54
+P01003,Rosa Gómez,90,M,Miraflores,Emergencia,05/05/2018,247.06
+P00920,María Castillo,2,M,Callao,Cardiología,04/10/2025,679.69
+P02124,Lucía Fernández,79,F,NA,Consulta General,15/05/2021,806.81
+P00598,Luis Fernández,76,NA,NA,Rayos X,12/10/2023,NA
+P01228,Ana Ruiz,64,M,NA,Vacunación,13/04/2025,724.01
+P02856,Miguel Fernández,-6,F,Desconocido,Pediatría,31/10/2027,-50
+P01454,Miguel Ramos,,F,San Isidro,Odontología,07/06/2019,91.6
+P01411,Luis Mendoza,,F,Callao,Pediatría,16/03/2020,933.1
+P02578,Miguel Castillo,37,F,San Isidro,NA,15/10/2025,730.5
+P02935,Rosa Ruiz,-15,F,La Molina,Rayos X,01/12/2029,328.87
+P00548,Javier Ruiz,77,NA,NA,NA,22/08/2022,191.39
+P01500,Miguel Mendoza,1,F,Callao,Pediatría,30/06/2021,789.39
+P02566,Rosa Castillo,76,M,San Isidro,Vacunación,11/08/2021,842.97
+P01991,Carlos Pérez,17,F,Lince,Consulta General,23/09/2022,296.55
+P00711,Lucía Fernández,12,F,Surco,Pediatría,02/11/2022,994.61
+P02652,Patricia Flores,76,M,,NA,07/03/2020,949.33
+P02999,Pedro Gómez,132,F,San Isidro,,08/04/2034,0
+P00572,Patricia Flores,83,M,Callao,Rayos X,06/09/2018,NA
+P01306,María Fernández,49,NA,San Isidro,Emergencia,30/05/2025,158.88
+P00304,Luis Flores,72,F,Miraflores,Odontología,NA,292.55
+P01220,Carmen Castillo,74,NA,Callao,Vacunación,09/07/2021,582.73
+P02579,Carlos Ruiz,4,M,Miraflores,Vacunación,NA,569.68
+P01610,Rosa Ramos,NA,F,San Isidro,Rayos X,16/11/2019,216.44
+P00656,Lucía Ramos,62,M,Lince,Odontología,12/07/2021,727.43
+P02063,Miguel Castillo,20,NA,NA,Emergencia,21/03/2022,733.77
+P00880,Rosa Gómez,79,F,Miraflores,Odontología,09/03/2022,124.08
+P01256,Rosa Flores,1,M,Miraflores,Odontología,29/03/2024,129.38
+P00843,Javier Gómez,15,F,Surco,Odontología,02/07/2021,675.51
+P00526,Patricia Flores,78,NA,Callao,Emergencia,15/03/2022,293.76
+P02346,Pedro Pérez,18,F,NA,Vacunación,NA,245.19
+P01304,Miguel Flores,45,M,NA,Emergencia,NA,71.92
+P02514,Patricia Flores,35,M,Miraflores,Rayos X,NA,190.59
+P01387,Ana Pérez,20,F,NA,NA,09/11/2021,989.98
+P01245,José Vargas,25,NA,La Molina,Rayos X,06/01/2021,417.76
+P01755,Carmen Vargas,46,NA,Lince,Cardiología,05/04/2025,614.14
+P02001,Miguel Pérez,9,NA,NA,NA,14/10/2022,310.44
+P02874,Javier Vargas,133,F,Desconocido,Pediatría,29/06/2034,0
+P00614,Lucía Ramos,32,M,Miraflores,NA,17/09/2018,645.78
+P00770,Javier Castillo,41,F,NA,Rayos X,11/07/2021,392.13
+P02246,Carmen Ruiz,27,,La Molina,Consulta General,14/12/2021,764.73
+P01501,Pedro Pérez,56,NA,NA,Emergencia,31/05/2023,837.99
+P02066,Miguel Ruiz,89,NA,Surco,Consulta General,14/01/2019,230.19
+P00336,Rosa Fernández,12,M,Surco,Rayos X,04/04/2019,806.95
+P00575,Miguel Castillo,75,NA,Miraflores,Vacunación,NA,686.94
+P00753,Carlos Flores,11,M,Callao,Pediatría,11/02/2025,974.23
+P01314,Carlos Flores,27,M,La Molina,Pediatría,12/12/2024,310.41
+P01917,Luis Flores,52,F,NA,NA,27/08/2020,951.33
+P00052,José Vargas,89,NA,La Molina,Rayos X,10/02/2024,
+P01235,Carlos Gómez,28,M,Surco,Rayos X,25/05/2018,359.1
+P01848,Carmen Vargas,37,F,Miraflores,Odontología,29/09/2022,873.73
+P01905,Rosa Castillo,73,NA,Comas,Emergencia,04/03/2021,457.76
+P01602,Miguel Fernández,56,NA,San Isidro,NA,03/04/2022,266.05
+P02565,Carlos Gómez,62,NA,NA,Consulta General,25/05/2025,NA
+P02004,Carmen Castillo,3,NA,La Molina,Odontología,NA,711.11
+P02973,Luis Mendoza,127,NA,Miraflores,Consulta General,22/07/2032,565.57
+P02588,José Castillo,33,M,,Emergencia,15/02/2024,585.22
+P00534,Patricia Ruiz,4,F,Miraflores,Emergencia,16/01/2020,753.77
+P02252,Lucía Ramos,3,F,Lince,NA,05/05/2025,431.79
+P01879,Rosa Flores,14,M,Surco,Rayos X,26/01/2021,878.9
+P01764,Carlos Fernández,73,M,San Isidro,Pediatría,09/07/2025,733.64
+P00215,José Ruiz,17,M,Miraflores,Emergencia,07/06/2019,823.73
+P00315,José Vargas,85,NA,Surco,Odontología,08/06/2021,604.81
+P00714,Patricia Torres,65,F,Lince,Pediatría,03/06/2024,521.15
+P02735,María Mendoza,1,F,San Isidro,Emergencia,12/02/2020,561.1
+P00465,Javier Fernández,44,F,Miraflores,Cardiología,15/06/2020,380.69
+P00801,,77,F,NA,Rayos X,14/11/2025,672.76
+P01332,Ana Mendoza,84,F,Callao,Pediatría,25/10/2024,NA
+P00192,Ana Mendoza,42,,Miraflores,Emergencia,11/04/2025,891.96
+P01410,Javier Mendoza,11,NA,San Isidro,Cardiología,06/10/2023,86.73
+P00077,Rosa Mendoza,73,M,NA,Pediatría,12/03/2020,112.82
+P01470,Patricia Flores,37,M,Callao,Vacunación,25/12/2018,442.35
+P02700,María Torres,69,M,Surco,Odontología,08/04/2022,
+P02619,Patricia Ruiz,23,M,NA,Emergencia,05/11/2024,NA
+P00536,Javier Ruiz,6,M,La Molina,NA,,720.13
+P00503,Patricia Ramos,60,M,Surco,Cardiología,08/02/2021,566.95
+P01103,María Vargas,68,F,NA,Emergencia,06/08/2019,331.89
+P02301,Rosa Vargas,23,NA,Lince,Consulta General,12/12/2024,340.92
+P00649,Carlos Gómez,21,M,NA,Consulta General,29/03/2025,607.67
+P01310,José Vargas,4,M,La Molina,Pediatría,28/04/2024,807.52
+P00292,,78,M,La Molina,Odontología,06/12/2021,623.42
+P02541,Lucía Torres,56,F,La Molina,NA,28/10/2021,468.69
+P02958,Ana Castillo,-7,NA,NA,Vacunación,03/03/2028,914.62
+P00504,Javier Flores,4,M,NA,Emergencia,16/04/2023,381.01
+P00471,Luis Fernández,72,F,Comas,Cardiología,25/01/2018,366.12
+P00664,Miguel Fernández,47,F,Surco,Odontología,10/07/2023,375.42
+P00261,Ana Pérez,7,NA,La Molina,Emergencia,21/07/2025,244.97
+P01522,Carmen Pérez,15,F,Surco,Rayos X,31/01/2018,183.58
+P01995,Ana Gómez,58,F,Callao,Odontología,12/01/2023,86.13
+P01089,Pedro Torres,50,M,Callao,Consulta General,28/04/2021,446.96
+P02986,María Vargas,134,X,Surco,Odontología,07/06/2029,222.52
+P02067,Miguel Fernández,1,NA,Comas,NA,11/12/2018,756.5
+P01928,Pedro Mendoza,24,F,NA,Consulta General,25/09/2024,218.68
+P00559,Javier Vargas,54,M,Comas,Odontología,26/12/2023,857.96
+P00891,Miguel Pérez,85,M,Lince,Vacunación,04/07/2018,785.03
+P00969,Rosa Mendoza,NA,M,La Molina,NA,27/07/2024,263.36
+P00359,Rosa Flores,34,NA,Surco,Odontología,21/02/2018,865.18
+P01401,Patricia Flores,41,M,Surco,Consulta General,15/03/2025,231.29
+P02193,José Gómez,69,M,San Isidro,Cardiología,06/04/2019,364.02
+P01331,Carmen Castillo,50,M,San Isidro,Vacunación,28/03/2023,176.1
+P01553,Rosa Fernández,75,NA,La Molina,Pediatría,03/05/2024,591.47
+P01391,Miguel Ramos,86,M,Surco,Cardiología,08/11/2024,580.72
+P01144,Lucía Vargas,28,NA,Miraflores,Vacunación,30/01/2018,567.32
+P00581,Luis Vargas,21,NA,Miraflores,Odontología,18/06/2024,23.48
+P02747,Lucía Gómez,64,NA,Surco,Odontología,13/11/2023,717.81
+P01117,María Flores,53,NA,Lince,Cardiología,02/05/2018,997.19
+P02333,José Mendoza,28,M,La Molina,Rayos X,21/09/2022,956.07
+P01462,María Castillo,29,F,Surco,Odontología,04/03/2020,576.62
+P00866,Carlos Pérez,NA,M,Callao,Odontología,20/06/2018,736.03
+P02182,Carmen Vargas,48,F,Surco,Pediatría,20/11/2021,NA
+P00066,Carlos Ruiz,19,M,NA,Pediatría,23/12/2020,774.18
+P01724,Carmen Mendoza,19,F,San Isidro,Cardiología,30/09/2019,672.04
+P00593,Lucía Mendoza,78,M,Lince,Vacunación,01/09/2019,682.34
+P01010,Javier Pérez,32,NA,Comas,Emergencia,,809.84
+P01437,NA,62,NA,Surco,Pediatría,01/10/2019,448.27
+P02675,Miguel Vargas,85,NA,Surco,Cardiología,NA,243.78
+P02743,Miguel Torres,,M,,Vacunación,02/12/2020,941.39
+P02897,Miguel Mendoza,-15,X,San Isidro,Pediatría,17/09/2027,-50
+P01630,José Gómez,48,NA,Miraflores,NA,NA,105.94
+P00353,NA,NA,F,San Isidro,Cardiología,18/11/2019,794.7
+P01817,Carmen Ramos,17,M,La Molina,NA,26/04/2019,697.42
+P00937,Ana Fernández,75,NA,NA,Odontología,28/07/2022,710.76
+P02550,Ana Fernández,74,NA,Lince,Pediatría,29/01/2019,110.01
+P00378,Ana Pérez,72,NA,Lince,Vacunación,28/06/2025,NA
+P00246,Carmen Mendoza,43,M,Lince,Emergencia,20/03/2025,428.87
+P02196,Lucía Flores,55,M,San Isidro,NA,14/11/2018,355.92
+P02665,Javier Flores,69,F,NA,Consulta General,23/10/2023,861.42
+P01613,Patricia Pérez,85,NA,NA,Emergencia,14/09/2019,NA
+P01923,NA,79,F,NA,Pediatría,13/11/2023,637.54
+P02405,Lucía Castillo,32,F,Miraflores,Pediatría,05/10/2023,494.17
+P01035,Ana Castillo,75,F,La Molina,Pediatría,NA,884.4
+P00036,Javier Ramos,55,F,Lince,Consulta General,01/10/2018,190.97
+P01284,Carmen Fernández,4,M,Lince,Odontología,07/06/2024,340.35
+P00987,Patricia Torres,89,M,San Isidro,NA,25/02/2023,698.8
+P00821,Javier Pérez,41,NA,Callao,Consulta General,23/09/2019,594.73
+P01056,Lucía Mendoza,75,NA,La Molina,Emergencia,30/07/2023,433.45
+P02670,Carmen Fernández,54,F,NA,Odontología,10/06/2020,NA
+P00394,Carlos Ruiz,1,M,San Isidro,Odontología,02/02/2024,707.92
+P02645,Carmen Gómez,22,NA,Lince,NA,02/04/2019,372.52
+P02935,Carmen Mendoza,0,X,Lince,Pediatría,27/05/2028,80.8
+P01373,Ana Vargas,70,F,Surco,Emergencia,10/12/2022,960.56
+P01907,Luis Gómez,43,M,La Molina,NA,01/12/2018,852.98
+P00532,José Mendoza,57,M,La Molina,NA,30/07/2024,269.7
+P00392,Carmen Vargas,90,NA,Miraflores,NA,03/03/2020,803.29
+P01273,Carmen Vargas,8,F,NA,Pediatría,25/10/2025,362.32
+P02361,Pedro Pérez,58,NA,,Consulta General,05/02/2019,195.83
+P01137,María Castillo,78,M,Surco,Emergencia,26/03/2023,388.51
+P02008,Javier Ramos,63,NA,Lince,Pediatría,16/06/2023,246.53
+P00174,María Ramos,49,M,Callao,Pediatría,,140.3
+P01451,,58,M,La Molina,Vacunación,01/09/2021,480.94
+P02892,Rosa Torres,141,F,Comas,Cardiología,29/06/2033,-50
+P01315,Rosa Vargas,3,NA,San Isidro,Vacunación,30/06/2019,679.62
+P02857,Lucía Fernández,-16,X,Lince,Cardiología,08/09/2027,772.64
+P00089,Lucía Vargas,,M,San Isidro,Consulta General,29/01/2022,228.19
+P00742,Javier Mendoza,71,NA,,NA,13/03/2020,587.17
+P01038,Ana Castillo,30,F,La Molina,Consulta General,15/01/2021,854.41
+P01289,María Fernández,54,F,Surco,NA,17/07/2018,828.33
+P01612,Miguel Ruiz,28,NA,Callao,Odontología,17/05/2021,865.57
+P00183,Miguel Ruiz,78,NA,La Molina,NA,07/10/2020,259.01
+P02057,Carlos Flores,68,M,Lince,Rayos X,09/06/2023,849.8
+P00142,José Ruiz,41,F,Comas,Pediatría,21/10/2020,629.44
+P02104,José Flores,10,F,,Cardiología,03/09/2020,116.04
+P02260,Javier Vargas,60,M,La Molina,Rayos X,29/06/2022,913.73
+P02232,Miguel Ramos,87,F,NA,Emergencia,08/12/2020,485.48
+P00404,Ana Castillo,54,NA,Comas,Emergencia,25/02/2024,54.49
+P00722,Lucía Vargas,67,NA,San Isidro,NA,13/04/2019,136.85
+P02691,Patricia Torres,66,NA,Callao,NA,25/07/2024,291.14
+P00582,María Torres,44,F,San Isidro,Odontología,01/02/2024,463.17
+P01871,Carmen Mendoza,12,F,Comas,Cardiología,17/07/2019,903.28
+P00247,Carmen Mendoza,81,F,San Isidro,Odontología,29/08/2024,416.06
+P01703,María Ruiz,30,F,Callao,Consulta General,07/05/2020,133.56
+P01478,Rosa Ramos,36,,San Isidro,Vacunación,22/08/2021,869.36
+P01058,Carlos Pérez,54,M,Surco,Consulta General,21/03/2020,63.75
+P01798,José Ruiz,53,NA,Comas,NA,28/08/2022,457.29
+P01015,Pedro Mendoza,59,M,San Isidro,Cardiología,25/10/2018,269.34
+P02732,Miguel Pérez,32,M,Miraflores,Cardiología,24/10/2021,421.49
+P00111,NA,69,NA,San Isidro,Cardiología,17/04/2024,917.9
+P02173,Carlos Fernández,72,F,Callao,Odontología,10/04/2022,925.7
+P01983,Luis Ruiz,89,M,NA,Emergencia,29/11/2022,426.54
+P01069,Miguel Gómez,76,M,Lince,Odontología,19/03/2019,739.52
+P02040,Pedro Vargas,36,F,Lince,Rayos X,13/05/2022,914.97
+P01990,Carlos Fernández,27,M,Comas,Vacunación,08/02/2022,482.68
+P01886,Rosa Ramos,78,F,,NA,11/12/2022,232.15
+P00927,Rosa Castillo,45,F,Comas,Cardiología,30/11/2022,321.6
+P02328,Rosa Torres,47,F,Surco,Emergencia,17/04/2021,528.02
+P02134,Luis Ruiz,82,F,Callao,Vacunación,26/07/2024,247.87
+P01949,Patricia Vargas,85,M,Surco,Vacunación,02/03/2025,496.59
+P02050,,61,NA,Lince,Vacunación,25/09/2024,281.31
+P02250,Carlos Vargas,70,,NA,Vacunación,08/10/2019,623.03
+P02497,Ana Gómez,43,,Miraflores,Vacunación,04/07/2019,290.85
+P01466,María Ramos,29,M,NA,Vacunación,14/12/2020,742.46
+P01456,Patricia Castillo,56,F,NA,Cardiología,15/05/2024,773.8
+P01433,Pedro Vargas,34,NA,Surco,Cardiología,09/04/2022,791.71
+P00839,Pedro Pérez,65,F,Comas,Odontología,11/09/2023,154.6
+P00678,Ana Castillo,13,M,San Isidro,Pediatría,07/09/2022,462.34
+P01546,Ana Gómez,71,NA,Surco,Cardiología,27/10/2022,62.03
+P02896,Carlos Mendoza,126,M,Surco,Odontología,02/11/2033,-50
+P02980,Rosa Ruiz,136,NA,Callao,Pediatría,07/09/2033,0
+P00115,Javier Ruiz,81,F,Callao,Rayos X,14/12/2024,329.02
+P01354,Rosa Vargas,73,F,Miraflores,Emergencia,14/06/2020,162.63
+P00893,Miguel Ruiz,82,M,La Molina,Pediatría,13/01/2022,794.95
+P02125,Patricia Ramos,36,NA,,Emergencia,11/09/2019,378.63
+P01402,José Ruiz,16,F,Surco,Odontología,28/06/2021,701.45
+P00278,NA,63,F,San Isidro,Odontología,24/03/2022,288.93
